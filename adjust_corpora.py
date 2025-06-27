@@ -123,4 +123,6 @@ habl/ar/e
 Things to work on: 
 Finding and getting rid of plurals
 
+allowing for multiple slashes. especially for words like xijito that need multiple splits
+
 '''
