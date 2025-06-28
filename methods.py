@@ -196,60 +196,15 @@ def infinitive_break(corpus, pos_list, break_off_amount, can_be_stem = False, ex
             punctuation_suffix = token[len(base_word):]
 
             for stem in stem_list: 
-                if (token.startswith(stem) and len(token) > len(stem) and not 
-                    can_be_stem and '/' not in token):
-
+                if (token.startswith(stem) and len(token) > len(stem) and not can_be_stem
+                    and '/' not in token):
                     suffix = base_word[len(stem):]
                     
-                    infinitive_suffixes = ['ar', 'er', 'ir']
-                    attached_pronouns = ['les', 'los', 'me', 'te', 'se', 'nos', 'os', 'le', 'lo', 'la', ]
+                    # verb - certain conjugation (-ando, -a, -e, -i, or infinitive), + indirect and or direct
+                    # or verb infinitive + a, e, as, amos, for future
+                    # if has ita right after stem make a split there and then check if ends with s and go from there
 
-                    infinitive_ending = ""
-                    for inf_suf in infinitive_suffixes:
-                        if suffix.startswith(inf_suf):
-                            infinitive_ending = inf_suf
-                            break
-
-                    if infinitive_ending:
-                        remainder_part = suffix[len(infinitive_ending):]
-                        
-                        new_word = "" 
-                        pronoun_was_found = False
-
-                        if remainder_part:
-                            for pronoun in attached_pronouns:
-                                if remainder_part.startswith(pronoun):
-                                    first_pronoun = pronoun
-                                    final_segment = remainder_part[len(first_pronoun):]
-
-                                    parts = [stem, infinitive_ending, first_pronoun]
-                                    
-                                    if final_segment:
-                                        parts.append(final_segment)
-                                    
-
-
-                                    new_word = "/".join(parts)
-                                    if new_word.endswith('s'):
-                                        new_word = new_word[:-1] + '/s'
-                                    print("NEW WORD: ", new_word)
-                                    pronoun_was_found = True
-                                    break 
-
-                        if not pronoun_was_found:
-                            new_word = f"{stem}/{infinitive_ending}"
-
-                        if new_word not in exceptions:
-                            slashed_words.append(new_word)
-                            # break
-                        else: 
-                            new_word = base_word
-
-                    
-
-
-                    if not infinitive_ending:
-                        new_word = f"{stem}/{suffix}"
+                    new_word = f"{stem}/{suffix}"
                     if new_word not in exceptions:
                     # print("NEW WORD: ", new_word)
                         slashed_words.append(new_word)
