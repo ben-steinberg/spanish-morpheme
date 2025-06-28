@@ -22,18 +22,41 @@ modified_corpus = corpus
 # for morpheme, choice_array in cases.items():
 #     find_endings(modified_corpus, morpheme)
 #     modified_corpus = simple_add_slashes(modified_corpus, morpheme, False, choice_array)
-    
 
-modified_corpus = infinitive_break(modified_corpus, other_pos_list, 1, False)
 
-modified_corpus = infinitive_break(modified_corpus, regular_verb_list, 2, False, all_invalid)
+modified_corpus = infinitive_break(modified_corpus, other_pos_list, 1)
+
+modified_corpus = infinitive_break(modified_corpus, regular_verb_list, 2, all_invalid)
+
+# find_endings(modified_corpus, 'ita')
+modified_corpus = simple_add_slashes(modified_corpus, 'ita', True, [], 'it/a')
+
+# find_endings(modified_corpus, 'ito')
+modified_corpus = simple_add_slashes(modified_corpus, 'ito', True, [], 'it/o')
+
+# find_endings(modified_corpus, 'itas')
+modified_corpus = simple_add_slashes(modified_corpus, 'itas', True, [], 'it/a/s')
+
+# find_endings(modified_corpus, 'itos')
+modified_corpus = simple_add_slashes(modified_corpus, 'itos', True, [], 'it/o/s')
+
+# find_endings(modified_corpus, 'a')
+# modified_corpus = simple_add_slashes(modified_corpus, 'a')
+
+# find_endings(modified_corpus, 'o')
+# modified_corpus = simple_add_slashes(modified_corpus, 'a')
+
+# find_endings(modified_corpus, 's')
+# modified_corpus = simple_add_slashes(modified_corpus, 'a')
+
+
 
 # print(count_words(modified_corpus, False))
 
 # find_endings(modified_corpus, 's')
 
 
-# show_slashed(modified_corpus, path)
+show_slashed(modified_corpus, path)
 
 see_percentage_checked(modified_corpus, True)
 

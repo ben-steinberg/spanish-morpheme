@@ -71,10 +71,13 @@ def show_slashed(corpus, path):
         for word in sorted(list(set(non_slashed))):
             file.write(word + '\n')
 
-def simple_add_slashes(corpus, morpheme, using_exceptions=True, choice_array=[]):
+def simple_add_slashes(corpus, morpheme, using_exceptions=True, choice_array=[], replaced_morpheme = ''):
     '''
     Use case for this is when it is a simple addition of /, or with exceptions or specific cases
     '''
+
+    if replaced_morpheme == '':
+        replaced_morpheme = morpheme
 
     new_corpus = []
     for line in corpus:
@@ -94,17 +97,25 @@ def simple_add_slashes(corpus, morpheme, using_exceptions=True, choice_array=[])
             if using_exceptions: 
 
                 if (base_word.endswith(morpheme) and len(base_word) > len(morpheme)
-                    and base_word not in choice_array and '/' not in base_word):
+                    and base_word not in choice_array): #  and '/' not in base_word
                     root = base_word[:-len(morpheme)]
-                    new_word = f"{root}/{morpheme}"
+                    if root.endswith('/'):
+                        new_word = f"{root}{replaced_morpheme}"
+                    else: 
+                        new_word = f"{root}/{replaced_morpheme}"
                 else:
                     new_word = base_word
 
             else: 
                 if (base_word.endswith(morpheme) and len(base_word) > len(morpheme) and not using_exceptions
-                  and base_word in choice_array and '/' not in base_word):
+                  and base_word in choice_array): #  and '/' not in base_word
                     root = base_word[:-len(morpheme)]
-                    new_word = f"{root}/{morpheme}"
+                    if root.endswith('/'):
+                        new_word = f"{root}{replaced_morpheme}"
+                    else:
+                        new_word = f"{root}/{replaced_morpheme}"
+
+                    
                 else:
                     new_word = base_word
 
@@ -175,7 +186,7 @@ def find_intersection(corpus, m1, m2):
 
     return intersection_array
 
-def infinitive_break(corpus, pos_list, break_off_amount, can_be_stem = False, exceptions = []):
+def infinitive_break(corpus, pos_list, break_off_amount, exceptions = []):
     # idea here is to use .startswith to break off the endings
     # potential problems would be words like ko.mo or verbs that have a stem change
     new_corpus = []
@@ -196,7 +207,7 @@ def infinitive_break(corpus, pos_list, break_off_amount, can_be_stem = False, ex
             punctuation_suffix = token[len(base_word):]
 
             for stem in stem_list: 
-                if (token.startswith(stem) and len(token) > len(stem) and not can_be_stem
+                if (token.startswith(stem) and len(token) > len(stem)
                     and '/' not in token):
                     suffix = base_word[len(stem):]
                     
@@ -204,20 +215,10 @@ def infinitive_break(corpus, pos_list, break_off_amount, can_be_stem = False, ex
                     # or verb infinitive + a, e, as, amos, for future
                     # if has ita right after stem make a split there and then check if ends with s and go from there
 
+
                     new_word = f"{stem}/{suffix}"
                     if new_word not in exceptions:
                     # print("NEW WORD: ", new_word)
-                        slashed_words.append(new_word)
-                        break
-                    else: 
-                        new_word = base_word
-
-                elif (token.startswith(stem) and len(token) >= len(stem) and can_be_stem
-                    and '/' not in token):
-                    suffix = base_word[len(stem):]
-                    new_word = f"{stem}/{suffix}"
-                    if new_word not in exceptions: 
-                        # print("NEW WORD: ", new_word)
                         slashed_words.append(new_word)
                         break
                     else: 
