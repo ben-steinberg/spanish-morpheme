@@ -11,6 +11,7 @@ B/3
 B/a
 B/ak-
 B/amosa
+B/as
 B/axo
 B/e
 B/e/te
@@ -41,7 +42,6 @@ Ba/mo/nos
 Ba/mos
 Ba/n
 Ba/rBariDaD
-Ba/s
 Ba/xamos
 Bes/it/o
 Bes/it/o/s
@@ -145,9 +145,6 @@ aGaR/a/lo
 aGaR/ar
 aGaR/e
 aGaR/o
-aReGl/ando
-aReGl/andu
-aReGl/ar
 ajuD/a/le
 ajuD/ar
 ajuD/as
@@ -168,6 +165,7 @@ as/erka/te
 as/es
 b-l/a
 b/#nes
+b/$no
 b/a
 b/amos
 b/as
@@ -327,7 +325,6 @@ kit/es
 kit/o
 koces/it/o
 kocin/it/o
-koj/ar
 kok/it/a
 kom/as
 kom/e
@@ -407,15 +404,14 @@ pares/e
 pas/a
 pas/a/me
 pas/ar
+pas/ear
+pas/eo
 pas/o
-pase/ar
-pase/o
 pat/it/o
 paxar/it/o
 peD/as/it/o
 peD/ir
 peD/r/it/o
-peD/ro
 peG/a
 peG/a/le
 peG/ar/le
@@ -480,7 +476,6 @@ s/%
 s/%n
 s/&
 s/&Bes/it/o
-s/*s
 s/3
 s/@
 s/a
@@ -504,7 +499,6 @@ s/eresa
 s/eresas
 s/e|or
 s/e|ora
-s/i
 s/iGo
 s/iNko
 s/ij/it/a/s
@@ -576,6 +570,8 @@ tap/it/a/s
 tap/itit/it/a
 tas/it/a
 tas/it/a/s
+teN/go
+teN/gu
 ten/dra
 ten/emos
 ten/ia

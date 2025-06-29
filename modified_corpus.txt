@@ -15,7 +15,7 @@ aora t* tamar
 d/i/le D/a/me/lo mama
 gras%s D/a/me el koce el koce
 ke k#r/es el koce el koc* la nena
-ke Ba/s a as/er
+ke B/as a as/er
 gras%s
 pum - en la naris
 pum pum
@@ -35,8 +35,8 @@ no
 k#r/es B/er el liBro
 mir/a mir/- tamar
 b/is/te la Baka
-s/e lo Ba/s a D/ar a karen tamb#n
-le Ba/s a D/ar las kosas a karen
+s/e lo B/as a D/ar a karen tamb#n
+le B/as a D/ar las kosas a karen
 aBer maGDalen/it/a Ba/mos a G&rD/ar est/os xuG/etes i Ba/mos a sak/ar otr/os
 oJe mir/a
 mir/a mir/a mir/a
@@ -81,7 +81,7 @@ ke pas/o
 ja
 ke mas k#r/es est/e
 est/e
-s/i ke mas Bes
+si ke mas Bes
 es/o
 es/o
 m! B#n
@@ -118,7 +118,7 @@ un/a toRe aBer tir/a/la
 tom/a
 aora le pon/emos asi
 te Gust/a
-s/i te Gust/a
+si te Gust/a
 pum
 s/e kajo
 otr/a Bes
@@ -282,7 +282,7 @@ g&rD/a el pojo
 te falt/a est/e
 ke
 s/e aBr/@
-s/i s/e aBr/#ron
+si s/e aBr/#ron
 asi k&lk#ra s/e reia
 jiji
 ja los B/a a Desas/er toD/os
@@ -302,7 +302,7 @@ un/a Baka mir/a m+ric@
 mu mu
 la Baka mu mu mir/a mir/a
 k&ntas kos/it/a/s
-mir/a peD/ro
+mir/a peDro
 - ke Bonit/o s/$nan ja B/is/te
 pon/lo aki
 d/a/me D/a/me D/a/me/lo D/a/me/lo D/a/me
@@ -352,9 +352,9 @@ mir/a maz$l s/e est/a tir/ando al aG&
 aBer aBer
 est/e mir/a mir/a ke est/a as/#ndo el mas G$ro kon el tan
 mir/a te Gust/o
-s/i
+si
 - te Gust/o
-s/i
+si
 - - - aBer aGaR/e B#n para B/er el liBro
 mir/a ke paDre est/a
 b/amos a sak/ar/los toD/os
@@ -395,7 +395,7 @@ el caNgo jam/an% jam/an% el caNgo mir/a
 s#nt/a/te jam/an%
 no lo k#r/e
 mir/a mir/a el caNgo mir/a
-s/i
+si
 mir/a
 pon/emos otr/o
 otr/o
@@ -404,7 +404,7 @@ mir/a
 aki ten/emos un/o % ki ten/emos otr/o
 ke poD/emos as/er kon est/o
 s#R/a/lo s#R/a/lo
-aBer Ba/mos aBer s/i s/e oJe
+aBer Ba/mos aBer si s/e oJe
 - ke Bonit/o s/e oJe aBer los mios
 b/amos aki
 k#r/es ke te ense|/e otr/os xuG/etes
@@ -428,7 +428,7 @@ d/a/se/lo a ej/a
 aki mir/a
 gras%s
 ja
-te ense o otr/os xuG/etes s/i
+te ense o otr/os xuG/etes si
 la ka/mpan/it/a B/is/te
 run
 -
@@ -448,8 +448,8 @@ le m$rDe la pansa le m$rDe la pansa
 donde est/a la Baka ja s/e f$ la Baka
 i p+la tamb#n
 mir/a aka est/a la Baka
-no lo Ba/s a Dorm/ir
-b$no jo B/3 a Dorm/ir al mono
+no lo B/as a Dorm/ir
+b/$no jo B/3 a Dorm/ir al mono
 axaxax
 tu k#r/es est/e
 te k#r/es est/e
@@ -458,9 +458,9 @@ miGelito ja B/is/te toD/o lo ke ten/emos aki
 mir/a
 mir/a
 pum s/e kajo
-- est/e ka/R/it/o s/e B/a s/e B/a a pase/ar
+- est/e ka/R/it/o s/e B/a s/e B/a a pas/ear
 oJe miGelito te ense|/o otr/os xuG/etes
-s/i
+si
 mir/a miGelin
 mir/a
 pupupu
@@ -489,7 +489,7 @@ mir/a
 ke k#r/es x$G/it/o/s
 mir/a mir/a kuBos
 tamb#n le aBl/o o ke
-s/i komo x$G/as kon el
+si komo x$G/as kon el
 mir/a BeBe
 mir/a xuG/etes
 mir/a
@@ -569,7 +569,7 @@ te Gust/a
 mir/a s/us s/apatos
 mir/a
 mir/a s/us oxos
-s/i
+si
 te Gust/a
 p$s ak# st/a mir/a
 mir/a
@@ -577,7 +577,7 @@ mir/a
 mir/a s/us oxos
 a mir/a
 mir/a s/us s/apatos te Gust/an
-s/i
+si
 mir/a
 mari
 komo le Disen
@@ -586,7 +586,7 @@ pero mas mari
 ola te Gust/a
 mir/a la mu|eka
 s/u Bes/tiDo te
-s/i
+si
 d/a/le un Bes/it/o
 k#r/es xuG/ar kon es/os
 o kon la mu|eka
@@ -667,7 +667,7 @@ mir/+ na Ba/k/it/a
 mir/a k&k&k&
 mir/+  paxar/it/o
 mir/a mir/a
-s/i mir/a ke es
+si mir/a ke es
 ke es
 el BeBe mir/a
 k#n es jolis jolis
@@ -680,12 +680,12 @@ mir/a
 mir/a jolis mir/a
 ten mir/a as/emos un/a toRe
 asi
-s/i
+si
 aB#nt/a/me/la
 aji te B/a
 mir/a Ba/mos a as/er un/a toRe mir/a
-s/i
-s/i
+si
+si
 no es/o no s/e kom/e
 no s/e kom/e
 no
@@ -703,7 +703,7 @@ g& G&
 mir/a
 mir/+ nos pelos paraDos komo los tuj/os
 mir/a
-aBer Ba/mos aBer ke mas - s/i
+aBer Ba/mos aBer ke mas - si
 beBe mir/a
 mir/+  kaRitu na Bisi
 mir/a el BeBe
@@ -714,11 +714,11 @@ un/o Dos tres
 di tres
 un/o
 dos
-tres s/i
+tres si
 mir/a aka tamb#n
 un/o Dos
 tres
-s/i kon est/e
+si kon est/e
 mir/a mir/a te sol/it/a aBer
 est/e para aka
 no
@@ -754,7 +754,7 @@ mir/a mir/a
 sol/it/a aBer tu sol/it/a
 es/e o est/e
 est/e
-est/e s/i
+est/e si
 mir/a ke es est/o mir/a es un/a s/onaxa
 mir/+ na s/onaxa mir/a
 ja a G&rD/ar/los mir%m
@@ -770,7 +770,7 @@ mir%m
 komo te jam/as
 d/i/le komo te jam/as
 ola Bes/o Bes/o D/a/le un Bes/o
-d/a/le un Bes/o s/i
+d/a/le un Bes/o si
 mir/a karen
 mir/a lo ke ten/emos aki nena
 mir/+  os/it/o
@@ -782,9 +782,9 @@ mir/a ke Bonit/os BerDaD nena
 mir/a cik/it/a asi
 ke Bonit/a mir/a el koce
 mir/a
-i s/i
+i si
 k#r/es ke los poNgamos aki para xuG/ar
-s/i
+si
 te Gust/a
 est/a Bonit/o BerDaD
 oJe karen te ense|/o otr/os xuG/et/it/o/s
@@ -793,7 +793,7 @@ mir/+  peRo
 un peRo
 mir/a
 un pok/it/o mas f$rte
-a s/i komo no
+a si komo no
 mir/a
 i -
 mir/a mir/a mir/a
@@ -827,7 +827,7 @@ mir/a
 no no
 - ten ten andale
 est/e no
-b$no
+b/$no
 mir/a
 mir/a karen
 karen karen mir/a
@@ -847,8 +847,8 @@ andale
 otr/a
 mir/a
 mir/a
-s/i
-s/i no
+si
+si no
 d/a/me un/o
 mir/a mir/a
 mir/a
@@ -857,9 +857,9 @@ karen
 karen
 no te Gust/a
 d/a/me/lo D/a/me/lo
-s/i s/i D/a/me/lo
-s/i D/a/me/lo
-s/i
+si si D/a/me/lo
+si D/a/me/lo
+si
 andale
 mir/+  kaRo
 te Gust/a
@@ -912,23 +912,23 @@ mir/a el Barko el Barku  os/it/o
 ola komo est/as cikit/it/o
 komo est/as B#n
 komo est/as B#n
-s/i
+si
 komo est/as e
 ke est/as as/#ndo
 ke est/as as/#ndo cik/it/o e
-le p$De prest/ar un/o s/i k#r/e
+le p$De prest/ar un/o si k#r/e
 komo est/as e
 no k#r/es xuG/ar e
 ora s#nt/a/te
 mir/a mir/a a marta mir/a
 aji B#n/e marta aBl/a/le
-tsi  s/i  s/i  s/i
+tsi  si  si  si
 ka/ja/te
 mir/a te aBl/a marta mir/a
 te aBl/a marta te aBl/a marta te aBl/a marta
 pero aka aja est/a marta
 s#nt/a/te
-aBer a Donde Ba/s
+aBer a Donde B/as
 k#r/es xuG/ar kon la pelota
 aBer a mi
 ec/a/me/la para aRiBa
@@ -960,7 +960,7 @@ i la ni|/a
 donde est/a la ni|/a
 mir/a ak# st/a la ni|/a
 mir/a la ni|/a
-lo Ba/s a pon/er aDentro
+lo B/as a pon/er aDentro
 ke mas Ba/mos a meter
 est/e
 gras%s
@@ -1034,7 +1034,7 @@ aBer jo
 ke Bonit/a ni|/a
 mir/a mir/a ke es ke es
 b/amos a p*n/ar/lo toD/o
-s/i te est/as p*n/ando
+si te est/as p*n/ando
 - ke Bonit/a ni|/a
 - pika
 aBer
@@ -1049,7 +1049,7 @@ mir/a s/elina mir/a pum pum
 - ke Bonit/a nena
 run
 run run toD/os
-run Ba/mo/nos a pase/ar
+run Ba/mo/nos a pas/ear
 aji B/a otr/o pum
 % ji B/a otr/o
 mir/a ke paDre
@@ -1061,7 +1061,7 @@ mi+ mi+
 - k#tos ke pas/a
 mir/a el k$nto
 pon/le keso al pan
-b$no D/a/me uBas
+b/$no D/a/me uBas
 i Gras%s Gras%s
 - el BeBe el BeBe
 ja
@@ -1084,7 +1084,7 @@ mir/a los koces
 mir/a
 ten
 - ke paDre - k&ntas kosas
-s/i
+si
 pum el koces/it/o pum
 s/% ji te B/a e pum
 - ke emos@n
@@ -1103,20 +1103,20 @@ as/emos otr/a
 pum
 ke t#n/e el koce
 mir/a aBer Ba/mos aBer
-peD/ro
-s/i s/e aBr/e la p$rta para ke te s/uBas
+peDro
+si s/e aBr/e la p$rta para ke te s/uBas
 ke Ba/mos as/er kon es/o aBer
 aBer ke as/emos
 axa
 axa est/e est/a mas Grande BerDaD
-s/i te los k#r/es toD/os
+si te los k#r/es toD/os
 ke k#r/es
 a Donde k#r/es ir
 te k#r/es par/ar
 mir/a
 a kon mama
-s/i
-ja te Ba/s
+si
+ja te B/as
 b/amos a G&rD/ar/los
 -
 me ajuD/as
@@ -1136,7 +1136,7 @@ mu
 $N $N $N mir/at la  la  la
 aBer ak# st/a
 el papa aDios papa
-aDios peD/ro
+aDios peDro
 ja s/e B/a el papa
 aji B/a la mama
 aBer aki ke mas -
@@ -1144,8 +1144,8 @@ aBer aki ke mas -
 aBer
 - k&nto es/f$rso
 ben
-peD/ro
-peD/ro
+peDro
+peDro
 ola $N $N
 aki - otr/o mir/a
 - ke Bonit/o el os/it/o
@@ -1154,7 +1154,7 @@ kum kum
 aji B/a e
 aji B/a otr/o
 i toD/os aRiBa toD/os aRiBa
-ben peD/ro mir/a el oso mir/a el oso
+ben peDro mir/a el oso mir/a el oso
 -
 - ke Bonit/o
 las Ba/xamos
@@ -1167,14 +1167,14 @@ ke mas GorD/o
 ben B/en/te para aka
 ke mas mir/a mir/a est/e
 no te Ba/jas pitufo
-a Donde Ba/s peD/ro Ben para aka
+a Donde B/as peDro Ben para aka
 ke ke
 ben ja te atoraste las p#rn/it/a/s
 ke
 aBer aBaxo
 aBaxo run
 pum s/e kajo
-aora a Donde Ba/s
+aora a Donde B/as
 aBer ke Ba/mos a ec/ar
 pum - la Bolsa De mama
 aDios
@@ -1196,7 +1196,7 @@ k&l sak/amos
 est/e lo sak/amos
 ke aDios
 aBer aji B#n/e aji B#n/e
-aBer ke me Ba/s a ense|/ar
+aBer ke me B/as a ense|/ar
 sak/a/lo sak/a/lo
 ke B#n es/o
 otr/o sak/amos otr/o
@@ -1212,7 +1212,7 @@ sak/a/lo pum
 - el poj/it/o pio pio
 mir/a el konex/it/o aji B/a e
 pio pio
-s/i ke Ba/rBariDaD
+si ke Ba/rBariDaD
 mir/a k#n sal/@ ja B/is/te
 ja s/e f$
 s/e f$
@@ -1251,12 +1251,12 @@ p$s aj# st/a
 -
 aDios
 kon k&l kon est/e
-nena mir/a peD/ro
+nena mir/a peDro
 ke es
 mir/a
 est/a es para las tasas
 ja no k#r/e xuG/ar
-peD/ro peD/r/it/o
+peDro peD/r/it/o
 ben Ba/mos a xuG/ar kaReras orale
 run run
 run peD/r/it/o
@@ -1270,7 +1270,7 @@ no fuci no s/e kom/en
 oJ* est/o para ke es peD/r/it/o
 para ke es
 para la nena
-s/i
+si
 - para la nena mir/a la nena
 d/a/le a la nena m% mor es/o m! B#n la nena andale
 poBre nena ja la Dex/as/te s/in kuna
@@ -1278,44 +1278,44 @@ fuci
 #  koce
 run
 #  otr/o mir/a run
-tra/e/te el otr/o peD/ro
+tra/e/te el otr/o peDro
 tr-telo asi mir/a
 es/o m! B#n
-m! B#n peD/ro aji B/3
+m! B#n peDro aji B/3
 est/e el amarijo
 run run
 % ora GorD/o
 mir/a los palos
-mir/a peD/ro peD/ro mir/a fixate
+mir/a peDro peDro mir/a fixate
 peD/r/it/o
 b/as a Donde
 mir/a
 komo aleGas
-ke Ba/s a sak/ar
+ke B/as a sak/ar
 no
-ke B#n peD/ro
+ke B#n peDro
 aBer run
 m! B#n run
 ke ja te ka/nsas/te
-- ke s/e kajo peD/ro
+- ke s/e kajo peDro
 s/e ka* l$Go te peG/as BerDaD
-ben peD/ro Ben
-ja no Ba/mos a xuG/ar peD/ro ja no
+ben peDro Ben
+ja no Ba/mos a xuG/ar peDro ja no
 a ke k#r/es xuG/ar
 nena
 - la nena
-ka/ri|/it/o ka/ri|/it/o peD/ro
+ka/ri|/it/o ka/ri|/it/o peDro
 mir/a es amiGo De ro/ko e
-ola peD/ro
+ola peDro
 # st/e
-peD/ro G$ro
-peD/ro
+peDro G$ro
+peDro
 i ro/ko k#n es ro/ko
 - ke lindo
 gorD/o
 peD/r/it/o
 b/e kon mama
-ben peD/ro
+ben peDro
 ola
 ola
 no te k#r/es sent/ar
@@ -1324,7 +1324,7 @@ ja B/is/te ke paDre
 ola
 ola xorxe ernesto
 pipi tom/a
-ja mir/a lo ke teNgo aki
+ja mir/a lo ke teN/go aki
 ola
 la sent/amos
 aBer aBr/e tus p#rn/it/a/s
@@ -1337,7 +1337,7 @@ otr/a Bes
 ola
 te Gust/o la mu|eka xorxe
 ja la B/3 a G&rD/ar
-mir/a lo ke teNgo
+mir/a lo ke teN/go
 mir/a
 as/emos un/a toRe
 ! s/e kajo
@@ -1371,7 +1371,7 @@ oJe mir/a ke es est/o
 mir/a est/as
 gras%s
 la ec/amos aki
-i pero s/i no te la e pelaDo
+i pero si no te la e pelaDo
 es/o Ba/mos a as/er un/a toRe
 aBer mir/a es/e
 es/e aki
@@ -1397,7 +1397,7 @@ pum - s/e kajo
 mir/a Ba/mos a as/er la toRe
 oco n$Be D#s
 aki
-mir/+ no Dos tres k&tro s/iNko s/*s s/#/te oco mir/a
+mir/+ no Dos tres k&tro s/iNko s*s s/#/te oco mir/a
 otr/a no jor/es
 no aBer tir/a/la tir/a/la
 ak% B/er mir/a
@@ -1408,14 +1408,14 @@ d/a/se/lo a la BeBe
 no a mi no a la BeBe
 a la BeBe D/a/se/lo
 e ke pas/a
-e s/i
+e si
 mir/a run
 run run run
 i
 i ja s/e kajo
 mir/a mir/a aji B/a
 pakatelas
-lo kit/amos est/o s/i
+lo kit/amos est/o si
 ke Ba/mos a as/er kon est/o
 ke le pas/o
 - ke paDre amiGo mir/a
@@ -1443,14 +1443,14 @@ pakatelas
 aBer la Ba/mos a xalar para aka
 - ke pas/o
 ke es
-s/i
+si
 mir/a est/a mir/a est/a
 el poj/it/o
 el poj/it/o
 no no no tap/a/lo asi
 no perate
 tap/a/lo
-ora s/i
+ora si
 braBo
 aBer kon est/e kon tu D/eD/it/o
 tap/a/los
@@ -1468,18 +1468,18 @@ mir/a ke es est/o
 tom/a
 pelota
 ke es est/o
-ja no Ba/s a sal/ir en la foto
+ja no B/as a sal/ir en la foto
 ola
 ke es est/o
 mir/a ke es est/o
 s/#k sak/to
-ja Bes komo s/i s/aBe
+ja Bes komo si s/aBe
 ten mir/a
 ja Ba/mos a G&rD/ar est/os
 ajuD/a/le keline G&rD/a/las
 gras%s
 ke
-s/i
+si
 mir/a
 ke es
 s/aBe B$no
@@ -1488,7 +1488,7 @@ e k#n es
 aBer a k#n Ba/mos a p*n/ar
 mir/a
 te la k#r/es pon/er
-te la k#r/es pon/er s/i
+te la k#r/es pon/er si
 mu
 mir/a
 ola
@@ -1498,7 +1498,7 @@ no
 otr/o
 mir/a
 ke es ja B/is/te
-s/i
+si
 -
 pum
 ke
@@ -1508,7 +1508,7 @@ ke
 gras%s
 pum
 ke
-mir/a s/i t#n/e s/us jantas
+mir/a si t#n/e s/us jantas
 ola
 k#n B/a aji
 ola
@@ -1520,7 +1520,7 @@ un pato
 mir/a s/ul* mir/a
 e e ke pas/o
 pum
-otr/a Bes s/i
+otr/a Bes si
 es/o
 m! B#n
 pum pum
@@ -1630,7 +1630,7 @@ ak#  la mesa
 - ke rik/o
 d/a/me D/a/me
 no me D/as
-d/a/me pera s/i s/i
+d/a/me pera si si
 no me D/as pera
 um ke rik/o
 pon/la ak#  el plat/it/o
@@ -1650,13 +1650,13 @@ d/a/le un Bes/it/o D/a/le un Bes/it/o
 b-l/a kon el oso
 andale B/-/la
 no k#r/es B-l/ar i kon el kocin/it/o
-s/i
+si
 laralara
 ! te komo
 ! te komo la mano
 mir/a te kom/e el oso
 no no
-b/amos a Des/ir s/i
+b/amos a Des/ir si
 pakatelas
 me lo prest/as
 tom/a -
@@ -1666,8 +1666,8 @@ gras%s
 mir/a ke es
 est/o naDa mas es para ke x$G/e a lo ke k#r/a
 aBer
-- kon k#n Ba/s
-kon k#n Ba/s
+- kon k#n B/as
+kon k#n B/as
 i un oso
 un oso
 un/a flor
@@ -1679,20 +1679,20 @@ ola
 el oso
 oJe fani ke poD/emos as/er kon est/os
 k#n es la mu|eka
-- ke poD/emos as/er kon est/e kaRit3 s/i lo ka/rGamos
-s/i i ke pas/o
-s/i nos tra/emos al os/it/o
+- ke poD/emos as/er kon est/e kaRit3 si lo ka/rGamos
+si i ke pas/o
+si nos tra/emos al os/it/o
 ola fani komo est/as
 aki para ke nos Bea para ke te Bea xuG/ar el os/it/o
 no ke no te Bea xuG/ar el os/it/o
-b$no entonses lo B/olteamos asi
+b/$no entonses lo B/olteamos asi
 oJe fani ja B/is/te toD/o lo ke ten/emos aki
-s/i mir/a otr/o
+si mir/a otr/o
 ke le Bes fani
 a mari ke est/a aja filmando
 mir/a - -
 ke ten/emos aki fani
-s/i lo B/olteamos
+si lo B/olteamos
 - ke G&pa s/e est/a pon/#ndo fani
 nene un nene
 - aBer
@@ -1704,8 +1704,8 @@ mir/a k#n es e
 mir/a jo te las poNgo aki para ke te las tir/es
 mir/a aka - otr/a
 a mama
-oJe mir/a s/i pon/emos toD/os est/os aki
-s/i
+oJe mir/a si pon/emos toD/os est/os aki
+si
 mir/a
 ja s/e ke as/emos fani nos s/uBimos al kam@n
 as% Donde Ba/n
@@ -1715,7 +1715,7 @@ ola fani komo est/as
 - Ba/mos a pon/er/los para saluD/ar a fani
 oJe fani
 aki B/in#ron a Bisit/ar a fani los BeBes
-oJe fan% ki teNgu na s/orpres/it/a para ti pero B/3 a kit/ar est/o
+oJe fan% ki teN/gu na s/orpres/it/a para ti pero B/3 a kit/ar est/o
 no
 aBer
 te me ajuD/as
@@ -1723,7 +1723,7 @@ a sak/ar/los
 ola fani komo est/as
 oJe k#r/es xuG/ar kon un/o
 oJe caNg/it/o jo k#r/o xuG/ar kontiGo
-xuG/amos s/i caNg/it/o xuG/amos
+xuG/amos si caNg/it/o xuG/amos
 ke los Dos xuG/en kon fani
 - Gras%s
 ola Ba/k/it/a
@@ -1732,24 +1732,24 @@ andale asi i jo asi
 k#r/o kon est/e
 ol- m% miGo caNgo Donde est/a fani
 - k#r/es xuG/ar kon la Baka
-un/3 un/o s/i
+un/3 un/o si
 no
 est/e me lo prest/as
 fani fani
-b/emos est/e s/i
+b/emos est/e si
 oJe mir/a
 oJe fani mir/a
 oJe lo aBr/imos
-ke te pares/e s/i lo aBr/imos
+ke te pares/e si lo aBr/imos
 est/e
 mir/a
 mir/a
-oJe s/i le D/amos B$lta
+oJe si le D/amos B$lta
 le D/amos B$lta
 - - - no k#r/e ja
 oJe mir/a ke Bonit/o est/a est/e
 k#r/es los Demas xuG/etes BerDaD
-b$no Ba/mos a sak/ar/los para fani
+b/$no Ba/mos a sak/ar/los para fani
 mir/a fani
 k#r/es B/er ke - aji
 oJe mir/a
@@ -1760,7 +1760,7 @@ de aka mir/a
 ja sak/amos otr/o
 mir/a
 oJe komo s/e xuG/ara est/o mir/a
-ja s/e teNgu n- Dea mexor
+ja s/e teN/gu n- Dea mexor
 - k&ntos xuG/etes
 me lo D/as
 gras%s
@@ -1847,7 +1847,7 @@ es/e
 ke es es/o
 ke - aji
 mir/a ke Bonit/+ na karit- otr/a ka/r/it/a ja B/is/te
-b$no poD/emos as/er un/a toR* le pon/emos est/o aki i pon/emos
+b/$no poD/emos as/er un/a toR* le pon/emos est/o aki i pon/emos
 f$rte f$rte
 lo k#r/es aBr/ir
 lo est/as B/uskando
@@ -1861,12 +1861,12 @@ es/o m! B#n m! B#n
 - ke Grande est/a est/o
 otr/o otr/o otr/o @ tro
 lo k#r/es
-s/i la nena
+si la nena
 aki lo pon/emos aBer ke s/e meta ke s/e meta
 no s/e met@
 no s/e met@ aBer metelo
 es/o m! B#n mar%na le D/as la B$lta
-oJe pero mexor aki s/i kaBe
+oJe pero mexor aki si kaBe
 aki mir/a
 aki metelo
 es/o m! B#n mar%na
@@ -1885,7 +1885,7 @@ ke as/emos kon est/o aora
 k&ntas kosas
 ke aremos kon est/o lo ka/rGamos kon est/o aki
 me k#r/es ajuD/ar
-los pon/emos aki s/i
+los pon/emos aki si
 es/o m! B#n
 aki - otr/o % ka - otr/o
 - k&ntos - mar%na
@@ -1915,20 +1915,20 @@ aBer un/a toRe aBer
 aBer mir/a mar%na la toRe ja B/is/te ke Bonit/a est/e lo pon/emos
 k&l k#r/es al peRo
 braBo BraBo mir/a aora te pon/le asi mir/a
-aora te pon/lo aki mir/a mar%na ak% s/i pon/los aki aki
-aora te mir/a pon/los ak% s/i
+aora te pon/lo aki mir/a mar%na ak% si pon/los aki aki
+aora te mir/a pon/los ak% si
 d/a/me/lo D/amel3 lo pon/emos aki D/a/me/lo
 d/a/me/los aki los pon/emos mir/a asi - mir/a ke Bonit/a mir/+ na
-s/i
+si
 el peRo el Gato pero D/a/me es/e porke s/ino s/e lo a kom/er
 el peRo D/a/me los DaDos mar%na
 entonses me B/3 a kom/er est/a mansana mir/a am ke rik/a mansana
-mansana k#r/es un peD/as/it/o De mansana s/i
+mansana k#r/es un peD/as/it/o De mansana si
 o s/e la D/amos al peRo o al Gato ke aBer a k#n le D/as la
 al peRo o al Gato o te te la kom/es
 kom/e/te/la kom/e/te/la  ke rik/a BerDaD
  ke s/aBrosa mansana
-est/a rik/a s/i
+est/a rik/a si
 mir/a aor+  xitomate o mand/arina
 ke k#r/es xitomate o mand/arina
 - mir/a lo ke B/3 a G&rD/ar est/e pal/it/o est/e otr/o pal/it/o
@@ -1957,7 +1957,7 @@ peRo
 peRo Gato
 #  konexo ja B/is/te
 ja los G&rD/amos est/os
-aBer s/i
+aBer si
 aora Ba/mos a as/er/le un/os kari|/it/o/s mir/a Ba/mos a as/er/le kari|/it/o/s
 i la mansana Donde est/a la mansana e
 aBer un/os kari|/it/o/s mir/a la fruta - ke rik/a fruta ke rik/a
@@ -1973,7 +1973,7 @@ no pon/los aka mir/a los ke t#n/es aji mir/a
 mir/a mar%na
 mir/a ke es est/o k#r/es un/o
 k&l k#r/es
-aBer te me D/ises k&l B/emos s/i
+aBer te me D/ises k&l B/emos si
 jo lo k#r/o B/er kontiGo k&l B/emos
 # st/e liBro B/amosa B/er/lo mir/a es Beto #n Rike Ba/mos a
 i mir/a ja B/is/te ke - aki mar%na mar%na ke -
@@ -1988,7 +1988,7 @@ es s/u trisiklo
 aBer Ba/mos aBer
 aBer Ba/mos aBer aora Dex/a/me B/er/lo kontiG3 mir/a ke B/a
 b/a koRe i koRe i koRe i koR* Beto est/a B/riNkando
-te le Ba/s a D/ar la B$lta k#r/es D/ar la B$lta o k#r/es toD/o el
+te le B/as a D/ar la B$lta k#r/es D/ar la B$lta o k#r/es toD/o el
 por ke no k#r/es ke lo Bea kontiGo e te lo k#r/es B/er
 aBer est/e ja
 es/e ja no l*n tereso a mar%na
@@ -2010,14 +2010,14 @@ oJe mar%na k#r/es ke te ense|/e est/e
 mir/a
 mir/a mar%na
 k#r/es B/er/lo
-aBer Ba/mos aBer s/i lo p$Des moB/er
+aBer Ba/mos aBer si lo p$Des moB/er
 aki mir/a es/o m! B#n aka - otr/3 mir/a s/e est/a
 le pon/emos el DeDo aki i lo xir/amos i le pon/emos el DeDo aki i lo
 el DeDo en meD@ mar%na
 epale
 es/o m! B#n mar%na
 k#r/es B/er un/o
-aBer Ba/mos aBer s/i lo p$Des B/er
+aBer Ba/mos aBer si lo p$Des B/er
 es/o m! B#n
 mir/a aki - otr/o
 * s/e reGresa
@@ -2025,7 +2025,7 @@ el DeDo en meD@ mar%na
 es/o m! B#n mar%na
 es/o k#r/es el otr/o x$G/o
 est/e est/e kon est/e Ba/mos a xuG/ar aora
-s/i ke est/ara aj@ la k#n B/iBe aji
+si ke est/ara aj@ la k#n B/iBe aji
 aBr/a/nos k#n B/iBe aki
 no s/e p$De oJ* ak% ki * aBr/a/nos la p$rta
 i
@@ -2037,7 +2037,7 @@ aki - atro mir/a mar%na
 $Gan aBr/a/nos la p$rta
 no k#r/en aBr/ir la p$rta mar%na ke as/emos la aBr/imos
 a aBer
-aBer aBer aBer as% s/i asi
+aBer aBer aBer as% si asi
 lo Ba/xamos
 mir/a mar%na ja B/is/te
 aBer tu tu mano mir/a s/e s#R/an un/o Dos
@@ -2121,8 +2121,8 @@ a s/e kajo
 mir/a lo ke me enkontr/e mar%na
 ke as/emos kon es/e nos p*n/amos
 nos p*n/amos m! B#n ke Bonit/a n% ke s/e p*n/a es/o m! B#n
-aBer Ba/mos a jeB/ar a los nenes +  pase/o
-ja s/e Ba/n a D/ar el pase/o los nenes pero k#r/en ir toD/os los nenes
+aBer Ba/mos a jeB/ar a los nenes +  pas/eo
+ja s/e Ba/n a D/ar el pas/eo los nenes pero k#r/en ir toD/os los nenes
 mir/a te B/3 a sak/ar mucos xuG/et/it/o/s k#r/es xuG/ar
 mir/a
 mir/a el os/it/o no te Gust/a el os/it/o
@@ -2133,7 +2133,7 @@ tir/a/la pum
 aBer otr/a Bes Ba/mos as/er otr/a toRe
 aBer ora te pon/lo
 pon/lo aji
-aBer pon/lo no lo Ba/s a pon/er
+aBer pon/lo no lo B/as a pon/er
 mir/a
 aki
 es/o
@@ -2145,7 +2145,7 @@ ec/a/me/la
 es/o otr/a Bes
 - ke pas/o nena
 ec/a/me/la
-s/i
+si
 ke mas nena
 est/as B#n/do a la kamara
 mir/a
@@ -2267,15 +2267,15 @@ te Gust/o est/e
 d/a/me
 - ke s/onrisa tan Bonit/a
 oJe kati k#r/es ke te ense|/e otr/os xuG/etes
-teNgo otr/os xuG/etes aja los k#r/es B/er
+teN/go otr/os xuG/etes aja los k#r/es B/er
 mir/a mir/a mir/a
 lo G&rD/o
 ke as/emos
-s/i
+si
 ja
 mir/a mucos x$G/os ja B/is/te
-s/i
-s/i
+si
+si
 otr/o
 braBo BraBo
 aora jo
@@ -2297,13 +2297,13 @@ i - mir/a
 aBer
 um a
 te Gust/o el liBro kat%
-s/i
+si
 ke pas/o
 k#r/es B/er otr/os xuG/etes ja s/on los
-aora Ba/s a xuG/ar kon mama
+aora B/as a xuG/ar kon mama
 ke s/on kati
 - te Gust/an las uBas
-s/i
+si
 uBas ke s/on
 uBas
 mir/a s/eresas
@@ -2322,13 +2322,13 @@ mir/a la tas/it/a
 aGaR/a la tas/it/a tom/a/la
 tom/a aG&
 rik/a aG& rik/a
-s/i
+si
 mir/a lecuGa ke rik/a lecuGa platano k#r/es platano
 - traGona
 platano
 un limon limon
 um limon
-s/i no s/aBe a naDa
+si no s/aBe a naDa
 est/e es un pan mir/a kat%
 - traGona fuci
 no Gust/a
@@ -2373,7 +2373,7 @@ mir/a ke Bonit/a tap/itit/it/a es un/a asukarera
 pon/le s/u tap/aDera pon/se/la
 - ke Bonit/a ni|/a oBeD#nte
 b/amos a kom/er/te aki
-s/i
+si
 um rik/o
 um - s/aBroso
 te no k#r/es
@@ -2385,7 +2385,7 @@ kon la otr/a
 - es/a mano no
 otr/a
 um mir/a
-s/i
+si
 est/e es otr/o plat/it/o mir/a
 plat/it/o
 um
@@ -2431,13 +2431,13 @@ ak% RiBa
 pon/emos otr/o
 pon/emos est/e ak% RiBa
 lo pon/emos asta aRiBa
-s/i
+si
 - otr/o Ba/mos a pon/er otr/o @ tro
 braBo
 braBo
 - s/e kajo
 k#r/es B/er otr/o xuG/etes
-b/amos aBer otr/os xuG/etes ke teNgo por aki
+b/amos aBer otr/os xuG/etes ke teN/go por aki
 ke as/emos anita
 e
 bu
@@ -2455,7 +2455,7 @@ mir/a
 mir/a platan/it/o
 xitomate xitomate k#r/es xitomate
 b/amos a as/er un/a toRe Grandota Grandota Grandota
-s/i Ba/mos a xuG/ar
+si Ba/mos a xuG/ar
 - s/e kajo
 aki - otr/- otr/a
 - s/e kajo
@@ -2487,7 +2487,7 @@ mir/a ja B/is/te
 k#r/es
 aste para aka
 me D/as p+lina me D/as
-s/i me D/as tant/it/o
+si me D/as tant/it/o
 ke
 ke mama cik/it/a
  ke rik/o pero no s/e p$De
@@ -2546,7 +2546,7 @@ m! B#n al*Da
 - ke s/e kajo
 - ja lo puso aka - otr/o mir/a
 no
-aBer s/i s/e p$De
+aBer si s/e p$De
 no
 ke pas/o al*Da listo
 no s/irBe no s/irBe
@@ -2606,7 +2606,7 @@ mir/a la BeBe
 no le Gust/an muco los xuG/etes le Gust/an mas los peluc/it/o/s
 - s/e kajo
 mir/a
-ja s/e B/a De pase/o el
+ja s/e B/a De pas/eo el
 e ke pas/o
 e
 3
@@ -2620,11 +2620,11 @@ e - jo B/3 a kompon/er es/e kam@n
 me lo prest/as
 listo
 jo le aGo
-s/i
+si
 mir/a ak# st/a el mio
 ak# st/a el mio
-listo s/i -
-oJe Ba/mo/nos a pase/ar en el kam@n mir/a
+listo si -
+oJe Ba/mo/nos a pas/ear en el kam@n mir/a
 -
 run
 - no p$De pas/ar est/e kam@n no p$De pas/ar
@@ -2652,7 +2652,7 @@ e un liBro
 ke Bonit/o
 ola
 ola
-- s/i mir/a ke Bonit/o
+- si mir/a ke Bonit/o
 ke Bonit/o
 braBo
 te
@@ -2720,14 +2720,14 @@ otr/a toRe Ba/mos a as/er
 mir/a GaBi
 -
 gras%s
-b/amos a jeB/ar/lo a pase/ar
-- s/e B/a a pase/ar el s/e|or
-s/e B/a a pase/ar
+b/amos a jeB/ar/lo a pas/ear
+- s/e B/a a pas/ear el s/e|or
+s/e B/a a pas/ear
 dex/e/me pas/ar
 dex/e/me pas/ar
 ke pas/o GaBi
 ten
-g&rD/amos los xuG/etes para ke te ense|/e otr/os s/i
+g&rD/amos los xuG/etes para ke te ense|/e otr/os si
 aBer a ec/ar/los aki
 b/amos a ec/ar/los aji
 ten
@@ -2737,10 +2737,10 @@ tan tan tan
 ja Ba/mos a G&rD/ar est/os ara ke te ense|/e otr/os
 mir/a
 mir/a
-- Ba/mos a aReGl/ar el kam@n
+- Ba/mos a aReGlar el kam@n
 run
 mir/a
-s/i
+si
 aki
 mir/a
 - -
@@ -2748,8 +2748,8 @@ ola GaBi
 ola mu mu
 ola GaBi komo est/as
 ola
-d/a/me De kom/er teNgo ambre
-gaBi teNgo ambre
+d/a/me De kom/er teN/go ambre
+gaBi teN/go ambre
 am
 k#r/o mas
 gaBi GaBi
@@ -2760,7 +2760,7 @@ am
 am am
 me komo a GaBi
 am am
-d/a/me D/a/me teNgo ambre
+d/a/me D/a/me teN/go ambre
 me komo tu mano
 ola ola ola
 listo pati
@@ -2768,7 +2768,7 @@ mir/a ke Bonit/o
 mir/a
 aki mir/a GaBi
 mir/- xa
-aki s/i p$De aBl/arl* Des/ir/le lo ke k#r/a
+aki si p$De aBl/arl* Des/ir/le lo ke k#r/a
 mir/a D/a/se/la al BeBe
 mir/a ten
 un pok/it/o mas f$rte
@@ -2812,14 +2812,14 @@ ola tere ola
 komo est/as
 ola
 oJe tere k#r/es ke te ense|/e otr/os xuG/et/it/o/s
-s/i
+si
 aBer a Donde Ba/mos
 a Donde Ba/mos
 a Donde
 a Donde aBer
-s/i
+si
 mir/a
-s/i mir/a aB#nt/a/le la pelota al os/it/o
+si mir/a aB#nt/a/le la pelota al os/it/o
 el os/it/o k#r/e xuG/ar kontiGo
 mir/a
 ke es
@@ -2843,9 +2843,9 @@ aki
 tom/a
 k#r/es
 k#r/es
-s/i k#r/es
+si k#r/es
 d/a/me
-s/i k#r/es
+si k#r/es
 k#r/es
 aki primero
 lece
@@ -2896,7 +2896,7 @@ k#n est/a aji
 e
 mir/a
 mir/a los ni|/os
-p*n/amos a D/an#/la s/i la p*n/amos
+p*n/amos a D/an#/la si la p*n/amos
 no a la Boka no
 mir/a p*n/a/te ten
 mir/a kon est/e mir/a
@@ -2919,7 +2919,7 @@ aki mir/a aki
 est/e no te Gust/o BerDaD
 el liBro
 mir/a est/e otr/o
-s/i
+si
 a mi me lo D/as D/an#/la
 mir/a - aBer
 konexo el Gato
@@ -2950,8 +2950,8 @@ tom/a
 run
 ten tom/a B/en/te
 t#n/e un a|o BerDaD
-s/i los kumpl/@ ajer
-t* s/#ron tu pastel s/i
+si los kumpl/@ ajer
+t* s/#ron tu pastel si
 mir/a la pelota aji te B/a
 aji te B/a
 aji te B/a
@@ -2978,19 +2978,19 @@ un/o
 tom/a
 tom/a
 la pelota
-s/i
+si
 upa
 aji te B/a
 mir/a aji te B+ pa
 a mir/+ na Dos upa
 otr/a Bes
-s/i
+si
 upa
 mir/a mir/a mir/a asta Donde s/e B/a
 aji te B/a aji te B/a
 mir/a mir/a mir/a
 a
-mir/a s/e pon/en asi % s/i
+mir/a s/e pon/en asi % si
 asi
 aora te
 te
@@ -3000,10 +3000,10 @@ las s/ij/it/a/s
 mir/a
 mir/a el martijo mir/a
 te
-mx& s/i
+mx& si
 no
 aora kon est/e ke as/emos
-ke est/as aReGl/ando e
+ke est/as aReGlando e
 aora D/a/le lec/it/a
 d/a/le asi
 no te Gust/a
@@ -3012,7 +3012,7 @@ ke
 el pajas/it/o
 ke est/as B#n/do e
 mir/a ke ten/emos aki
-s/i
+si
 mir/a
 mir/a el p*n/e Ba/mos aBer Ba/mos a p*n/ar/te
 no ke k#r/es
@@ -3049,16 +3049,16 @@ ja s/e f$
 el G& G& mir/a
 ja
 ja s/e f$ tamb#n
-s/i Donde est/a el G& G&
+si Donde est/a el G& G&
 donde est/a el G& G&
 k&l
 ke ten/emos ki mir/a
 mir/a
-mir/a s/e kom/e s/i 
+mir/a s/e kom/e si 
 ola
 ola
 aBer
-s/i
+si
 es el G& G&
 no
 mi+ mi+
@@ -3067,11 +3067,11 @@ aora est/e mir/a
 mu
 mu
 a G& G&
-aora s/i s/e le ka/ntas la De la ormiG/it/a
+aora si s/e le ka/ntas la De la ormiG/it/a
 mir/a Ba/mos aBer kon ke xuG/amos
 aBer est/e
 el papa la mama est/e tamb#n mir/a
-ja s/e Ba/n a pase/ar aD@s
+ja s/e Ba/n a pas/ear aD@s
 run
 es/o es
 e la nena s/e kajo
@@ -3082,25 +3082,25 @@ mir/a s/e kajo la nena
 est/a
 -
 la nena
-jeB/a/los a pase/ar
+jeB/a/los a pas/ear
 el papa
 te B/3 a ense ar otr/a kos/it/a mir/a
 est/e no te Gust/a mir/a
 t#n/e DiBux/it/o/s mir/a
 mir/+  konex/it/o
-- s/i s/i lo k#r/es
+- si si lo k#r/es
 asi
 te Gust/a
 s/#  peR/it/o k#r/es ke salG/a
 aBer mir/a ja sal/@ est/e
-te Gust/a s/i
-s/i
-s/i
+te Gust/a si
+si
+si
 k#r/es ke s/e metan
 est/an en la rezBalaDija
 ja B/is/te
 aBer ke est/an as/#ndo
-s/i
+si
 mir/a est/an B-l/ando
 mir/a
 a la Boka no
@@ -3123,7 +3123,7 @@ mir/a el papa la mama
 las taBl/it/a/s
 mir/a la es/koBetija
 mir/a para est/o pao
-s/i ja es/kucaste a mama
+si ja es/kucaste a mama
 aji B#n/e mama
 mir/a Ba/mos a peG/ar/le aki
 mir/a pao
@@ -3147,7 +3147,7 @@ mir/a pao mir/a lo ke - aki
 aBer fixate lo ke -
 mir/+  s/epij/it/o
 mir/a mir/a pao pao k#n est/a aji
-la B/ols/it/a mir/+  koj/ar mir/a
+la B/ols/it/a mir/+  kojar mir/a
 lo k#r/es
 # st/e tamb#n
 # st/e
@@ -3171,9 +3171,9 @@ te es/o
 aora el G&G&
 no ja los G&rD/amos
 mir/a D/i/les aD@s
-s/i te B#n/es te kon ej/a
+si te B#n/es te kon ej/a
 no aji B#n/e mama
-s/i cik/it/a es ke t#n/e s/$ o
+si cik/it/a es ke t#n/e s/$ o
 s/% ki
 k#r/es un pan
 mir/a pao ke es
@@ -3201,7 +3201,7 @@ mir/a mir/a platano no k#r/es
 mir/a el pojo
 mir/a ke es
 uBas uBas
-mir/+ Ba/s
+mir/+ B/as
 ec/a/los aki
 xuG/amos kon la pelota
 ec/a/me/la
@@ -3214,13 +3214,13 @@ aBer tom/a aG&
 aBer tom/a/le t& G!ta
 jo asi mir/a asi
 est/e runrun aBer tamb#n D/a/le
-ja te lo Ba/s a jeB/ar
+ja te lo B/as a jeB/ar
 aRiBa
 run
 mir/a jo te lo ense|/o
 mir/a ja B/is/te
-s/i un pat/it/o
-s/i mir/a aki s/e p$De aBr/ir
+si un pat/it/o
+si mir/a aki s/e p$De aBr/ir
 mir/a ke ten/emos aki
 de aki mir/a s/e p$De aBr/ir
 mir/a ke ten/emos aki
@@ -3228,10 +3228,10 @@ mir/a ke ten/emos aki
 aora por aka mir/a
 aora por aki
 - mir/a la flores/it/a ja B/is/te
-s/i k&l es la flor
+si k&l es la flor
 aBer aka mir/a aBer k#n B/a a sal/ir por aki
 mir/a la Ba/k/it/a ja la B/is/te
-s/i Donde est/a
+si Donde est/a
 mir/a - ke Bonit/os
 te Gust/a
 k#r/es aBr/ir/lo
@@ -3239,7 +3239,7 @@ asi
 mir/a
 el
 es/perate
-s/i ke -
+si ke -
 aBer platisamelos
 mir/a est/an en la rezBalaDija
 mir/a el trisiklo
@@ -3255,16 +3255,16 @@ mir/a la ni|/a est/a triste
 mir/a
 s/u raton
 no BerDaD te Gust/a mas es/e
-s/i
+si
 ke - ke est/an as/#ndo
 aki un pajas/it/o mir/a ja lo B/is/te
-b$no entonses aora Ba/mos a sak/ar est/e est/e te B/a a Gust/ar
+b/$no entonses aora Ba/mos a sak/ar est/e est/e te B/a a Gust/ar
 tan tan k#r/o ke salG/as
-s/i De aki mir/a por tu man/it/a aki
+si De aki mir/a por tu man/it/a aki
 pon tu mano
 asi
 k#n falt/aBa
-s/i k#r/es ke salG/an
+si k#r/es ke salG/an
 aBer asi mir/a la man/it/a ak# st/a aki
 ke Bonit/os
 s#R/a/les
@@ -3272,12 +3272,12 @@ te Gust/a
 ke te Gust/a mas
 el liBro
 ja termin/amos De xuG/ar
-s/i ja termin/amos
+si ja termin/amos
 aBer mir/a lo ke ten/emos en est/a ka/x/it/a
 aBer Ba/mos aBer
 mir/a la pelota la ke ker/ias
 la tota m! B#n la tota
-s/i m! B#n la tota
+si m! B#n la tota
 - s/e nos f$
 aBer la tota
 mir/a ke mas ten/emos aki
@@ -3288,15 +3288,15 @@ aBer aji te B/a e
 un/a Dos tres
 aora te
 te
-d/a/me la tota a Donde Ba/s kon la tota e
+d/a/me la tota a Donde B/as kon la tota e
 ja s/e mir/a Ba/mos as/er un/a toRes/it/a
 un GloBo pares/e GloBo BerDaD
-s/i pero es un/a pelota
+si pero es un/a pelota
 te Gust/an los GloBos
 - s/e nos B/a la tota la tota s/e nos B/a
 el BeBe mir/a la BeBe es un/a BeBe
 - ke Bonit/a est/a ke Bonit/a nena
-s/i
+si
 la BeBe ola
 ola komo est/as
 ola mir/a te est/a saluD/ando komo est/as
@@ -3310,7 +3310,7 @@ donde est/a
 por Donde est/ara aBer Ba/mos a B/uskar/lo aBer Donde est/ara
 la BeBe mir/a s/e kajo la BeBe
 la BeBe
-s/i la BeBe
+si la BeBe
 - la BeBe mir/a
 - s/u oxos
 los oxos De la BeBe mir/a
@@ -3425,10 +3425,10 @@ es/os no los k#r/es
 nos los jeB/amos
 los aBr/imos
 nos los jeB/amos
-te Ba/s a tom/ar tu lece
-s/i
+te B/as a tom/ar tu lece
+si
 kon tu teta
-s/i
+si
 kon tu tet- xo
 aBer
 k#r/es teta
@@ -3590,13 +3590,13 @@ no es/a es De la BeBe es/a es De la BeBe
 pero Donde est/a s/u teta
 donde est/a la teta Donde est/a
 donde
-aka est/a te la B/3 a D/ar para ke s/e la D/es a la BeBe s/i
+aka est/a te la B/3 a D/ar para ke s/e la D/es a la BeBe si
 mir/a aka est/a la teta
 p$s D/a/se/la a la BeBe porke B/a jor/ar
 d/a/se/la no
 no te enoxes no te enoxes
 ke k#r/es
-ec/a/los aki mir/a Ba/mos a ec/ar/se/los ak% la BeBe s/i s/i
+ec/a/los aki mir/a Ba/mos a ec/ar/se/los ak% la BeBe si si
 los pon/emos aji
 ten el s/e|or
 no las tir/es
@@ -3606,7 +3606,7 @@ donde est/a la BeBe
 aka est/a la BeBe la Dorm/imos
 la Dorm/imos
 b/amos a Dorm/ir a la BeBe mir/a
-s/i
+si
 i te le D/as s/u teta
 s/e B/a a Dorm/ir
 a Dorm/ir
@@ -3623,7 +3623,7 @@ ke pas/o
 k&l
 tu DeDo
 k&l
-g&rD/amos las kosas s/i
+g&rD/amos las kosas si
 b/amos a G&rD/ar la lece
 mir/- Ba/n iBan
 mir/a ke Bonit/os
@@ -3649,7 +3649,7 @@ ke
 mir/a la Baka mir/a la Baka la Baka
 te B/a a kom/er la Baka andale Ben
 aBer
-b$no l$Go
+b/$no l$Go
 aBer el el es/o
 aBer para aja
 i ke es
@@ -3690,8 +3690,8 @@ e es/e D/a/le
 aBer a
 -
 ja
-aora Ba/s +  k$nto
-- s/i
+aora B/as +  k$nto
+- si
 el konexo aD@s
 - ja s/e f$
 - % ora ke Ba/mos +  k$nto
@@ -3728,14 +3728,14 @@ ja
 ja ja Bes
 - aora Ba/mos +  k$nto
 para ke s/e D$rm/an
-aBer Ba/s a
+aBer B/as a
 aki aki
 k#r/e pon/er/lo en la kuna
 a la kuna
 k&l te Gust/a est/e o est/e
 aBer un k$nto
 ke s/e p$D* 
-s/i
+si
 ke es est/o mir/+ 
 paxar/it/o
 -
@@ -3761,7 +3761,7 @@ el k$nto al poj/it/o
 aBer jo
 aBi+ na Bes i ke un peRo B#n Grande
 el
-aBer Ba/mos aBer est/e k$nto s/i
+aBer Ba/mos aBer est/e k$nto si
 te B/3 a est/e k$nto
 mir/a k#r/es est/e k$nto te lo B/3 a
 no -
@@ -3779,7 +3779,7 @@ tom/a mir/a
 de kom/er
 mir/a k&ntas kosas
 aBer
-s/i te lo B/3 a pon/er Bonit/o
+si te lo B/3 a pon/er Bonit/o
 ja
 komo s/on
 aki s/e
@@ -3796,7 +3796,7 @@ es
 aj# st/a el BeBe
 de kom/er un pastel
 d/a/le un/a
-o ke le Ba/s a as/er De kom/er
+o ke le B/as a as/er De kom/er
 d/i/le ke es De
 no s/e kom/en BerDaD
 mexor azle un pastel De
@@ -3819,14 +3819,14 @@ aki
 oJe pero k#r/e kon
 ke ke ke le ke no est/a ke est/a
 en el komo as/e el
-nos B/a a jeB/ar a pase/ar
-nos B/a a jeB/ar a pase/ar
-a Donde los Ba/s a jeB/ar
+nos B/a a jeB/ar a pas/ear
+nos B/a a jeB/ar a pas/ear
+a Donde los B/as a jeB/ar
 al
 aBer
 % la
 e
-s/i me
+si me
 - aki jo tamb#n e jo tamb#n k#r/3 
 - mir/a
 ak# st/a la mama
@@ -3836,11 +3836,11 @@ papi papi
 tom/a k#n k#r/es
 a la mama o al papa o a la BeBe
 toD/os
-aBer a pase/ar
+aBer a pas/ear
 ak# st/a est/o m! m!
 - ke
 - Ba/n toD/os
-a Donde los Ba/s a jeB/ar
+a Donde los B/as a jeB/ar
 s/us s/apatos De ke s/on
 jo te lo B/3 a sent/ar
 de ke s/on
@@ -3882,12 +3882,12 @@ ke es
 tu
 aBer tu
 kon est/os
-ke Ba/s a as/er
+ke B/as a as/er
 ke
 un
 gras%s
 ora a la BeBe no B/a a kom/er
-ke le Ba/s a as/er
+ke le B/as a as/er
 tamb#n
 komo a ej/a le
 s/u
@@ -3905,15 +3905,15 @@ est/e ke as/e mir/a mir/a
 - ke es est/o
 es un os/it/o
 un/a flor
-s/i
+si
 aki - otr/o mir/a aki
 ja no - aki mir/a mir/a
 aBer ke mas
-ke mas Ba/s aBer
-aBer k&l Ba/s aBer est/e mir/a
+ke mas B/as aBer
+aBer k&l B/as aBer est/e mir/a
 aBer Donde est/a el arBol
 mir/a aor/it/a B#n/e
-s/i mir/a
+si mir/a
 aji B#n/e
 ak# st/a
 ke pas/o
@@ -3939,7 +3939,7 @@ para ke es e
 mir/a mir/a ke es mir/a
 mir/a
 as/emos un/a toRe
-s/i
+si
 toRe Ba/mos a as/er un/a toRe
 es/o es/o aora Ba/mos a pon/er est/e aki
 primero est/e es/o % ora est/e es/o
@@ -3956,8 +3956,8 @@ aBer est/a
 mir/a
 b/amos a no la Ba/mos a G&rD/ar es/o
 mir/a
-mir/a - te Ba/s a kom/er
-s/i
+mir/a - te B/as a kom/er
+si
 k#n s/e B/a a Dorm/ir
 b/amos a Dorm/ir
 a Dorm/ir es/o
@@ -4020,12 +4020,12 @@ ja s/e B/a D/i/le ola amiGo
 donde est/a Donde est/a
 ola
 no
-s/i
+si
 mir/a el peR/it/o
 g&u G&u
 mir/a
 !
-b/as a aReGl/ar el kam@n
+b/as a aReGlar el kam@n
 - para mi
 i para mi
 un/a me D/as un/a
@@ -4042,7 +4042,7 @@ aBer komo as/e la Baka
 mu
 ke k#r/es
 est/a est/a
-s/i
+si
 tom/a
 aBer ke as/es
 est/as toD/o
@@ -4086,30 +4086,30 @@ otr/o BerDaD mucos
 mir/a aRiBa
 ke - aRiBa
 un/os
-s/i
+si
 oJe D/a/me lec/it/a me D/as lece
 d/a/me lece en un/a tasa kon
 para mama D/a/le
-s/i te
-te komo ec/amos s/i i le D/amos
-s/i % ora mama s/e tom/a el  tu k#r/es
+si te
+te komo ec/amos si i le D/amos
+si % ora mama s/e tom/a el  tu k#r/es
 k#r/e
 aBer le Ba/mos a ec/ar lece es/perate mas lece
 le lec* le ec/amos
 % ora D/a/le tom/a tu
 m! B#n aora
-- s/i Donde est/a el plato
+- si Donde est/a el plato
 s/@ Je le D/amos al BeBe lece
 - ke Bonit/o BeBe D/a/le lece
 beBe k#r/e tom/ar D/a/le lece al BeBe
 komo le D/as lece al BeBe
 no k#r/es al BeBe B$no
-- le Ba/s a ec/ar mas lec* ke es est/o
+- le B/as a ec/ar mas lec* ke es est/o
 ke es
 ke es
 keso te De tu keso
 no lo es De
-el keso s/i pares/e De BerDaD
+el keso si pares/e De BerDaD
 pares/e De BerDaD i le est/e keso
 as/emos un s/and!c
 ben Ba/mos a as/er un s/and!c el pan
@@ -4123,7 +4123,7 @@ ak# st/a De ti mir/a
 ak# st/a el el xitomate
 el xitomate
 entonses poNgo el el plato el pan le pon/emos
-s/i i le poNgo keso le poNgo el kes3 le poNgo xitomate
+si i le poNgo keso le poNgo el kes3 le poNgo xitomate
 % ora me lo komo  ke rik/o s/and!c
 te k#r/es s/and!c k#r/es un/a
 un/a De s/and!c
@@ -4131,16 +4131,16 @@ komo D/ises
 ke
 a la nena B/a a kom/er
 la nena B/a a kom/er
-le Ba/s a D/ar
+le B/as a D/ar
 a el xitomate s/#  el xitomate
 el keso
 el keso
-ke ke mas Ba/s
+ke ke mas B/as
 ej/a
 oJe as/emos un/a toRe
 te
 mir/a Ba/mos a asi
-s/i
+si
 aBer est/e
 # st/e
 mir/a aD@s
@@ -4174,7 +4174,7 @@ ke est/an as/#ndo
 est/an xuG/ando a la rezBalaDija
 ! mir/a est/an
 la rezBalaDija
-el peRo s/i
+el peRo si
 la rezBalaDija
 mir/a est/e s/e jam/a Beto # st/e s/e jam/a enRike
 ! es ke aki no no s/e aBr/e
@@ -4185,7 +4185,7 @@ mir/a aka - un/a pelota
 la
 - mir/a lo ke poD/emos as/er mir/a
 ja lo k#r/es xuG/ar kon est/e
-pio s/i pio mi
+pio si pio mi
 no no ke Bonit/o est/a est/a sal/@
 gras%s Gras%s Gras%s ke es est/o
 no los k#r/es pon/er el
@@ -4198,10 +4198,10 @@ k#n mas s/e al kam@n
 e
 el kaBajo
 k#n mas s/e al kam@n
-- s/i m! mir/a ke mio
+- si m! mir/a ke mio
 -
 s/e
-s/% s/i para ke no s/e
+s/% si para ke no s/e
 axa no s/e
 m! B#n k#n mas
 k#n mas
@@ -4219,7 +4219,7 @@ p*n/e
 no es/e no es el p*n/e
 aka est/an
 - un/a Bolsa
-s/i s/% s/i la BerDaD
+si s/% si la BerDaD
 ! m! B#n
 axa ! ke Bonit/a
 ke
@@ -4238,7 +4238,7 @@ mir/a ke -
 aBer Ba/mos aBer ke - ense ame
 aBer mir/a k&ntas kosas Bonit/as
 aki - otr/o
-s/i mir/a
+si mir/a
 ci De aBr/ir el
 sak/a/lo
 ke sal/@
@@ -4249,7 +4249,7 @@ el
 en Donde aBer
 a es un Gat/it/o
 mi+
-s/i un konexo
+si un konexo
 s/e te kajo
 aka
 ke
@@ -4261,10 +4261,10 @@ a k$nto
 ke pas/a
 ke
 aBer ke
-s/i
+si
 aBer
 mir/a
-s/i un Gato sal/@
+si un Gato sal/@
 mar%na Ba/mos a al primero Ba/mos a al BeBe
 est/o es un/a
 ke Ba/mos a k#n en la
@@ -4286,9 +4286,9 @@ s/e kajo
 pero Ba/mos kon las kosas mir/a Ba/mos a pon/er la mesa kon las
 tom/a est/o ke es
 ke es
-! jo ja teNgo ambre tu ja t#n/es ambre mar%na
+! jo ja teN/go ambre tu ja t#n/es ambre mar%na
 t#n/es ambre
-jo ja teNgo ambre me B/3 a kom/er est/o e
+jo ja teN/go ambre me B/3 a kom/er est/o e
 tu k#r/es un/a morDiDa
 aBer
 ke es es/o
@@ -4296,7 +4296,7 @@ kes/it/o
 es/e ke es
 pan
 no no te Gust/o
-b$no lo Ba/mos a G&rD/ar aki
+b/$no lo Ba/mos a G&rD/ar aki
 aora le Ba/mos a D/ar De kom/er al BeBe porke t#n/e ambre
 i la tap/aDera
 es ke s/on para xuG/ar
@@ -4307,7 +4307,7 @@ oJ* los kaRos te ja s/aBes xuG/ar kon los kaRos BerDaD
 komo Ba/n
 aora mama
 s/e B/a a el BeBe
-aora komo Ba/s a xuG/ar kon los kaRos
+aora komo B/as a xuG/ar kon los kaRos
 e
 b/as ir a pas/ar el kaRo
 es
@@ -4316,7 +4316,7 @@ no est/as ke s/on
 me D/as
 p$s
 komo est/an
-s/i
+si
 aora ja Ba/mos a t& GaRa tu tasit- tu plato
 ke est/as tom/ando
 tom/a
@@ -4328,7 +4328,7 @@ ja aBer ke Ba/mos a G&rD/ar aDentro De tu B/ols/it/a
 tu mano
 ke mas
 k#n es
-la n% s/i
+la n% si
 es/e tamb#n
 el p*n/e
 - ke Bonit/a
@@ -4342,14 +4342,14 @@ ola ola os/it/o
 komo est/as
 ja
 es/e no es
-s/on un/a para aReGl/ar el kam@n
+s/on un/a para aReGlar el kam@n
 aka
 ak# st/a mir/a
 asi tamb#n lo p$Des as/er
 no kaBe
 ke pas/o
 as/emos un/a
-s/i
+si
 te
 es/o fixate ke B/a a e
 -
@@ -4359,8 +4359,8 @@ ja me tir/as/te mi toRe mir/a naDa mas
 ke pas/o
 ke aGo
 s/e kajo la toR* Ba/mos a as/er otr/a BerDaD
-s/i Ba/mos a as/er un/a m! Grande
-aora ke Ba/s a as/er
+si Ba/mos a as/er un/a m! Grande
+aora ke B/as a as/er
 ja
 mir/a lo ke B/a a pas/ar
 -
@@ -4374,7 +4374,7 @@ ak# st/a
 pakatelas
 - ja s/e a ka/er
 - s/e kajo aBer
-aBer s/i lo B/olteamos ke es mas
+aBer si lo B/olteamos ke es mas
 - s/e kajo
 - es/a a Donde f$ a D/ar
 - ke Bonit/os
@@ -4427,7 +4427,7 @@ ja s/e la akaB/o
 komo est/aBa la lece
 #  komo est/a
 ja lo aBer
- Donde Ba/s a pon/er la lece
+ Donde B/as a pon/er la lece
 # st/e ke es
 no est/e es un kaBajo komo as/en los
 # st/e a mas ke rik/o
@@ -4436,7 +4436,7 @@ mama mama
 ke rik/o jo k#r/o s/and!c
 k#r/es s/and!c
 el BeBe k#r/e lece
-d/a/le lece al BeBe s/i no B/a a jor/ar
+d/a/le lece al BeBe si no B/a a jor/ar
 - s/u lece
 lo ka/rGamos para ke no - BeBe no jor/es para ke no
  ke rik/a lece
@@ -4453,21 +4453,21 @@ tom/a tu lece BeB* est/o ke es
 no
 a est/a jor/ando el BeBe no jor/es BeBe tom/a/te tu lece
 ja le a la lece
-b$no
+b/$no
 aora ja al BeBe para ke s/e
 beBe oJ* est/o ke es es un peR/it/o
 es komo as/e
 no la p$Des aBr/ir
 aBer ja
 es/o B#n
-o mir/a ke pas/o o % ora al no al por ke s/i no
+o mir/a ke pas/o o % ora al no al por ke si no
 asi B/a
 pon/se/la al
-listo aora s/i D/a/se/la al BeBe
+listo aora si D/a/se/la al BeBe
 oJe ja mas ja te tu
 oJe komo B/a la De un/a
 gras%s Gras%s rik/o est/a
-- Donde la Ba/s a pon/er en s/u plato ak# st/a en el
+- Donde la B/as a pon/er en s/u plato ak# st/a en el
 aora ke
 ke rik/o komo est/a el
 i las uBas Donde
@@ -4500,7 +4500,7 @@ ke Ba/mos a xuG/ar
 ke -
 ci Dex/a la Bolsa
 mir/a papa ja B/is/te
-s/i komo te papa ja lo B/is/te
+si komo te papa ja lo B/is/te
 es/e es papa
 ke t#n/e papa
 s/u komo te
@@ -4509,8 +4509,8 @@ ja B/is/te
 mir/a
 la
 el kam@n
-ke Ba/s a aReGl/ar
-es/o m! B#n Ba/mos a aReGl/ar el kam@n aBer
+ke B/as a aReGlar
+es/o m! B#n Ba/mos a aReGlar el kam@n aBer
 d/i/le est/3 el kam@n
 axa kon es/e
 es/o m! B#n
@@ -4520,7 +4520,7 @@ es/o aBer s/u s/u ja no s/irBe
 listo
 aora k#n s/e B/a a el s/e
 no kaBe
-pero por aki s/i kaBe mir/a
+pero por aki si kaBe mir/a
 b/a el s/e
 ja ja jeGe
 ke le pas/o
@@ -4539,8 +4539,8 @@ s/e kajo
 s/e kajo
 - Ba/mos aBer el liBro
 aBer mir/a
-s/i # st/e
-s/i
+si # st/e
+si
 ke mas -
 k#n es
 baka
@@ -4704,7 +4704,7 @@ b/amos a meterlos a la ka/s/it/a
 s#nt/a/te para ke te Bea
 ben Ba/mos a meterlos a la ka/s/it/a
 es/o
-a k#n mas Ba/s a meter
+a k#n mas B/as a meter
 ola
 ola
 jo s/3 el papa
@@ -4761,7 +4761,7 @@ un/o
 dos
 tres
 un/a Dos
-es/o lo Ba/s a
+es/o lo B/as a
 a mama
 gras%s
 ke es
@@ -4823,13 +4823,13 @@ me lo D/as
 te pon/lo
 aBer pikale es/o otr/a Bes es/o m! B#n Beto aora toD/os
 un/o aBer
-ke me Ba/s a
+ke me B/as a
 k&l
 dos
 k&tro
 te tok/a a t# st/e
 s/iNko
-s/*s
+s*s
 s/#/te
 oco n$Be D#s
 n$Be
@@ -4907,7 +4907,7 @@ k#r/es un/a
 est/a
 est/e no s/irBe est/a
 no
-est/e lo Ba/s
+est/e lo B/as
 - aki - un/a kosa ke no aBia jo Bisto
 no
 ke
@@ -4953,9 +4953,9 @@ falt/a la mama
 aRiBa
 ja s/e Ba/n
 a Donde s/e Ba/n
-al koce pase/ar
+al koce pas/ear
 s/e Ba/n -  a la ka/s/it/a
-s/e Ba/n a pase/ar
+s/e Ba/n a pas/ear
 mir/a ja B/is/te
 -
 ke es
@@ -4967,7 +4967,7 @@ no
 mir/a mir/a mir/a mir/a mir/a
 - ke Bonit/o te Gust/a
 k#n es ja B/is/te
-- ke paDre liBro teNgo aki teNgu na Baka
+- ke paDre liBro teN/go aki teN/gu na Baka
 i un/a flor
 te Gust/a
 - mir/a
@@ -4975,7 +4975,7 @@ te
 es/o mir/a la Gajin/it/a
 - m! B#n
 # st/e
-s/i
+si
 te
 est/a -
 mir/a las uBas las uBas
@@ -5070,7 +5070,7 @@ poBre
 - B/a la
 kon s/u para
 - B/a la
-- s/i ke paDre Ba/mos aBer ke - aDentro
+- si ke paDre Ba/mos aBer ke - aDentro
 - ke G&po
 aBer Ba/mos aBer
 - ke paDre mir/a
@@ -5087,16 +5087,16 @@ mir/a ke - aBer Ba/mos aBer
 mir/a
 aora te
 un konex/it/o
-aBer me lo Ba/s a ense ar
+aBer me lo B/as a ense ar
 aBer
 ke B/emos aji
 aBer ke -
 est/e no
-b$no
+b/$no
 aBer
 te lo ense o
 mir/+  paxar/it/o
-s/i un os/it/o
+si un os/it/o
 i
 mir/a ke - aji
 b/e lo ke - aji
@@ -5109,7 +5109,7 @@ b/amos aBer ke -
 - un poj/it/o pio pio
 aBer Ba/mos aBer ke - aj% B/axo
 mir/a ke sal/@
-s/i un
+si un
 aki
 aki
 mir/a
@@ -5158,14 +5158,14 @@ uBas
 uBas
 no no te las p$Des kom/er s/on De
 s/on De
-s/i
+si
 no las
 oJe GorD/a
 la s/opa
 ten Ba/mos a as/er la s/opa andale
 ten la kucara
 ke le k#r/es ec/ar a la s/opa
-s/i
+si
 el pan tamb#n
 el pan no s/e ec/a aj#  la s/opa
 amor
@@ -5193,7 +5193,7 @@ lo
 aora jo
 - aBer ke te B/3 a
 - - mama me
-s/i te te Ba/s a
+si te te B/as a
 run run Ba/mo/nos
 a te te k#r/es
 orale aBer
@@ -5203,13 +5203,13 @@ s#nt/a/te
 no
 ! es ke est/as m! Grandota
 aD@s
-a Donde Ba/s
-a Donde Ba/s
+a Donde B/as
+a Donde B/as
 ja
 axa
 axa
 axa
-s/i
+si
 axa
 - ke Bonit/o te
 lo
@@ -5218,7 +5218,7 @@ est/e no
 lo B/emos
 aBer
 a asi
-s/i
+si
 oJe no s/e te as/e ke est/a al
 mir/a
 ke est/an as/#ndo e
@@ -5232,7 +5232,7 @@ aBer Ba/mos a sak/ar otr/as kos/it/a/s
 aBer Ba/mos a G&rD/ar est/os
 es/os ke s/e Ba/jan
 te sol/it/a
-b$no
+b/$no
 asi mir/a
 ke ten/emos ak#
 es un
@@ -5247,12 +5247,12 @@ aora el poj/it/o
 a s/u kasa el poj/it/o
 el pojo
 un konexo
-s/i mir/a toD/os los
-s/i
+si mir/a toD/os los
+si
 braBo
 aBer
 s/e a s/u kasa el peRo el konexo el Gato #  pojo
-s/i
+si
 oJe ja B/is/te est/e
 est/e no te Gust/o BerDaD
 asi mir/a
@@ -5269,7 +5269,7 @@ b/amos a pon/er/lo en el plat/it/o BeBe
 mir/a pon las uBas en los platos
 aki - un/os platos
 i le D/amos a
-b$no pon/le las a
+b/$no pon/le las a
 pon/le limon aki mir/a
 limon
 el platano
@@ -5287,12 +5287,12 @@ a k#n le Ba/mos a D/ar pan
 pero no s/e kom/e porke es De
 a k#n le D/amos pan
 a la BeBe
-ke te pares/e s/i le D/amos pan a la BeBe
-s/i
-l+ Ba/s Ba/n a kom/er pan
+ke te pares/e si le D/amos pan a la BeBe
+si
+l+ B/as Ba/n a kom/er pan
 b/amos a pon/er toD/as las en los platos
 k#r/es tom/ar aG&
-s/i
+si
 aBer tom/a t& G!ta
 mir/a
 es un/a lecuGa
@@ -5313,7 +5313,7 @@ b/amos a pon/er/lo en el plato
 a mir/a est/os ke s/on
 le pon/emos
 a ti te Gust/an los
-s/i
+si
 rik/o
 b/amos a pon/er/lo aki
 k#n s/e B/a a kom/er est/e s/and!c
@@ -5332,10 +5332,10 @@ aBer Ba/mos a pon/er ak%  BeBe
 asi ja lo Dorm/imos
 b/amos a pon/er
 a poBres/it/o pon/lo en s/u kuna
-s/i
+si
 oJ* est/o ke es
 la tap/aDera De la tasa
-s/i
+si
 aki pon/emos
 b/as a G&rD/ar los
 el xitomate aki mir/a porke aji no B/a a
@@ -5360,7 +5360,7 @@ oJe ke as/emos kon est/o ke ten/emos ak#
 me a
 -
 k#n est/a aji
-s/i s/e
+si s/e
 me a kompon/er el kam@n
 - aBer ke le poD/emos as/er
 ke
@@ -5368,13 +5368,13 @@ ke es BeBe
 b/as a xuG/ar
 b/as a xuG/ar kon ke
 kon est/a
-s/i
+si
 kon un p*n/e
 oJe B/e aBer ke mas - aja mir/a
-s/e B/a -  De pase/o
+s/e B/a -  De pas/eo
 ke mas
 ke en s/u Bolsa
-a Donde s/e B/a -  De pase/o
+a Donde s/e B/a -  De pas/eo
 oJe G&rD/amos est/o para ke te ense e otr/as kosas
 ola
 ola
@@ -5388,7 +5388,7 @@ ola
 k#r/es xuG/ar
 !
 k#r/es xuG/ar kon mi la Baka
-s/i
+si
 aBer te prest/u no
 ola Ba/k/it/a
 est/as
@@ -5405,14 +5405,14 @@ oJe mir/a
 mir/a mir/a est/e
 oJe mir/a le D/amos B$lta
 ke es
-s/i
+si
 mir/a
 - oJe
 ke pas/o
 mir/a
 - mir/a
 mir/a te B/3 a ense ar otr/as kos/it/a/s ke ten/emos por aka
-mir/a lo ke sal/@ peD/ro
+mir/a lo ke sal/@ peDro
 ja lo B/is/te
 f$rte
 mir/a
@@ -5430,7 +5430,7 @@ es el
 -
 asi
 no te kom/as es/o no s/on para kom/er s/on De
-est/a rik/o pero no s/e kom/e m% mor i Ba/s aBer ke
+est/a rik/o pero no s/e kom/e m% mor i B/as aBer ke
 mir/a mir/a mir/a
 est/a no s/e kom/e
 berDaD mir/a Bes s/on De
@@ -5469,7 +5469,7 @@ ke es est/as tom/ando e
 ke es ke - ak#
 ke est/as tom/ando
 mir/a Ba/mos a pon/er/lo ak#  el plato
-s/i pero no te kom/as el keso
+si pero no te kom/as el keso
 mir/a
 mir/a k#n est/a aki
 mir/a
@@ -5496,8 +5496,8 @@ es/o ke es
 ke es es/o e
 ke s/e as/e kon
 oJe ke as/e a en la ana kon est/o
-peD/ro ke as/e a en la ana kon est/o
-s/i te
+peDro ke as/e a en la ana kon est/o
+si te
 no s/e
 mir/a ke est/as en la tasa
 ke est/as
@@ -5514,24 +5514,24 @@ ke le as/e al kam@n
 - ke le pas/o
 - kon est/e kam@n ke s/e
 listo a
-a s/i ja p$De
+a si ja p$De
 lo
-3G- s/i lo
-s/i lo ka/rGamos
-- pero la mano De aji s/i no s/e B/a a lo ka/rGamos kon
+3G- si lo
+si lo ka/rGamos
+- pero la mano De aji si no s/e B/a a lo ka/rGamos kon
 a Donde lo B/a a jeB/ar
 run
 es/a es un/a
 ke
 a es/a el
-lo est/a aReGl/ando
+lo est/a aReGlando
 - el kam@n s/e B/a
 jo s/3 un/a Baka ola komo est/as
 ker/emos t& miGo mir/a no as/emos naDa
 b/#nes a xuG/ar kom/miGo
-s/i B#n/es a xuG/ar kom/miGo s/i
-ben s/i Ben
-k#r/es xuG/ar kon un/o s/i k#r/es + no
+si B#n/es a xuG/ar kom/miGo si
+ben si Ben
+k#r/es xuG/ar kon un/o si k#r/es + no
 mir/a ten
 la man/it/a aki tu man/it/a aki
 ola
@@ -5548,7 +5548,7 @@ est/a xuG/ando kon la pelota
 mir/a a k#n s/e pares/e
 a los pelos De tu papa
 te Gust/a
-s/i
+si
 aBer ense ame al n@ ke est/a as/#ndo cik/it/a
 i ke es est/o 
 ke es
@@ -5556,7 +5556,7 @@ komo s/e D$rm/e el BeBe komo s/e D$rm/e
 aBer ense ame komo s/e los ni no
 oJe te ke - en la kasa
 mir/a ke es
-no asi lo Ba/s a asi - ke es
+no asi lo B/as a asi - ke es
 aBer ke es e
 est/a Bonit/o el liBro
 aBer komo as/e est/e
@@ -5585,19 +5585,19 @@ mir/a toD/o lo ke ten/emos aki los ke te Gust/an
 ke Bonit/o
 gras%s
 mir/- xa
-aki ten/emos m% mor no Ba/s -  a otr/o laDo
+aki ten/emos m% mor no B/as -  a otr/o laDo
 aBer te ke as/es kon tus en la kasa
 ke pas/a
 k#r/es B/er otr/os xuG/etes
 - ke Bonit/a mir/a
 - est/a m! ix/a es/e no s/e kom/e m% mor
 est/a rik/a s/# st/a rik/a
-te la Ba/s a
+te la B/as a
 - mir/a
 no s/e kom/e es/o s/aBe a BerDaD
 no no es/o no s/e kom/e
-oJe te k#r/o + nos ke teNgo
-est/os ke teNgo aki ja B/is/te
+oJe te k#r/o + nos ke teN/go
+est/os ke teN/go aki ja B/is/te
 ola komo est/as
 jo s/3 un caNg/it/o ola
 ola
@@ -5609,10 +5609,10 @@ jo
 ola
 xuG/amos
 ben mir/- x+ na
-s/i
+si
 k&l k#r/es
 ola - te B/3
-te las Ba/s a kom/er m% B/er
+te las B/as a kom/er m% B/er
 b/amos aBer mir/a ke es est/o est/o
 xuG/amos a la kom/iD/it/a
 mas mir/a es/o aji toD/as mi
@@ -5631,8 +5631,8 @@ k#r/es kom/er
 aorit+  platano * te lo D/3
 - ke
 ke s/aBrosa lecuGa
-te lo Ba/s a kom/er
-s/i te lo Ba/s a kom/er s/i te lo Ba/s a
+te lo B/as a kom/er
+si te lo B/as a kom/er si te lo B/as a
 mas
 mir/a pan
 ke es
@@ -5642,10 +5642,10 @@ ke rik/o pan
 mir/a aki - un/a De xitomate ke te Gust/a muco tamb#n
 te Gust/a el xitomat* xa
 mir/a lecuGa no k#r/es
-s/i te Gust/a la lecuGa
+si te Gust/a la lecuGa
 me la D/as
 me un/+ B/a
-s/i
+si
 d/a/le un/+ B/a a tu papa m% mor D/a/le un/+ B/a a papa
 donde las uBas
 las uBas ix/a Donde
@@ -5712,10 +5712,10 @@ oJe Ba/k/it/a me ke jo te un kari
 - Ba/k/it/a no aBia Bisto tus k$rnos
 tus
 jo me B/3 a +  + 
-oJe tu Ba/s +  arBol
+oJe tu B/as +  arBol
 - Ba/k/it/a oJe mi leNg&
 - tu t#n/es leNg& Baka
-s/i me la ense
+si me la ense
 aBer Baka ense ame tu leNg&
 i ke pas/o
 kon
@@ -5735,15 +5735,15 @@ aki D$rm/e el mu
 aki
 aBer
 komo s/e D$rm/e
-s/% s/i s/e D$rm/e
+s/% si s/e D$rm/e
 pero aki
 komo te
-s/i
+si
 aora B/en/te para aka
 est/a
 s/e tom/a kon ke est/a tas/it/a
 no ak#  est/a tas/it/a
-ke teNgo aki
+ke teN/go aki
 tom/a mir/a Ba/mos a xuG/ar
 jo te aG!ta
 jo te aG!t- tu s/e la D/as a tom/ar
@@ -5825,22 +5825,22 @@ ke Bonit/o
 mir/a
 - el kam@n
 s/e me el kam@n lo
-b/amos a aReGl/ar el kam@n
+b/amos a aReGlar el kam@n
 - aBer k#n est/a aki
 i
 ja B/is/te
 ja listo el kam@n
 run run
-- aBer jo k#r/o aReGl/ando el kam@n s/e a
+- aBer jo k#r/o aReGlando el kam@n s/e a
 ja s/e B/a el kam@n
 ja s/e B/a
 b/amos a el kam@n
 oJe k#r/es ke te ense e otr/os xuG/etes
 g&rD/amos est/os
-s/i los G&rD/amos
+si los G&rD/amos
 los G&rD/amos aja
 m! un
-i un est/a aReGl/andu  n@
+i un est/a aReGlandu  n@
 ola
 ola
 un kar% est/e n@ un kari
@@ -5876,23 +5876,23 @@ un os/it/o un os/it/o un os/it/o
 - un os/it/o
 aBer Ba/mos aBer
 # st/o
-jo me B/3 a pase/ar en mi kam@n
+jo me B/3 a pas/ear en mi kam@n
 aD@s
 run
 - la Baka s/e B/a a al kam@n
 ke k#r/es
 - lo ke aBaxo De mi p#
 no est/a
-b$no
+b/$no
 aD@s n@
 ! ke Bonit/o est/a es/o liBros oJe me un/o
-me Ba/s a e
+me B/as a e
 a mari
 - jo k#r/o me lo
 mir/a ke Bonit/o aBer lo B/emos
 aBer ke pas/o aki ke - ak#
 mir/a
-lo Ba/s a aBr/ir aBer as% B/er mir/a
+lo B/as a aBr/ir aBer as% B/er mir/a
 - ke Bonit/o
 ke es ke es
 a mari ke es
@@ -5942,22 +5942,22 @@ e est/o ke es mir/a ke rik/o
  ke es
 ke es
 pan me lo komo
-b$no lo pon/emos en el plat/it/o aki
+b/$no lo pon/emos en el plat/it/o aki
 b/amos a as/er un De
 -
-mir/- tra/ximos al BeBe a xuG/ar al De s/i
+mir/- tra/ximos al BeBe a xuG/ar al De si
 mir/+  keso amarijo mir/a
 as/emos un s/and!c
 mir/a asi kon keso no
 - B/e est/o mir/a los
 un/a lecuGa
 mir/a ! est/a rik/o
-s/i
+si
 i las mir/a
 est/a ke es
 ke es est/a
 el pan mir/a est/a el pan
-mir/a los plat/it/o/s s/i pon/emos toD/o en la kom/iDa en
+mir/a los plat/it/o/s si pon/emos toD/o en la kom/iDa en
 mir/a est/a es la naranxa
 #  BeBe pon/lo en s/u kuna est/e ten/dra ambre el BeBe
 k&l
@@ -5990,7 +5990,7 @@ es/a es un/a naranx+ na mand/arina B#n
 est/a
 - ke G&pa
 k#n es
-3Ga me a aReGl/ar el kam@n
+3Ga me a aReGlar el kam@n
 no me k#r/es ajuD/ar
 mir/a ke Bonit/a
 - ke G&pa
@@ -6001,13 +6001,13 @@ jo B/3 a kom/er ke rik/o
 ola
 - me k#r/e aGaR/ar mi leNg& pero jo no komo mano
 jo komo
-- me Ba/s a D/ar De kom/er
+- me B/as a D/ar De kom/er
 me D/as De kom/er
 - me B/a a D/ar
  ke rik/o
 k#r/o mas
 a es un
-s/i
+si
 oJe aBr/imos para B/er ke - aki
 i mir/a
 un oso
@@ -6017,11 +6017,11 @@ ke es e
 un/a Baka
 mu
 un/a flor
-s/i
+si
 est/e es un Barko
 a k#r/es B/er la Baka
 el koce
-s/i
+si
 oJe ja B/is/te el ke ten/emos aka
 g&rD/amos est/e
 aki lo
@@ -6033,14 +6033,14 @@ es enRike me
 es
 i
 es/e es enRik* est/e es Beto
-s/i
+si
 enRik* Beto
 enRike
 enRike tamb#n
 est/e
 es/e es Beto
 enRike
-oJe mir/a lo ke teNgo por aka
+oJe mir/a lo ke teN/go por aka
 mir/a
 ja lo B/is/te
 f$rte f$rte
@@ -6067,7 +6067,7 @@ mir/a lo ke me enkontr/e
 no s/e
 mir/a asi
 est/e aka B/a s/u ka/x/it/a
-s/i
+si
 i ke mas ten/emos aki
 - k&ntas kosas
 un oso
@@ -6089,9 +6089,9 @@ mir/a pojo ja B/is/te
 mir/a mir/a
 no aji no B/a es/o
 no BeBe
-s/i p$s s/% la nena
+si p$s s/% la nena
 s/e B/a a Dorm/ir
-s/i s/e B/a a Dorm/ir la nena
+si s/e B/a a Dorm/ir la nena
 - un Bes/it/o a la nena
 aBer
 aBer Ba/mos a as/er un koces/it/o aBer
@@ -6102,7 +6102,7 @@ asi
 s/e kajo
 ben asi
 no pero
-aBer aora s/i
+aBer aora si
 aki
 - s/e kajo
 asi
@@ -6119,7 +6119,7 @@ pero s/in e
 aBer un/a Dos i
 tres aBer
 ak# st/a mi kucara aji tu la
-s/i
+si
 - -
 $B/it/o
 un $B/it/o a tu papa
@@ -6129,7 +6129,7 @@ a est/as
 aBer
 aj# st/a
 ka/rne
-s/i
+si
 aBer
 -
 s/e kajo
@@ -6169,7 +6169,7 @@ s/e kajo
 ola
 te D/i/le ola caNg/it/o
 komo as/e la Baka aBer
-s/i
+si
 donde est/an s/us k$rnos
 i no s/apatos la Baka no
 aBer
@@ -6212,7 +6212,7 @@ am
 ola komo est/as
 k#r/es xuG/ar kom/miGo
 amiGo
-amiGo s/i jo tamb#n s/3 t& miGo
+amiGo si jo tamb#n s/3 t& miGo
 ola amiGo komo est/as
 amiGo komo est/as
 komo te amiGo
@@ -6227,15 +6227,15 @@ mir/a
 mir/a
 mir/a enRike
 i Beto
-s/i
+si
 s/e akaB/o
 -
 mir/a
 mir/a
-s/i mir/a
+si mir/a
 s/#  es Beto
 mir/a te tu
-s/i
+si
 aBer tu para ke te te
 aBer Ba/mos a el a
 listo
@@ -6244,7 +6244,7 @@ e mir/a est/e
 aBer te
 mir/a
 nene es un os/it/o
-s/i
+si
 mir/a
 mir/a
 un koce
@@ -6257,7 +6257,7 @@ mir/a lo ke me enkontr/e
 mir/a
 ke es
 s/opa mir/a un/a mansan/it/a
-s/#  un/a mansana s/i BerDaD
+s/#  un/a mansana si BerDaD
 un/a es De a no s/e kom/e BeBe no es para ke
 !
 s/% B/er
@@ -6275,7 +6275,7 @@ mansana
 mansana
 pero es De a BeBe
 mir/a mir/a el BeBe
-s/i mir/a aj# st/a el BeBe ta es un
+si mir/a aj# st/a el BeBe ta es un
 s/#  un platano pero tamb#n es De a
 s/#  De
 mir/a k&ntos platos
@@ -6293,11 +6293,11 @@ ke le e
 ke le D/amos al BeBe
 s/e kom/e BeBe toD/os s/on De mir/a es para ke
 mir/a la tas/it/a no k#r/es aG&
-s/i
+si
 mir/a los kuB/it/o/s
 mir/a los kuB/it/o/s
 te Gust/aron los plat/it/o/s
-s/i
+si
 te Gust/aron
 te Gust/aron los plat/it/o/s
 mir/a mir/a
@@ -6314,7 +6314,7 @@ es para xuG/ar no xuG/ando
 s/opa
 s/opa
 k#r/es s/opa aji
-no teNgo
+no teN/go
 no -
 no -
 3Ga komo est/a
@@ -6323,7 +6323,7 @@ e
 k#n est/a aji
 axa
 b/amos a as/er un/a toRe
-- para aka porke s/i no no B/a a sal/ir
+- para aka porke si no no B/a a sal/ir
 es/e no es para los D/#ntes
 ola komo est/a
 s/e B/a De
@@ -6341,7 +6341,7 @@ no es/o no es para los D/#ntes
 es un para
 ! ke G&po
 3Ga G&rD/amos est/os xuG/etes para ke le ense e otr/os
-s/i
+si
 g&rD/amos est/os xuG/etes ak% B/er
 - - - -
 ja porke ja s/e Ba/n los xuG/etes
@@ -6389,7 +6389,7 @@ aBer est/e De aki mir/a
 la naris
 te aBl/a mama
 ja
-s/i
+si
 k&l falt/a k#n falt/a
 est/e mir/a para ke salG/a
 asi
@@ -6446,22 +6446,22 @@ ak# st/a otr/o mir/a
 k&ntos
 ke es est/o
 ke
-plato s/i
+plato si
 otr/o
-s/i
-s/i
+si
+si
 mir/a ke s/on
-e mir/+ Ba/s
+e mir/+ B/as
 uBas
 komo s/e jam/an
 uBas
 # st/a
 mansana
-s/i
-s/i
+si
+si
 el platano
 naranxa
-s/i
+si
 mir/a
 mir/a D/a/le De kom/er al BeBe ten
 d/a/le De kom/er al BeBe
@@ -6481,32 +6481,32 @@ la mansana
 no la mansana
 la mansan- D/a/me/la
 la mansana
-s/i
+si
 d/a/me un plato
-un plato s/i un plato
+un plato si un plato
 un plato
 un plato est/o es un plato
 un/a tasa
-le Ba/s a D/ar al BeBe
+le B/as a D/ar al BeBe
 d/$r/me/lo D$rm/e/lo
 no lo D$rm/es
 ke es est/o
 xitomate aj# st/a el pan
 s/e lo k#r/e kom/er
 mir/a est/e es un s/and!c mir/a
-s/i mir/a
+si mir/a
 aji no ak# st/a la kuna Del ni|/o
-s/i
+si
 s/u mamila
 al BeBe
 ke le est/as D/ando
 al BeBe
 ja s/e
-s/i
+si
 s/u teta
 ja
 mir/a
-s/i s/e
+si s/e
 aor/it/a aor/it/a
 te B/a G&u
 @ tro
@@ -6545,17 +6545,17 @@ no no es/perate
 ke
 d/a/me un BeBe
 d/a/me un BeBe
-s/i
+si
 otr/o
-s/i
+si
 d/a/me a s/u mama
 s/u mama
 d/a/me a s/u mama De los BeBes
 donde est/a s/u mama
 est/e es s/u papa
-s/i s/u mama
+si s/u mama
 d/a/le el es/pexo para ke s/e Bea
-s/i
+si
 los otr/o BeBes
 otr/o
 el p*n/e para ke s/e p*n/e la s/e|ora
@@ -6568,20 +6568,20 @@ no te
 el martijo el D/a/me/lo
 mir/a
 pon/se/lo a la mama
-s/i
+si
 te eres la mama
-s/i
+si
 a la mama pon/se/lo
 aki mir/a
-mir/a ja s/e Ba/n la mam- el papa a pase/ar
+mir/a ja s/e Ba/n la mam- el papa a pas/ear
 mir/a kon s/us BeBes
 a ja los tir/as/te
 ke
 s/e kajo
 s/e kajo
 aki
-s/i un pok/it/o el ni|/o as% aka para ke s/e Bea s/u
-s/i las taBl/it/a/s
+si un pok/it/o el ni|/o as% aka para ke s/e Bea s/u
+si las taBl/it/a/s
 ten
 otr/a
 s/e akaB/o
@@ -6594,11 +6594,11 @@ a ej/a
 k#r/es a mama
 s/% B/er Ba/mos a B/er/lo
 est/an ak# st/an los
-s/i
-s/i
+si
+si
 ke mas as/en
 aki ke est/an as/#ndo
-s/i
+si
 % ki
 ja
 aBer otr/o
@@ -6625,9 +6625,9 @@ no D/a/le est/e
 d/a/se/lo
 te ense|/o est/e
 mir/a
-mir/a lo ke Ba/s aBer aja
+mir/a lo ke B/as aBer aja
 ke es
-s/i
+si
 # st/e
 el os/it/o
 el Barko
@@ -6639,7 +6639,7 @@ aki
 ke es
 komo s/e jam/a
 la Ba/k/it/a
-s/i
+si
 # st/e
 ke es es/e
 aBer aora te B/3 a ense|/ar
@@ -6653,11 +6653,11 @@ al BeBe en s/u ka/m/it/a
 aBer Ba/mos a pon/er el plato
 aGaR/+  plato tamb#n te
 aGaR/+  plato
-s/i
+si
 n3 xa s/on De a
 no s/e kom/en
 pon los platos para ke
-s/i primero los platos
+si primero los platos
 ke es
 elote mir/a
 komo s/e jam/a
@@ -6669,20 +6669,20 @@ ak#  est/as kosas
 es/a es lece
 aBer ke es est/e
 es/e Donde B/a
-s/i
+si
 en el plat/it/o pon/lo
 mir/a est/e ke es
 pan
-kon ke te lo Ba/s a kom/er
+kon ke te lo B/as a kom/er
 kon un/a lec/it/a
 no es un/a mansana
-s/i pero no s/e kom/e
+si pero no s/e kom/e
 no no s/e kom/e
 mir/a est/e ke es
 ke es
 es un platano
 platano
-s/i
+si
 ja le Ba/mos a D/ar s/u kom/iD/it/a al BeBe
 kon est/a
 no le k#r/es D/ar s/u s/op/it/a al BeBe
@@ -6692,7 +6692,7 @@ aora le Ba/mos a D/ar un/+ B/a al BeBe
 d/a/se/la al BeBe
 ja s/e la
 aBer aora D/a/le un/a naranxa
-s/i un/a naranxa
+si un/a naranxa
 aBer Donde est/+ na naranxa
 no -
 entonses un/a mand/arina
@@ -6724,37 +6724,37 @@ a ke xuG/amos
 a ke xuG/amos
 es/os s/on los De la mama
 los
-s/i
+si
 b/amos aBer ke ten/emos aki
 ke ten/emos
 - aj# st/a la mama
 ke mas - aji
-s/i s/u
+si s/u
 t#n/e
 est/e es el papa
-s/i
+si
 ke mas - por aki
 mir/a ak# st/an los ni|/os
 mar%na ja los B/is/te
 los ni|/os
-a Donde los Ba/s a jeB/ar
-a Donde te los Ba/s a jeB/ar
-a pase/ar
+a Donde los B/as a jeB/ar
+a Donde te los B/as a jeB/ar
+a pas/ear
 los al
-los Ba/s a jeB/ar al
-s/i
+los B/as a jeB/ar al
+si
 ak# st/a la BeBe
-es el koj/ar
+es el kojar
 te Gust/a
-es el koj/ar De la mama
-no s/e lo Ba/s a pon/er
+es el kojar De la mama
+no s/e lo B/as a pon/er
 es De mama
-mir/a aki mama t#n/e un koj/ar tamb#n
+mir/a aki mama t#n/e un kojar tamb#n
 mir/a mar%na
-aki t#n/e s/u koj/ar
+aki t#n/e s/u kojar
 ja lo B/is/te
 oJe Ba/mos a p*n/ar a los ni|/os ke te pares/e
-s/i
+si
 te kon est/e
 ak# st/a el papa
 te p*n/a kon est/e
@@ -6763,7 +6763,7 @@ ke
 donde est/ara el es/pexo
 a est/e es el otr/o ni|/o
 ak# st/a el es/pexo
-aBer Ba/mos aBer s/i ja s/e B/e Bonit/a mama
+aBer Ba/mos aBer si ja s/e B/e Bonit/a mama
 - ke Bonit/a BerDaD
 falt/a De p*n/ar
 ke s/on
@@ -6787,18 +6787,18 @@ ke mas le Ba/mos a D/ar
 b/amos a tom/ar k#r/e aG!ta
 k#r/e aG!ta
 aBer D/a/le aG&
-no kon ke le Ba/s a D/ar
+no kon ke le B/as a D/ar
 kon est/e
 te D/a/le al nene
 d/a/le aG!ta
 ja no k#r/e
 est/a
 ke est/a as/#ndo
-lo Ba/s a toD/o
+lo B/as a toD/o
 aBer aG&
 aG& De est/a
-en Donde la Ba/s a
-no la Ba/s a
+en Donde la B/as a
+no la B/as a
 ke k#r/es el koces/it/o
 aji te B/a el koces/it/o
 aji te B/a el koces/it/o
@@ -6811,8 +6811,8 @@ para k#n es el platano
 no
 mir/a ten
 b/amos a xuG/ar a la kom/iD/it/a
-s/i
-orale ke te Ba/s a kom/er te
+si
+orale ke te B/as a kom/er te
 k&l es tu plato
 k&l es tu plato
 - ja s/e kajo
@@ -6824,20 +6824,20 @@ k&l otr/o
 prest/a/me te nene
 prest/a/me te nene
 tu nene
-s/i
+si
 b/amos a Dorm/ir al nene
-lo D$rm/o s/i
+lo D$rm/o si
 ke le B/3 a D/ar
 aki lo D$rm/o
-pero ja t#n/e ambre ke le Ba/s a D/ar
+pero ja t#n/e ambre ke le B/as a D/ar
 en Donde est/a el BiBi
-ak# st/- no le Ba/s a pon/er lece
+ak# st/- no le B/as a pon/er lece
 aBer D/i lece
 i Donde est/a la lece aki la lece aki koRele
 pon/le la lece al BiBi
 pon/le la lece al BiBi
 la lece al BiBi no
-orale ke le Ba/s a D/ar
+orale ke le B/as a D/ar
 s/u BiBi
 d/i/le ja no jor/es
 ja no porke
@@ -6845,22 +6845,22 @@ porke est/a jor/ando aora porke t#n/e
 ! no s/e p$De sak/ar no s/e p$De sak/ar
 pero no s/e p$De par/- ra est/a aki
 b/amos a aki mexor D$rm/e/la ak% Dentro
-s/i
+si
 aBer
 en Donde lo Dex/as/te el BiBi
 aBer D/a/me/lo
 es/e ke es
 ke es
 # st/a
-te Gust/a el koj/ar
-s/i
+te Gust/a el kojar
+si
 ke es
 un mu|ek/it/o te Gust/a mir/a
 el BeBe
 el BeBe
 a ke xuG/amos kon est/os
-te los Ba/s a jeB/ar a pase/ar
-s/@ Je ke Bonit/o koj/ar
+te los B/as a jeB/ar a pas/ear
+s/@ Je ke Bonit/o kojar
 no es De
 no es De
 no es
@@ -6881,7 +6881,7 @@ un pojo
 pojo
 mir/a la lece
 la lece
-s/i para el BeBe
+si para el BeBe
 para el BeBe
 la lece para el BeBe
 est/e B/a aki mir/a
@@ -6927,7 +6927,7 @@ cile
 papas te Gust/an muco las papas
 mir/a
 las G&rD/amos ak#  la B/ols/it/a
-b$no ak# st/an
+b/$no ak# st/an
 aki - mas mir/a
 mir/a
 k&l
@@ -6942,7 +6942,7 @@ mir/a aki - uBas
 uBas
 no te Gust/an las uBas
 es/a no s/e me pares/e ke es un/a
-s/i ke es un/a
+si ke es un/a
 oJe G&rD/amos la kom/iD/it/a par/+ na ka/s/it/a
 aBer Ba/mos aBer te B/3 a ense|/ar
 - mir/a est/e liBro
@@ -6953,13 +6953,13 @@ asi mir/a asi
 e
 mir/a
 ke est/an as/#ndo
-s/i ja B/is/te
-b/amos a B/er/lo el s/i
+si ja B/is/te
+b/amos a B/er/lo el si
 ke est/an as/#ndo
-s/i
+si
 enRik* Beto
 axa
-s/i
+si
 - mir/a ke Bonit/os
 i mir/a
 - ke Bonit/o
@@ -6967,7 +6967,7 @@ est/a B/riNkando kon la ja B/is/te
 mir/a est/e est/a
 ja B/is/te
 aBer D/a/le B$lta
-s/i
+si
 - est/a
 no no no te lo B/3 a kit/ar
 te lo est/3 mir/a
@@ -6998,13 +6998,13 @@ mir/a
 ola
 te Gust/a mas enRik* Beto
 axa
-s/i
+si
 est/an xuG/ando kon la pelota ja B/is/te
 aBer mir/a no te me Ba/jas
 - mir/a lo ke te B/3 a ense|/ar mir/a ke Bonit/o est/a est/e lo
-s/i lo k#r/es
+si lo k#r/es
 aBer mir/a
-asi mir/a Ba/s aBer
+asi mir/a B/as aBer
 ja B/is/te ke - en los DiBux/os
 mir/a
 aBer mir/a para aka
@@ -7052,14 +7052,14 @@ ja sal/@
 mir/a toD/os
 aBer mir/a t$ res la mama
 t$ res la mama
-mir/a el koj/ar
+mir/a el kojar
 mir/a aki - un/a
 mir/a ke est/o
-mir/a es/e es otr/o koj/ar pon/se/lo a la mama a la mama
+mir/a es/e es otr/o kojar pon/se/lo a la mama a la mama
 mir/a te pon a lo ke te
 mir/+ na s/e la pon/emos a la mama
 - le keDa Grande
-no as#  koj/ar porke
+no as#  kojar porke
 mir/a la
 la
 s/e la pon/emos a la ni|/a
@@ -7069,7 +7069,7 @@ b/amos +  plat/it/o
 no s/e kom/e De la Boka
 - mir/a aki -
 aki - otr/o
-% ora Ba/mos a D/ar De kom/er s/i
+% ora Ba/mos a D/ar De kom/er si
 mir/a
 te
 te De kom/er aBer
@@ -7086,18 +7086,18 @@ mir/a ke Bonit/a
 mir/a tom/a para ke t* aki te Bes
 no te aki
 mir/a
-aBer mir/a lo ke teNgo aki
+aBer mir/a lo ke teN/go aki
 mir/a k#n Bino
 mir/a k#r/es un/o
 k&l k#r/es
 la Ba/k/it/a
 jo s/3 un caNgit3 me B/3 a pon/er est/e
 pon/le un/o a la Ba/k/it/a aBer
-a pon/se/lo a la Ba/k/it/a porke ja s/e Ba/n a pase/ar pon/se/lo
+a pon/se/lo a la Ba/k/it/a porke ja s/e Ba/n a pas/ear pon/se/lo
 - ja s/e lo puso la Ba/k/it/a - ke Bonit/a s/e B* aora
 e
 a ke xuG/amos
-no lo asi porke s/e B/a a el koj/ar De la mama
+no lo asi porke s/e B/a a el kojar De la mama
 ja B/is/te
 ke es
 mir/a ja B/is/te
@@ -7140,7 +7140,7 @@ mas xuG/et/it/o/s
 mir/a
 le B/3 a prest/ar otr/os xuG/etes
 mir/a ke es est/o
-s/i
+si
 ja
 ke
 mir/a
@@ -7157,7 +7157,7 @@ ke es
 i
 mir/a
 mir/- xo
-me Ba/s a ajuD/ar
+me B/as a ajuD/ar
 toD/os
 mir/a
 mir/a alexandro
@@ -7167,7 +7167,7 @@ aora te
 ten
 te B/3 a kom/er alexandro
 te B/3 a kom/er
-mir/a s/i no as/en naDa
+mir/a si no as/en naDa
 mir/a ke Bonit/os mir/a
 pio pio
 mir/a alexandro
@@ -7175,8 +7175,8 @@ mir/a mir/a
 mir/a est/e
 mir/a
 ja no lo k#r/es
-s/i
-s/i lo k#r/es
+si
+si lo k#r/es
 la mano asi
 i
 mir/a ke ten/emos aki
@@ -7189,7 +7189,7 @@ b/amos a
 b/amos a mir/a kon est/e
 mir/a la nena
 ja la B/is/te
-oJe Ba/mos a jeB/ar a pase/ar a la mama al pap- a la nena mir/a
+oJe Ba/mos a jeB/ar a pas/ear a la mama al pap- a la nena mir/a
 ak#  el kam@n
 te lo poNgo
 mir/a
@@ -7199,7 +7199,7 @@ alexandro
 a ak# st/a mama
 s/% j# st/a mama
 % ka k#n est/a aka
-s/e Ba/n -  a pase/ar
+s/e Ba/n -  a pas/ear
 ke G&po
 mir/a los nenes
 b/amos a De kom/er a los nenes mir/a
@@ -7207,8 +7207,8 @@ ke
 mir/a mir/a asi mir/a
 aora te aora te
 run
-nos B/a a jeB/ar De pase/o
-p$s por para ke nos De pase/o
+nos B/a a jeB/ar De pas/eo
+p$s por para ke nos De pas/eo
 mir/a k#nes un/os
 ola alexandro
 ben Ben para aka para ke
@@ -7223,7 +7223,7 @@ s#nt/a/te no te k#r/es sent/ar aki kom/miGo ak# s/o
 no no Ba/jas a jor/ar e
 no no B/a a jor/ar BerDaD
 no
-s/i s/e k#r/e sent/ar aki
+si s/e k#r/e sent/ar aki
 mir/a
 ke es
 ja lo B/is/te
@@ -7231,11 +7231,11 @@ ke es
 un oso
 aBer B/emos primero
 est/e
-b$no
+b/$no
 aBer ke - aki
 mir/a
 oJe ja B/is/te ke - aki
-s/i
+si
 flores/it/a
 aBer aBer i ja e mir/a
 ke es es/o
@@ -7251,7 +7251,7 @@ xuG/ando
 aBer aka
 mir/a
 est/a
-s/i
+si
 aBer aka
 - - - aki
 s/# st/e es enRike
@@ -7308,7 +7308,7 @@ kucara komo kom/es kon ej/a
 aBer komo kom/es
 tu
 s/%n D/a/le
-s/i me D/ises
+si me D/ises
 ke es
 est/a
 aBer es un/a ke es/a est/a ke es
@@ -7325,7 +7325,7 @@ ke
 ke es
 es ke
 es lece
-s/i
+si
 # st/a ke es
 un/a mamila
 orale
@@ -7359,7 +7359,7 @@ ja no - naDa
 en la kaxa ja no - naDa
 aBer a ke xuG/amos
 aBer ke as/emos
-a ke Ba/s a xuG/ar
+a ke B/as a xuG/ar
 a ke
 la kasa
 ja Bes
@@ -7374,7 +7374,7 @@ mir/a
 le
 le
 le
-s/i
+si
 aBer aBer Ba/mos a
 ke
 ke es est/e
@@ -7382,7 +7382,7 @@ ke B/a as/er la s/e|ora
 aBer
 ke es
 el mir/a
-ke Ba/s as/er kon es/e
+ke B/as as/er kon es/e
 aki pon/lo aki aki
 orale toD/o
 los
@@ -7411,8 +7411,8 @@ e
 b/amos a as/er
 aora tu
 aora De kom/er
-pero le Ba/s a ec/ar en un/a tas/it/a
-le Ba/s a ec/ar en un/a tas/it/a aki
+pero le B/as a ec/ar en un/a tas/it/a
+le B/as a ec/ar en un/a tas/it/a aki
 aora s/e la a D/ar
 aora tu
 -
@@ -7437,11 +7437,11 @@ ke s/on
 aBer pon t& k% ki la pon/emos
 xuG/amos a la kom/iD/it/a
 ak# st/a
-s/e|ora s/i x$G/a kon la ni|/a komo lo as/e p$De
+s/e|ora si x$G/a kon la ni|/a komo lo as/e p$De
 no no no jor/es
 no jor/es
 no te lo poNgo
-s/i
+si
 no
 mir/a pon/se/lo aki aki pon/le
 aki De es/os
@@ -7512,19 +7512,19 @@ no lo k#r/es
 s/%  elote
 es elot* r+ na mansana
 un/a mansana
-s/i
-mansana s/i
+si
+mansana si
 ira ira
 ira
 ira
 est/a Bonit/o
-s/i
-s/i
-ir+ Ba/s
+si
+si
+ir+ B/as
 uBas
-s/i
+si
 ir+  pan ir+  pan
-s/i
+si
 k&l
 elote
 elote
@@ -7569,7 +7569,7 @@ ke es est/o
 un/a tasa
 ira ke es est/o
 ira
-platano s/i
+platano si
 aBer aora Ba/mos a B/er
 ke es est/o
 ira
@@ -7585,7 +7585,7 @@ kaRo
 es kaRo
 pan ix/it/a es pan
 ke
-es pan s/i
+es pan si
 ke es est/o mir/a
 cile
 # st/3 xa ke es est/o
@@ -7621,7 +7621,7 @@ ke
 b/on/it/o
 el
 ira
-s#nt/a/te s/i k#r/es
+s#nt/a/te si k#r/es
 s#nt/a/te
 no no no ka/ja/te no jor/es
 no jor/es
@@ -7650,14 +7650,14 @@ a la BeBe komo s/e a la BeBe
 aBer
 tu BeBe
 tu BeBe andale
-s/i
+si
 asi mir/a asi mir/a no
 no
 aBer el koces/it/o x$G/a kon el koces/it/o
-pon aki los s/i
-pon/los ak% s/i mir/a
-s/i pero a
-- s/i te D/3 s/i no no
+pon aki los si
+pon/los ak% si mir/a
+si pero a
+- si te D/3 si no no
 aBer pon/lo aki
 pon/lo aji
 el otr/o
@@ -7673,7 +7673,7 @@ pon/lo B#n mir/a
 ak% RiBa mir/a
 ak# st/e B/a aki
 aBer
-ke Ba/s a as/er aki kom/iDa
+ke B/as a as/er aki kom/iDa
 kom/iD- aki
 aBer ten mir/a
 aBer tu tus kon est/o
@@ -7684,7 +7684,7 @@ komo s/e jam/a est/e
 platano
 mir/a al BeBe
 mir/a al BeBe asi
-no no lo as% s/i mir/a
+no no lo as% si mir/a
 asi D/i/le ke s/e
 komo s/e jam/a est/e pan komo s/e jam/a
 # st/a
@@ -7716,7 +7716,7 @@ aja aja kon mama a xuG/ar
 mir/a
 mir/a
 me komo las papas jo
-s/e kom/e tu mama las papas s/i
+s/e kom/e tu mama las papas si
 mir/a
 ke k#r/es mir/a
 b/e/te a xuG/ar kon mama koRele Ben
@@ -7730,9 +7730,9 @@ ben
 gras%s Ben mir/a
 ben ix/a mir/a lo ke te
 fixate lo ke te Ben
-tu lece tamb#n s/i
-s/i mir/a tu lece
-s/i
+tu lece tamb#n si
+si mir/a tu lece
+si
 ben a as/er est/o
 mir/a ak# st/a la mama ak# st/a el papa
 d/a/le De kom/er al papa t#n/e ambre
@@ -7743,12 +7743,12 @@ oJe mir/a Ba/mos a as/er De kom/er para el pap- para la mama
 el papa ja s/e t#n/e k*  a ak#  s/u kam@n
 a Donde B/a el papa
 aki Ba/mos a pon/er s/us
-s/i
+si
 a la mama tamb#n la Ba/mos a pon/er aji
 oJe
 d/a/le De kom/er a la mama mir/a ak# st/a s/u kom/iDa De la mama 
 ke est/as D/ando De kom/er
-s/i
+si
 aG& aG& aG!ta aG!ta
 oJe el papa s/e t#n/e k*  a
 a Donde B/a -  a el papa
@@ -7778,18 +7778,18 @@ ja ja
 ja ja
 - ke fea
 jo tamb#n
-es un koj/ar
+es un kojar
 es ke s/e es/perame
 ke es
 aBer Ba/mos aBr/ir/lo por aki
 el os/it/o
 ja B/is/te
-s/i
+si
 ke es
 un/a
 aBer ke mas -
 mir/a
-s/i la Baka
+si la Baka
 s/#  Del koce mir/a
 el koce
 aBer ke mas ten/emos por aki D/an#/la
@@ -7798,7 +7798,7 @@ mir/a D/an#/la
 mir/a est/e es Beto # st/e es enRike
 ke as/en
 el
-s/i
+si
 % ka
 % ki ke as/en
 ke
@@ -7817,7 +7817,7 @@ aBer
 el peRo
 donde est/a el peRo
 el peRo Donde est/a
-s/i
+si
 #  pojo
 aja est/a BerDaD
 el pojo
@@ -7842,7 +7842,7 @@ te aki
 el peRo Donde est/a el peRo
 el Gato
 s/% j# st/a el Gato
-s/i mir/a
+si mir/a
 mir/a la Dona
 no
 aji la pon/emos
@@ -7859,7 +7859,7 @@ ke es
 est/e ke es
 mir/a
 mir/a Ba/mos a al BeBe
-s/i
+si
 ke es est/e
 ja lo B/is/te
 aBer
@@ -7875,9 +7875,9 @@ mir/a
 ke
 ke es
 gras%s
-s/i
+si
 ja
-b$no
+b/$no
 te Gust/an
 ja
 ja pon/lo aki mir/a
@@ -7889,19 +7889,19 @@ no no s/e kom/e
 es De
 ke
 ke es es/e
-s/i
+si
 mir/a mir/a
 a a
 no no las
 aBl/a/le a t& B/$l/it/a
 aBl/a/le a tu mama
-s/i
-te la Ba/s a kom/er
+si
+te la B/as a kom/er
 no no las
 no
 i k#n est/a aki
 mir/a
-s/i
+si
 mir/a
 mir/a D/an#/la
 - - lo B/3 a
@@ -7914,14 +7914,14 @@ ja B/is/te lo ke ten/emos aki D/an#/la
 mir/a D/an#/la
 k#n est/a aj#
 k#n est/a aji
-s/i
-s/i
+si
+si
 k#n est/a aji
 k#n
 mir/a
-s/i
+si
 % ka
-s/i
+si
 mir/a
 oJe mir/a est/e es
 est/e es para pon/er est/o mir/a
@@ -7935,16 +7935,16 @@ mir/a
 ke
 ke
 ke
-s/i
+si
 oJe D/an#/la me ajuD/as a De kom/er a los ni|/os
 oJe Ba/mos a p*n/ar a los ni|/os est/an m!
 mir/a enRik* Beto
 b/amos aBer ke as/en
-a Donde lo jeB/an a pase/ar en el ka/R/it/o
+a Donde lo jeB/an a pas/ear en el ka/R/it/o
 % ki
 koRe
 est/a
-s/i
+si
 # 
 est/a B/riNkando
 % ki
@@ -7981,13 +7981,13 @@ el mi+
 me tok/a
 tan tan ola
 tan tan aki
-mir/a otr/o ke teNgo mir/a
+mir/a otr/o ke teN/go mir/a
 s/e asi
 asi mir/a mir/a
 g&G&
-s/i ke est/a as/#ndo el G&G&
+si ke est/a as/#ndo el G&G&
 k#r/e aG& Ba/mos a D/ar/le aG!ta D/a/le aG!ta
-est/e as% s/i mir/a
+est/e as% si mir/a
 ola toD/os est/e es un konexo est/e es un Gato
 gato # st/e
 el poj/it/o mir/a est/e De aki mir/a est/e cik/it/o es el poj/it/o
@@ -8003,7 +8003,7 @@ ke es est/o
 mir/a - ke Bonit/o ke es
 ten mir/a ke es est/o
 ke es ke es ke es
-mir/a mir/a ke es ke Ba/s a tom/ar
+mir/a mir/a ke es ke B/as a tom/ar
  ke rik/o aki ke te D/3
 ke te D/3 aki ke k#r/es
 ke k#r/es aki ke k#r/es ke te D/3
@@ -8027,8 +8027,8 @@ mir/a
 mir/a ke es
 ke es ke es
 el nene k#r/es
-ke rik/o tom/a/te te lo s/i te lo s/i
-s/i
+ke rik/o tom/a/te te lo si te lo si
+si
 ke rik/o mir/a ten ke es est/o
 para ke es est/o ke es ke es ke es e
 mir/a ke es est/o
@@ -8056,21 +8056,21 @@ mas mas
 m! rik/o ja s/e la
 otr/+  un un
  ke rik/a
-mir/a ak% s/i
+mir/a ak% si
 pon/los
 te est/os andale te
 papi papi
- s/i papi
-s/i
-as% s/i
+ si papi
+si
+as% si
 as/%n D/a/le asi
 s/e te
 mas
 mas
-ke mas t#n/e ke Ba/s a as/er aki mir/a mir/a
-mir/a Ba/s a as/er
+ke mas t#n/e ke B/as a as/er aki mir/a mir/a
+mir/a B/as a as/er
 ke - De kom/er mir/a
-de kom/er en s/u mesa mir/a Ba/s a D/ar De kom/er mir/a aki
+de kom/er en s/u mesa mir/a B/as a D/ar De kom/er mir/a aki
 mir/a Ba/mos a pon/er la mesa aki mir/a
 - s/e kajo
 mir/a mir/a la mesa ak% k% ki pon aki De kom/er aki mir/a
@@ -8086,11 +8086,11 @@ ke as/es e
 los BeBes mir/a De kom/er s/op/it/a mir/a 
 los BeBes
 de kom/er mir/a De kom/er
-oJe s/e el kam@n Ba/mos a aReGl/ar el kam@n Ba/mos a
+oJe s/e el kam@n Ba/mos a aReGlar el kam@n Ba/mos a
 jo
 mir/a es es
 mir/a De kom/er kon la kucara mir/a De kom/er mir/a
-k#r/es s/i
+k#r/es si
 kom/e kom/e De kom/er mir/a
 gras%s Gras%s
 mir/a

@@ -46,7 +46,7 @@ modified_corpus = simple_add_slashes(modified_corpus, 'itos', True, ['karlitos',
 # find_endings(modified_corpus, 'o')
 # modified_corpus = simple_add_slashes(modified_corpus, 'a')
 
-# find_endings(modified_corpus, 's')
+find_endings(modified_corpus, 's')
 # modified_corpus = simple_add_slashes(modified_corpus, 'a')
 
 

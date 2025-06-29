@@ -102,6 +102,9 @@ aG!ta
 aG&
 aGo
 aGu
+aReGlando
+aReGlandu
+aReGlar
 aRiB-
 aRiBa
 aRuja
@@ -170,7 +173,6 @@ a|o
 a|os
 b#n
 b$n3
-b$no
 baBa
 baka
 baler%
@@ -316,6 +318,7 @@ koc*
 koce
 koces
 kocino
+kojar
 koketa
 komo
 kon
@@ -493,6 +496,7 @@ pastel
 pat3
 pati
 pato
+peDro
 peRo
 pelaDo
 pelo
@@ -557,6 +561,8 @@ ru
 ruBen
 run
 runrun
+s*s
+si
 t!
 t#
 t$
@@ -574,8 +580,6 @@ tasas
 tasit-
 tataRatata
 te
-teNgo
-teNgu
 ten
 tere
 teresa

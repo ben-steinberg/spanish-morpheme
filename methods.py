@@ -218,8 +218,8 @@ def infinitive_break(corpus, pos_list, break_off_amount, exceptions = []):
                         suffix = base_word[len(stem):]
                     
                     if suffix.startswith('/'):
-                        print("HERE SUFFIX:", suffix)
-                        print("BASE WORD: ", base_word)
+                        # print("HERE SUFFIX:", suffix)
+                        # print("BASE WORD: ", base_word)
                         suffix = suffix[1:]
 
                     new_word = f"{stem}/{suffix}"
@@ -247,7 +247,7 @@ def slash_pronouns(word, stem):
     # aim is to return the suffix slashed up
     suffix = word[len(stem):]
     pronoun_array = []
-    pronoun_list = ['los', 'las', 'nos', 'me', 'te', 'le', 'se', 'les', 'lo', 'la']
+    pronoun_list = ['los', 'las', 'nos', 'me', 'te', 'le', 'se', 'les', 'lo', 'la', 'l*']
     for i in range(2):
         for pronoun in pronoun_list: 
             if suffix.endswith(pronoun):
