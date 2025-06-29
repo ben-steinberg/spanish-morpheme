@@ -64,27 +64,38 @@ regular_verb_list = [
 
 other_pos_list = [ # others where you can remove the last leter used for adjectives
     'GorD-', 'un-', 'ix-', 'otr-', 'tuj-', 'ej-', 'toD-', 'g&p-', 'est-', 'es-', 'rik-', 
-    'otr-', 'ni|-', 'gorD-', 'st-', 'rox-', 'Bonit-', 'sol-'
+    'otr-', 'ni|-', 'gorD-', 'st-', 'rox-', 'Bonit-', 'sol-', 'Bax-'
 ]
 
 all_invalid = [ 
-    "B/laNka", "B/eto", "D/ona", "B/u", "ka/Be", "as/", "ka/t", "b/-la", "d/e", "d/i", "d/ile", "d/iles",
-    "Ba/kit", "B/onit", "B/isi", "ka/ti", "ka/Ro", "D/e", "B/ete", "D/ile", "b/aka", "d/onde", "tam/b#n", "tam/bor",
-    "D/on", "D/isen", "ka/", "B/erDaD", "D/ana", "B/ea", "ka/r", "tam/ar", "Ba/mosa", "x/ita", "peD/ro", "B/is/te",
-    "b/$no", "b/aBa", "ka/R3", "D/aDos", "B-l/a", "ka/ren", "b/#n", "b/ente", "Ba/rko", "Ba/rku", "ro/ko", "s/*s", "s/#/te",
-    "met/elo", "b/raBo", "D/$rmelo", "D/entro", "mir/%m", "B/ente", "B/arko", "B/arku", "tra/Gona", "B/iBeron",
-    "B/arku", "D/os", "tom/", "b/en", "ka/xa", "b/u", "Ba/kas", "par/a", "ka/ju", "B/loke", "B/eBes", 
-    "ka/cete", "met/", "B/or", "as/te", "D/an#la", "B/ino", "ka/Rit3", "B/isto", "pas/tel", "s/i", "Ba/s",
-    "b/aler", "Ba/ka", "B/raBo", "B/es", "d/ona", "B/-la","B/ak-", "B/akit+", "f/er", "par/aDos", "st/orBa",
-    "b/eto", "B/arBariDaD", "ka/m@n", "D/", "D/iles", "B/onitos", "B/eB", "D/onde", "Ba/k", "ka/Reras",
-    "D/#s", "B/iBi", "B/ern", "D/anae", "Ba/xo", "Ba/mosa", "as/ukarera", "ka/mina", "B/eti", "b/$n3",
-    "b/um", "D/emas", "ka/ri", "ka/ri|itos", "B/$lta", "D/eDo", "ka/rit", "B/oka", "B/um", "B/", "D/eDos",
-    "b/erDaD", "D/eDitos", "B/en", "ka/Bajo", "b/eBe", "tom/ate", "b/eso", "D/el", "ka/mara", "met/a",
-    "ka/Ritu", "ka/jo", "B/#ne", "ka/e", "ka/Ru", "Ba/monos", "as/i", "B/#n", "D/exo", "Ba/kit+",
-    "B/olsa", "ka/sa", "B/$no", "as/ta", "b/eBa", "D/ea", "B/eBe", "kom/o", "d/os", "b/es", "B/ak-", "B/aka",  
-    "B/akas", "B/akit+", "p/onsela", "p/onselo", "kamar/a", "ka/Ros", "an/ita", "Ba/k-", "Ba/ka", "Ba/kas"
+    "B/laNka", "B/eto", "D/ona", "B/u", "ka/Be", "as/", "ka/t", "D/i", "Ba/ja", "Ba/jan"
+    "b/-la", "d/e", "d/i", "d/ile", "d/iles", "d/#s", "b/on/it/o", "b/is/te",
+    "Ba/kit", "B/onit", "B/isi", "ka/ti", "ka/Ro", "D/e", "B/ete", "b/en/te",
+    "D/ile", "b/aka", "d/onde", "tam/b#n", "tam/bor", "Ba/jas", "Ba/k/it/a",
+    "D/on", "D/isen", "ka/", "B/erDaD", "D/ana", "B/ea", "ka/r", "B/ols/it/a",
+    "tam/ar", "Ba/mosa", "x/ita", "peD/ro", "B/is/te", "B/la/le", "B/iBe",
+    "b/$no", "b/aBa", "ka/R3", "D/aDos", "B-l/a", "ka/ren", "b/#n", "B/axo",
+    "b/ente", "Ba/rko", "Ba/rku", "ro/ko", "s/*s", "s/#/te",
+    "met/elo", "b/raBo", "D/$rmelo", "D/entro", "mir/%m", "B/ente", 
+    "B/arko", "B/arku", "tra/Gona", "B/iBeron",
+    "B/arku", "D/os", "tom/", "b/en", "ka/xa", "b/u", "Ba/kas", 
+    "par/a", "ka/ju", "B/loke", "B/eBes", "mand/arina",
+    "ka/cete", "met/", "B/or", "as/te", "D/an#la", "B/ino", 
+    "ka/Rit3", "B/isto", "pas/tel", "s/i", "Ba/s",
+    "b/aler", "Ba/ka", "B/raBo", "B/es", "d/ona", "B/-la",
+    "B/ak-", "B/akit+", "f/er", "par/aDos", "st/orBa",
+    "b/eto", "B/arBariDaD", "ka/m@n", "D/", "D/iles", "B/onitos", 
+    "B/eB", "D/onde", "Ba/k", "ka/Reras",
+    "D/#s", "B/iBi", "B/ern", "D/anae", "Ba/xo", "Ba/mosa", 
+    "as/ukarera", "ka/mina", "B/eti", "b/$n3",
+    "b/um", "D/emas", "ka/ri", "ka/ri|itos", "B/$lta", "D/eDo", 
+    "ka/rit", "B/oka", "B/um", "B/", "D/eDos",
+    "b/erDaD", "D/eDitos", "B/en", "ka/Bajo", "b/eBe", "tom/ate", 
+    "b/eso", "D/el", "ka/mara", "met/a",
+    "ka/Ritu", "ka/jo", "B/#ne", "ka/e", "ka/Ru", "Ba/monos", "as/i", 
+    "B/#n", "D/exo", "Ba/kit+",
+    "B/olsa", "ka/sa", "B/$no", "as/ta", "b/eBa", "D/ea", "B/eBe", 
+    "kom/o", "d/os", "b/es", "B/ak-", "B/aka",  
+    "B/akas", "B/akit+", "p/onsela", "p/onselo", "kamar/a", "ka/Ros", 
+    "an/ita", "Ba/k-", "Ba/ka", "Ba/kas"
 ]
-
-# remove dots from corpus
-# add second slashes for it/o
-# pon/me/lo 

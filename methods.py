@@ -223,10 +223,7 @@ def infinitive_break(corpus, pos_list, break_off_amount, exceptions = []):
                         suffix = suffix[1:]
 
                     new_word = f"{stem}/{suffix}"
-                    if stem == 'pase':
-                        print("HERHEHERE")
-                    if new_word == 'pase/ar':
-                        print("HERE STEM: ", stem)
+
                     if new_word not in exceptions:
                     # print("NEW WORD: ", new_word)
                         slashed_words.append(new_word)

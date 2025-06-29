@@ -31,6 +31,7 @@ Bern
 Bes
 Beti
 Beto
+BiBe
 BiBeron
 BiBi
 Bino
@@ -38,6 +39,7 @@ Bisi
 Biste
 Bisto
 BlaNka
+Blale
 Bloke
 Boka
 Bolsa
@@ -58,6 +60,7 @@ Dea
 Del
 Demas
 Dentro
+Di
 Disen
 Don-
 Dona
@@ -177,10 +180,12 @@ baler%
 beBa
 beBe
 ben
+bente
 berDaD
 bes
 beso
 beto
+biste
 braBo
 bu
 bum
@@ -192,6 +197,7 @@ cile
 cit
 coko
 culo
+d#s
 de
 di
 dona
@@ -368,6 +374,7 @@ mam+
 mam-
 mama
 mamila
+mandarina
 mano
 mansan-
 mansana
