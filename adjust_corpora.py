@@ -29,16 +29,16 @@ modified_corpus = infinitive_break(modified_corpus, other_pos_list, 1)
 modified_corpus = infinitive_break(modified_corpus, regular_verb_list, 2, all_invalid)
 
 # find_endings(modified_corpus, 'ita')
-modified_corpus = simple_add_slashes(modified_corpus, 'ita', True, [], 'it/a')
+modified_corpus = simple_add_slashes(modified_corpus, 'ita', True, ['bonita', 'tapititita', 'anita', 'Bonita'], 'it/a')
 
 # find_endings(modified_corpus, 'ito')
-modified_corpus = simple_add_slashes(modified_corpus, 'ito', True, [], 'it/o')
+modified_corpus = simple_add_slashes(modified_corpus, 'ito', True, ['Bonito', 'miGelito', ' kito'], 'it/o')
 
 # find_endings(modified_corpus, 'itas')
 modified_corpus = simple_add_slashes(modified_corpus, 'itas', True, [], 'it/a/s')
 
 # find_endings(modified_corpus, 'itos')
-modified_corpus = simple_add_slashes(modified_corpus, 'itos', True, [], 'it/o/s')
+modified_corpus = simple_add_slashes(modified_corpus, 'itos', True, ['karlitos', 'markitos', 'Bonitos'], 'it/o/s')
 
 # find_endings(modified_corpus, 'a')
 # modified_corpus = simple_add_slashes(modified_corpus, 'a')
@@ -53,7 +53,7 @@ modified_corpus = simple_add_slashes(modified_corpus, 'itos', True, [], 'it/o/s'
 
 # print(count_words(modified_corpus, False))
 
-# find_endings(modified_corpus, 's')
+find_endings(modified_corpus, 's')
 
 
 show_slashed(modified_corpus, path)

@@ -209,12 +209,18 @@ def infinitive_break(corpus, pos_list, break_off_amount, exceptions = []):
             for stem in stem_list: 
                 if (token.startswith(stem) and len(token) > len(stem)
                     and '/' not in token):
-                    suffix = base_word[len(stem):]
-                    
-                    # verb - certain conjugation (-ando, -a, -e, -i, or infinitive), + indirect and or direct
-                    # or verb infinitive + a, e, as, amos, for future
-                    # if has ita right after stem make a split there and then check if ends with s and go from there
 
+                    slashed_base = slash_pronouns(base_word, stem)
+                    if break_off_amount == 2:
+                        suffix = slashed_base[len(stem):]
+
+                    else:
+                        suffix = base_word[len(stem):]
+                    
+                    if suffix.startswith('/'):
+                        print("HERE SUFFIX:", suffix)
+                        print("BASE WORD: ", base_word)
+                        suffix = suffix[1:]
 
                     new_word = f"{stem}/{suffix}"
                     if new_word not in exceptions:
@@ -235,6 +241,27 @@ def infinitive_break(corpus, pos_list, break_off_amount, exceptions = []):
         new_corpus.append(new_line)
 
     return new_corpus
+
+def slash_pronouns(word, stem):
+    # i want this to go in the infinitive break function and check if it can remove it
+    # aim is to return the suffix slashed up
+    suffix = word[len(stem):]
+    pronoun_array = []
+    pronoun_list = ['los', 'las', 'nos', 'me', 'te', 'le', 'se', 'les', 'lo', 'la']
+    for i in range(2):
+        for pronoun in pronoun_list: 
+            if suffix.endswith(pronoun):
+                pronoun_array.append(pronoun)
+                suffix = suffix[:-len(pronoun)]
+                break
+
+    pronoun_array.reverse()
+
+    parts = [stem + suffix] + pronoun_array
+    combined = "/".join(parts)
+
+    return combined
+
 
 def see_percentage_checked(corpus, will_print = False):
     # returns slashed words

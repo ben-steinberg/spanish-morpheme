@@ -20,7 +20,6 @@ B$lta
 B$no
 B*
 B+
-B-la
 Baka
 Bakas
 Barko
@@ -30,11 +29,9 @@ BeBe
 BeBes
 Bea
 Ben
-Bente
 BerDaD
 Bern
 Bes
-Bete
 Beti
 Beto
 BiBi
@@ -53,7 +50,6 @@ D#s
 D*
 D@
 DaDos
-Dan#la
 Dana
 Danae
 De
@@ -63,10 +59,7 @@ Dea
 Del
 Demas
 Dentro
-Dile
-Diles
 Disen
-Don-
 Dona
 Donde
 Dos
@@ -145,6 +138,7 @@ ana
 anaBel
 andale
 ando
+anita
 aoj
 aor+
 aor-
@@ -183,7 +177,6 @@ baler%
 beBa
 beBe
 ben
-bente
 berDaD
 bes
 beso
@@ -201,7 +194,6 @@ coko
 culo
 de
 di
-dile
 dona
 donde
 dos
@@ -292,7 +284,6 @@ kaRitu
 kaRo
 kaRos
 kaRu
-kacete
 kae
 kajo
 kaju
@@ -391,6 +382,7 @@ marcos
 mari
 mariBel
 maria
+markitos
 marta
 martijo
 mas
@@ -413,6 +405,7 @@ mi
 mi&
 mi+
 miGelin
+miGelito
 miGo
 micel
 mio
@@ -574,6 +567,7 @@ tRun
 ta
 taja
 tamar
+tamb#n
 tan
 tasa
 tasas
@@ -594,7 +588,6 @@ toRe
 toRes
 tom+
 tom-
-tomate
 tortija
 tota
 tr-Go

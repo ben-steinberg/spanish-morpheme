@@ -60,7 +60,7 @@ other_pos_list = [ # others where you can remove the last leter used for adjecti
 
 all_invalid = [ 
     "B/laNka", "B/eto", "D/ona", "B/u", "ka/Be", "as/", "ka/t", "b/-la", "d/e", "d/i", "d/ile", "d/iles"
-    "Ba/kit", "B/onit", "B/isi", "ka/ti", "ka/Ro", "D/e", "B/ete", "D/ile", "b/aka", "d/onde", 
+    "Ba/kit", "B/onit", "B/isi", "ka/ti", "ka/Ro", "D/e", "B/ete", "D/ile", "b/aka", "d/onde", "tam/b#n", "tam/bor"
     "D/on", "D/isen", "ka/", "B/erDaD", "D/ana", "B/ea", "ka/r", "tam/ar", "Ba/mosa", "x/ita",
     "b/$no", "b/aBa", "ka/R3", "D/aDos", "B-l/a", "ka/ren", "b/#n", "b/ente", "Ba/rko", "Ba/rku",
     "met/elo", "b/raBo", "D/$rmelo", "D/entro", "mir/%m", "B/ente", "B/arko", "B/arku", "tra/Gona",
