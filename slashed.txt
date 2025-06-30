@@ -49,6 +49,7 @@ Bes/tiDo
 Bes/u
 Bisit/ar
 Bisit/ar/te
+BlaNk/a
 Bonit/+
 Bonit/-
 Bonit/a
@@ -96,6 +97,9 @@ DiBux/it/o/s
 DiBux/os
 Dorm/imos
 Dorm/ir
+G&p/a
+G&p/icima
+G&p/o
 G&rD/a
 G&rD/a/las
 G&rD/aDos
@@ -311,9 +315,10 @@ ka/rGamos
 ka/ri|/it/o
 ka/rl/it/o/s
 ka/rne
-ka/s/it/a
 ka/x/it/a
 kari|/it/o/s
+kas/a
+kas/it/a
 ker/emos
 ker/ias
 kes/it/o
@@ -343,6 +348,9 @@ kom/iDa
 kom/miGo
 kompon/er
 konex/it/o
+kos/a
+kos/as
+kos/it-
 kos/it/a
 kos/it/a/s
 kuB/it/o/s
@@ -376,6 +384,10 @@ ni|/a
 ni|/o
 ni|/os
 ni|/|-
+ol/-
+ol/-z
+ol/a
+ol/er/la
 ormiG/it/a
 os/it/o
 otr/+
@@ -456,6 +468,8 @@ prest/as
 prest/o
 prest/u
 ramons/it/o
+rapiD/a
+reGres/a
 rekox/e/los
 rekox/emos
 rik/a
@@ -492,12 +506,14 @@ sent/amos
 sent/ar
 sent/ar/la
 sepij/it/o
+se|or/a
 sij/it/a/s
 sol/a
 sol/it/a
 sonax/it/a
 sop/it/a
 sorpres/it/a
+spos/a
 st/+
 st/-
 st/3

@@ -57,14 +57,15 @@ regular_verb_list = [
     'meter', 'moBer', 'poner', 'Desaser', 'komponer', 'Desir', 
     'aBrir', 'peDir', 'salir', 'x$Gar', 'BriNkar',
     'G&rDar', 'pareser', 'Dormir', 'Besar', 'b-lar', 'biBir', 'DiBuxar', 
-    'k#rer', 'akaBar', 'kerer', 'teNer',
+    'k#rer', 'akaBar', 'kerer', 'teNer', 'oler', 'reGresar',
     't#ner', 'tener', 'poner', 's#ntar', 'mirar', 'komer',  'star', 
     'salGar', 'jamar', 'traer', 'estorBar', 'storBar'
 ]
 
 other_pos_list = [ # others where you can remove the last leter used for adjectives
     'GorD-', 'un-', 'ix-', 'otr-', 'tuj-', 'ej-', 'toD-', 'g&p-', 'est-', 'es-', 'rik-', 
-    'otr-', 'ni|-', 'gorD-', 'st-', 'rox-', 'Bonit-', 'sol-', 'Bax-'
+    'otr-', 'ni|-', 'gorD-', 'st-', 'rox-', 'Bonit-', 'sol-', 'Bax-', 'rapiD-', 'se|or-',
+    'spos-', 'BlaNk-', 'kas-', 'G&p-', 'kos-'
 ]
 
 all_invalid = [ 
@@ -77,7 +78,7 @@ all_invalid = [
     "b/$no", "b/aBa", "ka/R3", "D/aDos", "B-l/a", "ka/ren", "b/#n", "B/axo",
     "b/ente", "Ba/rko", "Ba/rku", "ro/ko", "s/*s", "s/#/te",
     "met/elo", "b/raBo", "D/$rmelo", "D/entro", "mir/%m", "B/ente", 
-    "B/arko", "B/arku", "tra/Gona", "B/iBeron",
+    "B/arko", "B/arku", "tra/Gona", "B/iBeron", "par/aD/it/o",
     "B/arku", "D/os", "tom/", "b/en", "ka/xa", "b/u", "Ba/kas", 
     "par/a", "ka/ju", "B/loke", "B/eBes", "mand/arina",
     "ka/cete", "met/", "B/or", "as/te", "D/an#la", "B/ino", 

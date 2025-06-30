@@ -40,20 +40,19 @@ modified_corpus = simple_add_slashes(modified_corpus, 'itas', True, [], 'it/a/s'
 # find_endings(modified_corpus, 'itos')
 modified_corpus = simple_add_slashes(modified_corpus, 'itos', True, ['karlitos', 'markitos', 'Bonitos'], 'it/o/s')
 
-# find_endings(modified_corpus, 'a')
+find_endings(modified_corpus, 'a')
 # modified_corpus = simple_add_slashes(modified_corpus, 'a')
 
 # find_endings(modified_corpus, 'o')
 # modified_corpus = simple_add_slashes(modified_corpus, 'a')
 
-find_endings(modified_corpus, 's')
+# find_endings(modified_corpus, 's')
 # modified_corpus = simple_add_slashes(modified_corpus, 'a')
 
 
 
 # print(count_words(modified_corpus, False))
 
-find_endings(modified_corpus, 's')
 
 
 show_slashed(modified_corpus, path)

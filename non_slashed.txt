@@ -38,7 +38,6 @@ Bino
 Bisi
 Biste
 Bisto
-BlaNka
 Blale
 Bloke
 Boka
@@ -70,9 +69,6 @@ G!ta
 G$ro
 G&
 G&G&
-G&pa
-G&picima
-G&po
 G&u
 GaBi
 GaRa
@@ -298,7 +294,6 @@ kar%
 karen
 kari
 karit-
-kasa
 kat%
 kati
 kaxa
@@ -326,9 +321,6 @@ kon
 konexo
 kontiG3
 kontiGo
-kosa
-kosas
-kosit-
 kuBos
 kucara
 kucarit-
@@ -447,10 +439,6 @@ oBeD#nte
 oJ*
 oJe
 oco
-ol-
-ol-z
-ola
-olerla
 ombre
 ora
 orale
@@ -542,10 +530,8 @@ purum
 puso
 r+
 ra
-rapiDa
 raton
 reGalo
-reGresa
 reia
 res
 rezBalaDija
@@ -587,7 +573,6 @@ semos
 seresa
 seresas
 se|or
-se|ora
 si
 siGo
 siNko
@@ -601,7 +586,6 @@ sonaxa
 sonrisa
 sopa
 sorpresa
-sposa
 su
 suBanse
 suBas
