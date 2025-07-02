@@ -30,6 +30,20 @@ def find_endings(corpus, morpheme):
     print(f'total instances of {morpheme}: {instance_number}')
     return instance_number
 
+def contains_word(corpus, word):
+    lines = []
+    for line in corpus:
+        fit_line = line.rstrip("\n")
+        split_line = fit_line.split(' ')
+
+        if word in split_line:
+            lines.append(split_line)
+
+    for i, line in enumerate(lines): 
+        print(f"Instance {i}: {line}")
+
+
+
 def count_words(corpus, show_slashes = True):
     words = []
     for line in corpus: 

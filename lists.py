@@ -73,7 +73,7 @@ not_confident_pos = [ # words that im not sure if i should switch or not
     'Bak-', 'Don-', 'Gat-', 'GloB-', 'baka', 'don-', 'gat-', 'kamin-', 'jo', 'naranx-', 
     'pal-', 'plat-', 'saBros-', 'sorpres-', 'tas-', 'Bark-', 'Bok-', 'DaDo', 'DeDo', 
     'G!ta', 'G$ro', 'Gajo', 'grandote', 'Gripa', 'caNgo', 'fiGura',  'fruta', 'kaxa', 'kamara', 
-    'sanahoria'
+    'sanahoria', 'k$nt-'
 ]
 
 all_invalid = [ 

@@ -1,7 +1,7 @@
 import os 
 from lists import direct_change_array, exceptions, cases
 from lists import regular_verb_list, all_invalid, other_pos_list, not_confident_pos
-from methods import find_endings, simple_add_slashes, count_words, infinitive_break
+from methods import find_endings, simple_add_slashes, count_words, infinitive_break, contains_word
 from methods import find_intersection, see_percentage_checked, write_new_corpus, show_slashed
 
 path = os.path.dirname(os.path.abspath(__file__)) 
@@ -61,6 +61,15 @@ find_endings(modified_corpus, 'os')
 
 
 show_slashed(modified_corpus, path)
+
+'''
+Words with alternative meanings: 
+
+Bes, para, Bebe, 
+'''
+# contains_word(modified_corpus, 'Bes')
+
+# from here, a way to make it so that you can divide the words based on the instance
 
 see_percentage_checked(modified_corpus, True)
 
