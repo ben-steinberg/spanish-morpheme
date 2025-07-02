@@ -55,22 +55,23 @@ regular_verb_list = [
     'saluDar', 'enkontrar', 'Ber', 'ber', 'Baer', 'aser', 
     'kaer', 'rekoxer', 'g&rDar', 'terminar', 'pakater',
     'meter', 'moBer', 'poner', 'Desaser', 'komponer', 'Desir', 
-    'aBrir', 'peDir', 'salir', 'x$Gar', 'BriNkar',
+    'aBrir', 'peDir', 'salir', 'x$Gar', 'BriNkar', 'p$Der',
     'G&rDar', 'pareser', 'Dormir', 'Besar', 'b-lar', 'biBir', 'DiBuxar', 
     'k#rer', 'akaBar', 'kerer', 'teNer', 'oler', 'reGresar', 'besar',
-    't#ner', 'tener', 'poner', 's#ntar', 'mirar', 'komer', 'filmar',
-    'salGar', 'jamar', 'traer', 'estorBar', 'storBar', 'andar', 'fixar'
+    't#ner', 'tener', 'poner', 's#ntar', 'mirar', 'komer', 'filmar', 'koRer',
+    'salGar', 'jamar', 'traer', 'estorBar', 'storBar', 'andar', 'fixar', 'perar'
 ]
 
 other_pos_list = [ # others where you can remove the last leter used for adjectives
     'GorD-', 'un-', 'ix-', 'otr-', 'tuj-', 'ej-', 'toD-', 'g&p-', 'es-', 'rik-', 
     'otr-', 'ni|-', 'gorD-', 'rox-', 'Bonit-', 'sol-', 'Bax-', 'rapiD-', 'se|or-',
     'spos-', 'BlaNk-', 'kas-', 'G&p-', 'kos-', 'seres-', 'amarijo', 'amiGo', 'ermoso',
-    'fea', 
+    'fea', 'listo', 'mio', 'poko', 'primero', 
 ]
 
 not_confident_pos = [ # words that im not sure if i should switch or not
-    'Baka', 'Dona', 'Gato', 'GloBo', 'baka', 'dona', 'gato', 'kamina', 
+    'Baka', 'Dona', 'Gato', 'GloBo', 'baka', 'dona', 'gato', 'kamina', 'jo', 'naranxa', 
+    'palo', 'plato', 'saBroso', 'sorpresa', 'tasa', 
 ]
 
 all_invalid = [ 
