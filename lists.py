@@ -42,17 +42,17 @@ cases = {
     }
 
 regular_verb_list = [
-    'Dar', 'dar', 'ecar', 'B-lar', 'armar', 'jeBar', 'jenar', 'jorar', 'BiBer',
-    'kitar', 'aBlar', 'peGar', 'kumplir', 'BeBer', 'empuxar', 'Boltear',
+    'Dar', 'dar', 'ecar', 'B-lar', 'armar', 'jeBar', 'jenar', 'jorar', 'BiBer', 'Diser'
+    'kitar', 'aBlar', 'Blar', 'peGar', 'kumplir', 'BeBer', 'empuxar', 'Boltear',
     'kojar', 'p*nar', 'parar', 'pasar', 'sakar', 'tamar', 'tokar', 'akomoDar',
-    'tomar', 'Bar', 'Dexar', 'romper', 'poNgar', 'star', 'Buskar',
-    'xalar', 'xuGar', 'G&rDar', 'Gustar', 'sentar', 'aGaRar', 'eskucar',
+    'tomar', 'Bar', 'Dexar', 'romper', 'poNgar', 'star', 'Buskar', 'apr#tar',
+    'xalar', 'xuGar', 'G&rDar', 'Gustar', 'sentar', 'aGaRar', 'GaRar', 'eskucar',
     'ajuDar', 'b-lar', 'B#ner', 'D$rmir', 'subir', 'suBir', 'esperar',
-    'pasear', 'prestar', 'Bisitar', 'Golpear', 'dexar', 'aG&rDar', 
+    'pasear', 'prestar', 'Bisitar', 'Golpear', 'dexar', 'aG&rDar', 'apacuRar',
     'ense|ar', 'haber', 'mandar', 'pokater', 'enoxer', 'kansar',
     'aReGlar', 'estar', 'faltar', 's#Rar', 'aB#ntar', 'xirar', 
     'poDer', 'tapar', 'laBar', 'tirar', # got rid of 'seR'
-    'saluDar', 'enkontrar', 'Ber', 'ber', 'Baer', 'aser', 
+    'saluDar', 'enkontrar', 'Ber', 'ber', 'Baer', 'aser', 'keDar',
     'kaer', 'rekoxer', 'g&rDar', 'terminar', 'pakater',
     'meter', 'moBer', 'poner', 'Desaser', 'komponer', 'Desir', 
     'aBrir', 'peDir', 'salir', 'x$Gar', 'BriNkar', 'p$Der',
@@ -65,21 +65,23 @@ regular_verb_list = [
 other_pos_list = [ # others where you can remove the last leter used for adjectives
     'GorD-', 'un-', 'ix-', 'otr-', 'tuj-', 'ej-', 'toD-', 'g&p-', 'es-', 'rik-', 
     'otr-', 'ni|-', 'gorD-', 'rox-', 'Bonit-', 'sol-', 'Bax-', 'rapiD-', 'se|or-',
-    'spos-', 'BlaNk-', 'kas-', 'G&p-', 'kos-', 'seres-', 'amarijo', 'amiGo', 'ermoso',
-    'fea', 'listo', 'mio', 'poko', 'primero', 
+    'spos-', 'BlaNk-', 'kas-', 'G&p-', 'kos-', 'seres-', 'amarij-', 'amiG-', 'ermos-',
+    'fe-', 'list-', 'mi-', 'pok-', 'primer-', 'B$n-', 'alG-', 'b$n-'
 ]
 
 not_confident_pos = [ # words that im not sure if i should switch or not
-    'Baka', 'Dona', 'Gato', 'GloBo', 'baka', 'dona', 'gato', 'kamina', 'jo', 'naranxa', 
-    'palo', 'plato', 'saBroso', 'sorpresa', 'tasa', 
+    'Bak-', 'Don-', 'Gat-', 'GloB-', 'baka', 'don-', 'gat-', 'kamin-', 'jo', 'naranx-', 
+    'pal-', 'plat-', 'saBros-', 'sorpres-', 'tas-', 'Bark-', 'Bok-', 'DaDo', 'DeDo', 
+    'G!ta', 'G$ro', 'Gajo', 'grandote', 'Gripa', 'caNgo', 'fiGura',  'fruta', 'kaxa', 'kamara', 
+    'sanahoria'
 ]
 
 all_invalid = [ 
     "B/laNka", "B/eto", "D/ona", "B/u", "ka/Be", "as/", "ka/t", "D/i", "Ba/ja", "Ba/jan",
     "b/-la", "d/e", "d/i", "d/ile", "d/iles", "d/#s", "b/on/it/o", "b/is/te", "peD/r/it/o",
     "Ba/kit", "B/onit", "B/isi", "ka/ti", "ka/Ro", "D/e", "B/ete", "b/en/te", "BeB/e",
-    "D/ile", "b/aka", "d/onde", "tam/b#n", "tam/bor", "Ba/jas", "Ba/k/it/a",
-    "D/on", "D/isen", "ka/", "B/erDaD", "D/ana", "B/ea", "ka/r", "B/ols/it/a",
+    "D/ile", "b/aka", "d/onde", "tam/b#n", "tam/bor", "Ba/jas", "Ba/k/it/a", "fe/r",
+    "D/on", "D/isen", "ka/", "B/erDaD", "D/ana", "ka/r", "B/ols/it/a",
     "tam/ar", "Ba/mosa", "x/ita", "peD/ro", "B/is/te", "B/la/le", "B/iBe",
     "b/$no", "b/aBa", "ka/R3", "D/aDos", "B-l/a", "ka/ren", "b/#n", "B/axo",
     "b/ente", "Ba/rko", "Ba/rku", "ro/ko", "s/*s", "s/#/te", "par/aD/it/o", 
@@ -104,5 +106,7 @@ all_invalid = [
     "B/olsa", "ka/sa", "B/$no", "as/ta", "b/eBa", "D/ea", "B/eBe", 
     "kom/o", "d/os", "b/es", "B/ak-", "B/aka",  
     "B/akas", "B/akit+", "p/onsela", "p/onselo", "kamar/a", "ka/Ros", 
-    "an/ita", "Ba/k-", "Ba/ka", "Ba/kas"
+    "an/ita", "Ba/k-", "Ba/ka", "Ba/kas", "j/anta/s", "j/eGe", "j/i", "j/iji"
 ]
+
+# grandote is this split up grand/ot/e?

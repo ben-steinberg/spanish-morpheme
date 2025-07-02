@@ -26,9 +26,12 @@ modified_corpus = corpus
 
 modified_corpus = infinitive_break(modified_corpus, regular_verb_list, 2, all_invalid)
 
-modified_corpus = infinitive_break(modified_corpus, other_pos_list, 1, all_invalid)
+combined_pos_list = other_pos_list + not_confident_pos
+print("COMBINED: ", combined_pos_list)
 
-modified_corpus = infinitive_break(modified_corpus, not_confident_pos, 1)
+modified_corpus = infinitive_break(modified_corpus, combined_pos_list, 1, all_invalid)
+
+# modified_corpus = infinitive_break(modified_corpus, not_confident_pos, 1)
 
 # find_endings(modified_corpus, 'ita')
 modified_corpus = simple_add_slashes(modified_corpus, 'ita', True, ['bonita', 'tapititita', 'anita', 'Bonita'], 'it/a')
@@ -68,25 +71,11 @@ write_new_corpus(modified_corpus, path)
 '''
 Words to watch out for: 
 an.do - p$s jo tam.b#n an.do Bus.kan.do +  ni.|o % m# spo.sa 3.Ga no a 
-Ba.er - could be va a ver but thats a stretch
-per - could be short for perro but is unclear
-a.Ber - a ver split up
-Bajas - bajar is a verb, but usually capital B implies v
-ko.mas - uses opposite ending because it's dont eat!!
-pom.me ponme?
-t$ res
-xi.to.ma.te
-would darmela be split into d/armela or dar/mela
-im assuming for now d/armela
-xi.ta of i.xi.ta or hijita
+
 ta.p/i.t/i.t/i.t/a
-Bla.le - most likely hablar 
-o.ra.le ??
-pre.s#.na.le
-a.pa.cu.Ra.le
+o.ra.le ?? 
 o.xi.tos - leaves possibly hojitos
-s#.Ra.lo - close it maybe?
-s#.ron
+
 WATCH FOR INFINITIVE VERBS THAT CAN ALSO BE NOUNS EG PODER
 a.yer
 
@@ -101,39 +90,25 @@ ten and pon/
 Di/le? D/ile?
 
 ko.mo
-se.Ra.mos ???? s/e.Ra.mos or se.R/a.mos
+se.Ra.mos ???? s/e.Ra.mos or se.R/a.mos --> s/e.R/a.mos
 Same with a.re.mos
 para --> parar or para (for)
-B.es and B.es meaning sees and time
 
 Would comida which comes from comer be split to com/ida?
+com/id/a
 
-If we change cosa into cosita and cosita's divide is cos/ita does that mean cosas divide should also be cos/ita
-'''
 
-'''
 Actual questions for meeting: 
 
 Irregular imperative verbs: 
 decir, normally dec/ir would become di. do we add a slash at all?
-
-voy a dec/ir
+no just keep it di
 
 s/er/a split future into this
 
 
-for poner and tener, they become pon and ten. would we just add the slash at the end? it's usually pon.lo or ten.lo
-
 Clarify on splitting up like bonit/o versus bonit/a
-How does future tense work? do we split sera into s/era or ser/a or s/er/a?
 
-For dimunitives, do we create a boundary for names? 
-mar.ko --> mar.ki.tos, so does that mean mar.k/o?
-Example for dimunitives for nouns: 
-cos/a becomes cos/it/a but does that imply cos/a?
-For nouns from adjectives such as ko.mi.da, would we separate 
-that into what ko.mer is separated into? ko.m/i.d/a yes split 
-Ask for definition of s#.Rar
 B/ending also implies that children won't be able to see the difference between
 present tense ver and ir
 and how are they supposed to associate f/$ with ser/ir from this?
@@ -146,7 +121,4 @@ habl/ar/e
 
 Things to work on: 
 Finding and getting rid of plurals
-
-allowing for multiple slashes. especially for words like xijito that need multiple splits
-
 '''
