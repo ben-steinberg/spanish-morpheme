@@ -196,6 +196,8 @@ culo
 d#s
 de
 di
+dile
+diles
 dona
 donde
 dos
@@ -205,7 +207,6 @@ el
 elot*
 elote
 emos@n
-empuxas
 en
 enRik*
 enRike
@@ -570,8 +571,6 @@ seRaron
 sel%
 selina
 semos
-seresa
-seresas
 se|or
 si
 siGo
@@ -587,9 +586,6 @@ sonrisa
 sopa
 sorpresa
 su
-suBanse
-suBas
-suBimos
 sul*
 sul*ma
 suli

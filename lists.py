@@ -42,14 +42,14 @@ cases = {
     }
 
 regular_verb_list = [
-    'Dar', 'dar', 'ecar', 'B-lar', 'armar', 'jeBar', 'jenar', 'jorar', 
-    'kitar', 'aBlar', 'peGar', 'kumplir', 'BeBer',
-    'kojar', 'p*nar', 'parar', 'pasar', 'sakar', 'tamar', 'tokar', 
-    'tomar', 'Bar', 'Dexar', 'romper', 'poNgar', 
-    'xalar', 'xuGar', 'G&rDar', 'Gustar', 'sentar', 'aGaRar', 
-    'ajuDar', 'b-lar', 'B#ner', 'D$rmir', 'subir',
+    'Dar', 'dar', 'ecar', 'B-lar', 'armar', 'jeBar', 'jenar', 'jorar', 'BiBer',
+    'kitar', 'aBlar', 'peGar', 'kumplir', 'BeBer', 'empuxar', 'Boltear',
+    'kojar', 'p*nar', 'parar', 'pasar', 'sakar', 'tamar', 'tokar', 'akomoDar',
+    'tomar', 'Bar', 'Dexar', 'romper', 'poNgar', 'star', 'Buskar',
+    'xalar', 'xuGar', 'G&rDar', 'Gustar', 'sentar', 'aGaRar', 'eskucar',
+    'ajuDar', 'b-lar', 'B#ner', 'D$rmir', 'subir', 'suBir', 'esperar',
     'pasear', 'prestar', 'Bisitar', 'Golpear', 'dexar', 'aG&rDar', 
-    'ense|ar', 'haber', 'mandar', 'pokater', 'enoxer',
+    'ense|ar', 'haber', 'mandar', 'pokater', 'enoxer', 'kansar',
     'aReGlar', 'estar', 'faltar', 's#Rar', 'aB#ntar', 'xirar', 
     'poDer', 'tapar', 'laBar', 'tirar', # got rid of 'seR'
     'saluDar', 'enkontrar', 'Ber', 'ber', 'Baer', 'aser', 
@@ -57,30 +57,35 @@ regular_verb_list = [
     'meter', 'moBer', 'poner', 'Desaser', 'komponer', 'Desir', 
     'aBrir', 'peDir', 'salir', 'x$Gar', 'BriNkar',
     'G&rDar', 'pareser', 'Dormir', 'Besar', 'b-lar', 'biBir', 'DiBuxar', 
-    'k#rer', 'akaBar', 'kerer', 'teNer', 'oler', 'reGresar',
-    't#ner', 'tener', 'poner', 's#ntar', 'mirar', 'komer',  'star', 
-    'salGar', 'jamar', 'traer', 'estorBar', 'storBar'
+    'k#rer', 'akaBar', 'kerer', 'teNer', 'oler', 'reGresar', 'besar',
+    't#ner', 'tener', 'poner', 's#ntar', 'mirar', 'komer', 'filmar',
+    'salGar', 'jamar', 'traer', 'estorBar', 'storBar', 'andar', 'fixar'
 ]
 
 other_pos_list = [ # others where you can remove the last leter used for adjectives
-    'GorD-', 'un-', 'ix-', 'otr-', 'tuj-', 'ej-', 'toD-', 'g&p-', 'est-', 'es-', 'rik-', 
-    'otr-', 'ni|-', 'gorD-', 'st-', 'rox-', 'Bonit-', 'sol-', 'Bax-', 'rapiD-', 'se|or-',
-    'spos-', 'BlaNk-', 'kas-', 'G&p-', 'kos-'
+    'GorD-', 'un-', 'ix-', 'otr-', 'tuj-', 'ej-', 'toD-', 'g&p-', 'es-', 'rik-', 
+    'otr-', 'ni|-', 'gorD-', 'rox-', 'Bonit-', 'sol-', 'Bax-', 'rapiD-', 'se|or-',
+    'spos-', 'BlaNk-', 'kas-', 'G&p-', 'kos-', 'seres-', 'amarijo', 'amiGo', 'ermoso',
+    'fea', 
+]
+
+not_confident_pos = [ # words that im not sure if i should switch or not
+    'Baka', 'Dona', 'Gato', 'GloBo', 'baka', 'dona', 'gato', 'kamina', 
 ]
 
 all_invalid = [ 
-    "B/laNka", "B/eto", "D/ona", "B/u", "ka/Be", "as/", "ka/t", "D/i", "Ba/ja", "Ba/jan"
-    "b/-la", "d/e", "d/i", "d/ile", "d/iles", "d/#s", "b/on/it/o", "b/is/te",
-    "Ba/kit", "B/onit", "B/isi", "ka/ti", "ka/Ro", "D/e", "B/ete", "b/en/te",
+    "B/laNka", "B/eto", "D/ona", "B/u", "ka/Be", "as/", "ka/t", "D/i", "Ba/ja", "Ba/jan",
+    "b/-la", "d/e", "d/i", "d/ile", "d/iles", "d/#s", "b/on/it/o", "b/is/te", "peD/r/it/o",
+    "Ba/kit", "B/onit", "B/isi", "ka/ti", "ka/Ro", "D/e", "B/ete", "b/en/te", "BeB/e",
     "D/ile", "b/aka", "d/onde", "tam/b#n", "tam/bor", "Ba/jas", "Ba/k/it/a",
     "D/on", "D/isen", "ka/", "B/erDaD", "D/ana", "B/ea", "ka/r", "B/ols/it/a",
     "tam/ar", "Ba/mosa", "x/ita", "peD/ro", "B/is/te", "B/la/le", "B/iBe",
     "b/$no", "b/aBa", "ka/R3", "D/aDos", "B-l/a", "ka/ren", "b/#n", "B/axo",
-    "b/ente", "Ba/rko", "Ba/rku", "ro/ko", "s/*s", "s/#/te",
+    "b/ente", "Ba/rko", "Ba/rku", "ro/ko", "s/*s", "s/#/te", "par/aD/it/o", 
     "met/elo", "b/raBo", "D/$rmelo", "D/entro", "mir/%m", "B/ente", 
     "B/arko", "B/arku", "tra/Gona", "B/iBeron", "par/aD/it/o",
     "B/arku", "D/os", "tom/", "b/en", "ka/xa", "b/u", "Ba/kas", 
-    "par/a", "ka/ju", "B/loke", "B/eBes", "mand/arina",
+    "par/a", "ka/ju", "B/loke", "B/eBes", "mand/arina", "d/i/les", "d/i/le",
     "ka/cete", "met/", "B/or", "as/te", "D/an#la", "B/ino", 
     "ka/Rit3", "B/isto", "pas/tel", "s/i", "Ba/s",
     "b/aler", "Ba/ka", "B/raBo", "B/es", "d/ona", "B/-la",

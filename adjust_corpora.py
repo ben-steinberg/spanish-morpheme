@@ -1,5 +1,6 @@
 import os 
-from lists import direct_change_array, exceptions, cases, regular_verb_list, all_invalid, other_pos_list
+from lists import direct_change_array, exceptions, cases
+from lists import regular_verb_list, all_invalid, other_pos_list, not_confident_pos
 from methods import find_endings, simple_add_slashes, count_words, infinitive_break
 from methods import find_intersection, see_percentage_checked, write_new_corpus, show_slashed
 
@@ -23,16 +24,17 @@ modified_corpus = corpus
 #     find_endings(modified_corpus, morpheme)
 #     modified_corpus = simple_add_slashes(modified_corpus, morpheme, False, choice_array)
 
-
-modified_corpus = infinitive_break(modified_corpus, other_pos_list, 1)
-
 modified_corpus = infinitive_break(modified_corpus, regular_verb_list, 2, all_invalid)
+
+modified_corpus = infinitive_break(modified_corpus, other_pos_list, 1, all_invalid)
+
+modified_corpus = infinitive_break(modified_corpus, not_confident_pos, 1)
 
 # find_endings(modified_corpus, 'ita')
 modified_corpus = simple_add_slashes(modified_corpus, 'ita', True, ['bonita', 'tapititita', 'anita', 'Bonita'], 'it/a')
 
 # find_endings(modified_corpus, 'ito')
-modified_corpus = simple_add_slashes(modified_corpus, 'ito', True, ['Bonito', 'miGelito', ' kito'], 'it/o')
+modified_corpus = simple_add_slashes(modified_corpus, 'ito', True, ['Bonito', 'miGelito', 'kito', 'Pedrito'], 'it/o')
 
 # find_endings(modified_corpus, 'itas')
 modified_corpus = simple_add_slashes(modified_corpus, 'itas', True, [], 'it/a/s')
@@ -40,7 +42,7 @@ modified_corpus = simple_add_slashes(modified_corpus, 'itas', True, [], 'it/a/s'
 # find_endings(modified_corpus, 'itos')
 modified_corpus = simple_add_slashes(modified_corpus, 'itos', True, ['karlitos', 'markitos', 'Bonitos'], 'it/o/s')
 
-find_endings(modified_corpus, 'a')
+find_endings(modified_corpus, 'os')
 # modified_corpus = simple_add_slashes(modified_corpus, 'a')
 
 # find_endings(modified_corpus, 'o')

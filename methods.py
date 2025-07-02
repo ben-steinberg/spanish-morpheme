@@ -192,7 +192,6 @@ def infinitive_break(corpus, pos_list, break_off_amount, exceptions = []):
     new_corpus = []
     stem_list = [inf[:-break_off_amount] for inf in pos_list]
     stem_list = sorted(stem_list, key = len, reverse = True)
-
     slashed_words = []
     for line in corpus:
         has_new_line = line.endswith("\n")
@@ -211,11 +210,13 @@ def infinitive_break(corpus, pos_list, break_off_amount, exceptions = []):
                     and '/' not in token):
 
                     slashed_base = slash_pronouns(base_word, stem)
+                    plural_tagged = check_plural(base_word)
                     if break_off_amount == 2:
                         suffix = slashed_base[len(stem):]
 
                     else:
                         suffix = base_word[len(stem):]
+                        suffix = plural_tagged[len(stem):]
                     
                     if suffix.startswith('/'):
                         # print("HERE SUFFIX:", suffix)
@@ -226,7 +227,7 @@ def infinitive_break(corpus, pos_list, break_off_amount, exceptions = []):
 
                     if new_word not in exceptions:
                     # print("NEW WORD: ", new_word)
-                        slashed_words.append(new_word)
+                        slashed_words.append(new_word)        
                         break
                     else: 
                         new_word = base_word
@@ -248,10 +249,10 @@ def slash_pronouns(word, stem):
     # aim is to return the suffix slashed up
     suffix = word[len(stem):]
     pronoun_array = []
-    pronoun_list = ['los', 'las', 'nos', 'me', 'te', 'le', 'se', 'les', 'lo', 'la', 'l*']
+    pronoun_list = ['los', 'las', 'nos', 'me', 'te', 'le', 'se', 'les', 'lo', 'la', 'l*', 'l3']
     for i in range(2):
         for pronoun in pronoun_list: 
-            if suffix.endswith(pronoun):
+            if suffix.endswith(pronoun) and not suffix.endswith('aste'):
                 pronoun_array.append(pronoun)
                 suffix = suffix[:-len(pronoun)]
                 break
@@ -263,6 +264,13 @@ def slash_pronouns(word, stem):
 
     return combined
 
+def check_plural(word):
+    if word.endswith('s'):
+        prefix = word[:-1] 
+        new_word = prefix + '/s'
+        return new_word
+    return word
+    
 
 def see_percentage_checked(corpus, will_print = False):
     # returns slashed words
