@@ -20,10 +20,9 @@ B$lta
 B$no
 B*
 B+
-Baka
-Bakas
 Barko
 Barku
+BeBe
 Bea
 Ben
 BerDaD
@@ -31,9 +30,6 @@ Bern
 Bes
 Beti
 Beto
-BiBe
-BiBeron
-BiBi
 Bino
 Bisi
 Biste
@@ -61,9 +57,6 @@ Demas
 Dentro
 Di
 Disen
-Don-
-Dona
-Donde
 Dos
 G!ta
 G$ro
@@ -73,10 +66,6 @@ G&u
 GaBi
 GaRa
 Gajo
-Gat3
-Gato
-GloBo
-GloBos
 Grande
 Grandota
 Grandote
@@ -118,7 +107,6 @@ ak%
 ak-
 aka
 aki
-akomoDalo
 al
 al*Da
 alGo
@@ -126,17 +114,13 @@ aleGas
 alexandro
 alfonso
 am
-amarijo
 ambr*
 ambre
 ame
-amiGo
 amor
 an
 ana
 anaBel
-andale
-ando
 anita
 aoj
 aor+
@@ -171,7 +155,6 @@ b#n
 b$n3
 b$no
 baBa
-baka
 baler%
 beBa
 beBe
@@ -179,7 +162,6 @@ ben
 bente
 berDaD
 bes
-beso
 beto
 biste
 braBo
@@ -198,8 +180,6 @@ de
 di
 dile
 diles
-dona
-donde
 dos
 e
 eDGar
@@ -214,7 +194,6 @@ ense
 entonses
 epale
 eres
-ermoso
 ernesto
 es
 f$
@@ -222,12 +201,7 @@ f$ron
 f$rte
 fan%
 fani
-fea
-fer
 fiGura
-filmando
-fixaste
-fixate
 flor
 foto
 fotos
@@ -238,7 +212,6 @@ g&
 g&G&
 g&u
 gaBi
-gato
 grandota
 gras%s
 i
@@ -290,7 +263,6 @@ kajo
 kaju
 kam@n
 kamara
-kamina
 kar%
 karen
 kari

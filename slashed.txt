@@ -37,9 +37,10 @@ Ba/mos
 Ba/n
 Ba/rBariDaD
 Ba/xamos
+Bak/a
+Bak/a/s
 Bax/o
 BeB/*
-BeB/e
 BeB/es
 Bes/it/o
 Bes/it/o/s
@@ -47,6 +48,9 @@ Bes/it3
 Bes/o
 Bes/tiDo
 Bes/u
+BiB/e
+BiB/eron
+BiB/i
 Bisit/ar
 Bisit/ar/te
 BlaNk/a
@@ -95,6 +99,9 @@ Dex/aste
 Dex/o
 DiBux/it/o/s
 DiBux/os
+Don/-
+Don/a
+Don/de
 Dorm/imos
 Dorm/ir
 G&p/a
@@ -109,7 +116,11 @@ G&rD/ar/lo
 G&rD/ar/los
 G&rD/o
 Gajin/it/a
+Gat/3
 Gat/it/o
+Gat/o
+GloB/o
+GloB/o/s
 GoR/it/a
 Golpe/ar
 GorD/a
@@ -154,6 +165,11 @@ ajuD/ar
 ajuD/as
 akaB/e
 akaB/o
+akomoD/a/lo
+amarij/o
+amiG/o
+and/a/le
+and/o
 aor/it/a
 arm/ar
 as/#ndo
@@ -177,6 +193,8 @@ b/e/te
 b/emos
 b/er
 b/on/it/o
+bak/a
+bes/o
 biB/e
 caNg/it/o
 caNg/it/o/s
@@ -200,6 +218,8 @@ d/anae
 d/ormimos
 dex/a
 dex/e/me
+don/a
+don/de
 ec/a
 ec/a/la
 ec/a/lo
@@ -227,6 +247,7 @@ ense|/ar
 ense|/ar/te
 ense|/e
 ense|/o
+ermos/o
 es/3
 es/a
 es/e
@@ -261,9 +282,15 @@ est/u
 falt/+
 falt/a
 falt/aBa
+fe/a
+fe/r
+film/ando
+fix/a/te
+fix/aste
 flores/it/a
 g&rD/a
 g&rD/amos
+gat/o
 gorD/o
 ix/a
 ix/it/a
@@ -315,6 +342,7 @@ ka/rl/it/o/s
 ka/rne
 ka/s/it/a
 ka/x/it/a
+kamin/a
 kans/aste
 kari|/it/o/s
 kas/a
