@@ -39,7 +39,8 @@ def contains_word(corpus, word):
         if word in split_line:
             lines.append(split_line)
 
-    for i, line in enumerate(lines): 
+
+    for i, line in enumerate(lines):
         print(f"Instance {i}: {line}")
 
 

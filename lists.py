@@ -42,20 +42,20 @@ cases = {
     }
 
 regular_verb_list = [
-    'Dar', 'dar', 'ecar', 'B-lar', 'armar', 'jeBar', 'jenar', 'jorar', 'BiBer', 'Diser'
-    'kitar', 'aBlar', 'Blar', 'peGar', 'kumplir', 'BeBer', 'empuxar', 'Boltear',
-    'kojar', 'p*nar', 'parar', 'pasar', 'sakar', 'tamar', 'tokar', 'akomoDar',
-    'tomar', 'Bar', 'Dexar', 'romper', 'poNgar', 'star', 'Buskar', 'apr#tar',
+    'Dar', 'dar', 'ecar', 'B-lar', 'armar', 'jeBar', 'jenar', 'jorar', 'BiBer', 'Diser',
+    'kitar', 'aBlar', 'Blar', 'peGar', 'kumplir', 'BeBer', 'empuxar', 'Boltear', 'saBer',
+    'kojar', 'p*nar', 'parar', 'pasar', 'sakar', 'tamar', 'tokar', 'akomoDar', 'reir',
+    'tomar', 'Bar', 'Dexar', 'romper', 'poNgar', 'star', 'Buskar', 'apr#tar', 'pr#tar', 'pomer', 
     'xalar', 'xuGar', 'G&rDar', 'Gustar', 'sentar', 'aGaRar', 'GaRar', 'eskucar',
-    'ajuDar', 'b-lar', 'B#ner', 'D$rmir', 'subir', 'suBir', 'esperar',
+    'ajuDar', 'b-lar', 'B#ner', 'D$rmir', 'subir', 'suBir', 'esperar', 'oxearlo',
     'pasear', 'prestar', 'Bisitar', 'Golpear', 'dexar', 'aG&rDar', 'apacuRar',
-    'ense|ar', 'haber', 'mandar', 'pokater', 'enoxer', 'kansar',
-    'aReGlar', 'estar', 'faltar', 's#Rar', 'aB#ntar', 'xirar', 
-    'poDer', 'tapar', 'laBar', 'tirar', # got rid of 'seR'
+    'ense|ar', 'haber', 'mandar', 'pokater', 'enoxer', 'kansar', 'azer',
+    'aReGlar', 'estar', 'faltar', 's#Rar', 'aB#ntar', 'xirar', 'tr-er',
+    'poDer', 'tapar', 'laBar', 'atoraste', 'tirar', # got rid of 'seR'
     'saluDar', 'enkontrar', 'Ber', 'ber', 'Baer', 'aser', 'keDar',
-    'kaer', 'rekoxer', 'g&rDar', 'terminar', 'pakater',
+    'kaer', 'rekoxer', 'g&rDar', 'terminar', 'pakater', 'aBer',
     'meter', 'moBer', 'poner', 'Desaser', 'komponer', 'Desir', 
-    'aBrir', 'peDir', 'salir', 'x$Gar', 'BriNkar', 'p$Der',
+    'aBrir', 'peDir', 'salir', 'x$Gar', 'BriNkar', 'p$Der', 'sirBer',
     'G&rDar', 'pareser', 'Dormir', 'Besar', 'b-lar', 'biBir', 'DiBuxar', 
     'k#rer', 'akaBar', 'kerer', 'teNer', 'oler', 'reGresar', 'besar',
     't#ner', 'tener', 'poner', 's#ntar', 'mirar', 'komer', 'filmar', 'koRer',
@@ -70,10 +70,10 @@ other_pos_list = [ # others where you can remove the last leter used for adjecti
 ]
 
 not_confident_pos = [ # words that im not sure if i should switch or not
-    'Bak-', 'Don-', 'Gat-', 'GloB-', 'baka', 'don-', 'gat-', 'kamin-', 'jo', 'naranx-', 
+    'Bak-', 'Don-', 'Gat-', 'GloB-', 'bak-', 'don-', 'gat-', 'kamin-', 'jo', 'naranx-', 
     'pal-', 'plat-', 'saBros-', 'sorpres-', 'tas-', 'Bark-', 'Bok-', 'DaDo', 'DeDo', 
-    'G!ta', 'G$ro', 'Gajo', 'grandote', 'Gripa', 'caNgo', 'fiGura',  'fruta', 'kaxa', 'kamara', 
-    'sanahoria', 'k$nt-'
+    'G!ta', 'G$r-', 'Gaj-', 'grandot-', 'Gripa', 'caNgo', 'fiGura',  'fruta', 'kaxa', 'kamara', 
+    'sanahoria', 'k$nt-', 'mon-'
 ]
 
 all_invalid = [ 
@@ -81,7 +81,7 @@ all_invalid = [
     "b/-la", "d/e", "d/i", "d/ile", "d/iles", "d/#s", "b/on/it/o", "b/is/te", "peD/r/it/o",
     "Ba/kit", "B/onit", "B/isi", "ka/ti", "ka/Ro", "D/e", "B/ete", "b/en/te", "BeB/e",
     "D/ile", "b/aka", "d/onde", "tam/b#n", "tam/bor", "Ba/jas", "Ba/k/it/a", "fe/r",
-    "D/on", "D/isen", "ka/", "B/erDaD", "D/ana", "ka/r", "B/ols/it/a",
+    "D/on", "D/isen", "ka/", "B/erDaD", "D/ana", "ka/r", "B/ols/it/a", "Ba/rBariDaD",
     "tam/ar", "Ba/mosa", "x/ita", "peD/ro", "B/is/te", "B/la/le", "B/iBe",
     "b/$no", "b/aBa", "ka/R3", "D/aDos", "B-l/a", "ka/ren", "b/#n", "B/axo",
     "b/ente", "Ba/rko", "Ba/rku", "ro/ko", "s/*s", "s/#/te", "par/aD/it/o", 

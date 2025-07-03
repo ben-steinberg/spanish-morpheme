@@ -31,30 +31,27 @@ print("COMBINED: ", combined_pos_list)
 
 modified_corpus = infinitive_break(modified_corpus, combined_pos_list, 1, all_invalid)
 
-# modified_corpus = infinitive_break(modified_corpus, not_confident_pos, 1)
-
-# find_endings(modified_corpus, 'ita')
 modified_corpus = simple_add_slashes(modified_corpus, 'ita', True, ['bonita', 'tapititita', 'anita', 'Bonita'], 'it/a')
 
-# find_endings(modified_corpus, 'ito')
 modified_corpus = simple_add_slashes(modified_corpus, 'ito', True, ['Bonito', 'miGelito', 'kito', 'Pedrito'], 'it/o')
 
-# find_endings(modified_corpus, 'itas')
 modified_corpus = simple_add_slashes(modified_corpus, 'itas', True, [], 'it/a/s')
 
-# find_endings(modified_corpus, 'itos')
 modified_corpus = simple_add_slashes(modified_corpus, 'itos', True, ['karlitos', 'markitos', 'Bonitos'], 'it/o/s')
 
-find_endings(modified_corpus, 'os')
-# modified_corpus = simple_add_slashes(modified_corpus, 'a')
+find_endings(modified_corpus, 'a') # make sure this is good
+modified_corpus = simple_add_slashes(modified_corpus, 'a', True, ['anita', 'lusia', 'marta', 'selina'])
 
-# find_endings(modified_corpus, 'o')
-# modified_corpus = simple_add_slashes(modified_corpus, 'a')
+find_endings(modified_corpus, 'isimo')
+modified_corpus = simple_add_slashes(modified_corpus, 'isimo')
 
-# find_endings(modified_corpus, 's')
-# modified_corpus = simple_add_slashes(modified_corpus, 'a')
+find_endings(modified_corpus, 'o')
+modified_corpus = simple_add_slashes(modified_corpus, 'a', True, ['pedro', 'arturo', 'tereso', 'alfonso', 'ernesto', 'alexandro'])
 
+find_endings(modified_corpus, 'DaD') # make sure this is good too
+modified_corpus = simple_add_slashes(modified_corpus, 'DaD')
 
+find_endings(modified_corpus, 'e')
 
 # print(count_words(modified_corpus, False))
 
