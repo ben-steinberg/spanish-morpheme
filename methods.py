@@ -28,7 +28,7 @@ def find_endings(corpus, morpheme):
         print(line)
 
     print(f'total instances of {morpheme}: {instance_number}')
-    return instance_number
+    return sorted_words
 
 def contains_word(corpus, word):
     lines = []

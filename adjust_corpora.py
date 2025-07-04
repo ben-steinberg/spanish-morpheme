@@ -31,30 +31,35 @@ print("COMBINED: ", combined_pos_list)
 
 modified_corpus = infinitive_break(modified_corpus, combined_pos_list, 1, all_invalid)
 
+modified_corpus = simple_add_slashes(modified_corpus, 'ititita', True, [], 'it/it/it/a')
+
 modified_corpus = simple_add_slashes(modified_corpus, 'ita', True, ['bonita', 'tapititita', 'anita', 'Bonita'], 'it/a')
 
 modified_corpus = simple_add_slashes(modified_corpus, 'ito', True, ['Bonito', 'miGelito', 'kito', 'Pedrito'], 'it/o')
 
 modified_corpus = simple_add_slashes(modified_corpus, 'itas', True, [], 'it/a/s')
 
+modified_corpus = simple_add_slashes(modified_corpus, 'iDa', True, [], 'iD/a')
+
 modified_corpus = simple_add_slashes(modified_corpus, 'itos', True, ['karlitos', 'markitos', 'Bonitos'], 'it/o/s')
 
-find_endings(modified_corpus, 'a') # make sure this is good
+a_endings = find_endings(modified_corpus, 'a') # make sure this is good
+# modified_corpus = infinitive_break(modified_corpus, a_endings, 1, ['anit/a', 'lusi/a', 'mart/a', 'selin/a'])
 modified_corpus = simple_add_slashes(modified_corpus, 'a', True, ['anita', 'lusia', 'marta', 'selina'])
 
 find_endings(modified_corpus, 'isimo')
 modified_corpus = simple_add_slashes(modified_corpus, 'isimo')
 
-find_endings(modified_corpus, 'o')
-modified_corpus = simple_add_slashes(modified_corpus, 'a', True, ['pedro', 'arturo', 'tereso', 'alfonso', 'ernesto', 'alexandro'])
+o_endings = find_endings(modified_corpus, 'o')
+modified_corpus = infinitive_break(modified_corpus, o_endings, 1, ['peDr/o', 'pedr/o', 'artur/o', 'teres/o', 'alfons/o', 'ernest/o', 'alexandr/o'])
+# modified_corpus = simple_add_slashes(modified_corpus, 'o', True, ['pedro', 'arturo', 'tereso', 'alfonso', 'ernesto', 'alexandro'])
 
 find_endings(modified_corpus, 'DaD') # make sure this is good too
 modified_corpus = simple_add_slashes(modified_corpus, 'DaD')
 
-find_endings(modified_corpus, 'e')
-
 # print(count_words(modified_corpus, False))
 
+find_endings(modified_corpus, 'os')
 
 
 show_slashed(modified_corpus, path)
@@ -63,6 +68,7 @@ show_slashed(modified_corpus, path)
 Words with alternative meanings: 
 
 Bes, para, Bebe, 
+
 '''
 # contains_word(modified_corpus, 'Bes')
 
