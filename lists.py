@@ -53,7 +53,7 @@ regular_verb_list = [
     'aReGlar', 'estar', 'faltar', 's#Rar', 'aB#ntar', 'xirar', 'tr-er',
     'poDer', 'tapar', 'laBar', 'atoraste', 'tirar', 'pres#nar', # got rid of 'seR'
     'saluDar', 'enkontrar', 'Ber', 'ber', 'Baer', 'aser', 'keDar',
-    'kaer', 'rekoxer', 'g&rDar', 'terminar', 'pakater', 'aBer',
+    'kaer', 'rekoxer', 'g&rDar', 'terminar', 'pakater', 'aBer', 'kajar',
     'meter', 'moBer', 'poner', 'Desaser', 'komponer', 'Desir', 
     'aBrir', 'peDir', 'salir', 'x$Gar', 'BriNkar', 'p$Der', 'sirBer',
     'G&rDar', 'pareser', 'Dormir', 'Besar', 'b-lar', 'biBir', 'DiBuxar', 
@@ -102,7 +102,7 @@ all_invalid = [
     "b/erDaD", "D/eDitos", "B/en", "ka/Bajo", "b/eBe", "tom/ate", 
     "b/eso", "D/el", "ka/mara", "met/a", "tap/itit/it/a",
     "ka/Ritu", "ka/jo", "B/#ne", "ka/e", "ka/Ru", "Ba/monos", "as/i", 
-    "B/#n", "D/exo", "Ba/kit+",
+    "B/#n", "D/exo", "Ba/kit+", "d/anae", "aB/er",
     "B/olsa", "ka/sa", "B/$no", "as/ta", "b/eBa", "D/ea", "B/eBe", 
     "kom/o", "d/os", "b/es", "B/ak-", "B/aka",  
     "B/akas", "B/akit+", "p/onsela", "p/onselo", "kamar/a", "ka/Ros", 

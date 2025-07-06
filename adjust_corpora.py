@@ -54,12 +54,12 @@ o_endings = find_endings(modified_corpus, 'o')
 modified_corpus = infinitive_break(modified_corpus, o_endings, 1, ['peDr/o', 'pedr/o', 'artur/o', 'teres/o', 'alfons/o', 'ernest/o', 'alexandr/o'])
 # modified_corpus = simple_add_slashes(modified_corpus, 'o', True, ['pedro', 'arturo', 'tereso', 'alfonso', 'ernesto', 'alexandro'])
 
-find_endings(modified_corpus, 'DaD') # make sure this is good too
+# find_endings(modified_corpus, 'DaD') 
 modified_corpus = simple_add_slashes(modified_corpus, 'DaD')
 
 # print(count_words(modified_corpus, False))
 
-find_endings(modified_corpus, 'os')
+# find_endings(modified_corpus, 'os')
 
 
 show_slashed(modified_corpus, path)
@@ -79,21 +79,20 @@ see_percentage_checked(modified_corpus, True)
 write_new_corpus(modified_corpus, path)
 
 
+'''
+New questions: 
+if we are splitting up all words based by ending, how do we 
+account for Bino which is venir in past third person? would it
+be Bin/o?
+Do we split up the indr and dir pronouns in verbs? pon/me/l/o? pon/se/l/a/s?
+di/l/e/s?
+'''
+
 
 '''
 Words to watch out for: 
-an.do - p$s jo tam.b#n an.do Bus.kan.do +  ni.|o % m# spo.sa 3.Ga no a 
+st/os
 
-ta.p/i.t/i.t/i.t/a
-o.ra.le ?? 
-o.xi.tos - leaves possibly hojitos
-
-WATCH FOR INFINITIVE VERBS THAT CAN ALSO BE NOUNS EG PODER
-a.yer
-
-
-Questions: 
-How do we do poner which goes directly to pon
 
 in infinitive: 
 can use 'te.ner', 'pon.er' because ten and pon are valid 
@@ -131,6 +130,4 @@ f/ue no. dont take complete irregulars
 cas/a
 habl/ar/e
 
-Things to work on: 
-Finding and getting rid of plurals
 '''

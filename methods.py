@@ -229,9 +229,16 @@ def infinitive_break(corpus, pos_list, break_off_amount, exceptions = []):
                     if break_off_amount == 2:
                         suffix = slashed_base[len(stem):]
 
-                    else:
+                    else: 
                         suffix = base_word[len(stem):]
+                        
+                        if len(suffix) > 2:
+                            # print("PREFIX: ", stem, "SUFFIX: ", suffix)
+                            new_word = base_word
+                            break
+
                         suffix = plural_tagged[len(stem):]
+
                     
                     if suffix.startswith('/'):
                         # print("HERE SUFFIX:", suffix)
@@ -268,7 +275,15 @@ def slash_pronouns(word, stem):
     for i in range(2):
         for pronoun in pronoun_list: 
             if suffix.endswith(pronoun) and not suffix.endswith('aste'):
-                pronoun_array.append(pronoun)
+                if pronoun.startswith('l'): 
+                    if len(pronoun) == 2: # la lo le
+                        pronoun_array.append(pronoun[0] + '/' + pronoun[1])
+                    elif len(pronoun) == 3: # las los les
+                        pronoun_array.append(pronoun[0] + '/' + pronoun[1] + '/' + pronoun[2])
+                    else: 
+                        pronoun_array.append(pronoun)
+                else:
+                    pronoun_array.append(pronoun)
                 suffix = suffix[:-len(pronoun)]
                 break
 
