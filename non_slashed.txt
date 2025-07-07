@@ -2,7 +2,6 @@
 !
 #
 #n
-$Gan
 $N
 $le
 %
@@ -180,6 +179,7 @@ kl+D%
 koc*
 koce
 koces
+komo
 kon
 kuBos
 kucarit-
@@ -253,6 +253,7 @@ pepe
 per
 pi
 pikale
+pipi
 platisamelos
 platit3
 platitu
@@ -276,11 +277,11 @@ s$nan
 sand!c
 sapatos
 sari
-seRamos
-seRaron
+se
 selina
 semos
 se|or
+si
 suli
 t!
 t#

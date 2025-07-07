@@ -1,4 +1,5 @@
 $B/it/o
+$G/an
 3G/a
 B#n/do
 B#n/e
@@ -288,11 +289,11 @@ d/a/se/l/o
 d/amos
 d/i/l/e
 d/i/l/e/s
-d/ormimos
 dex/a
 dex/e/me
 don/a
 don/de
+dorm/imos
 ec/a
 ec/a/l/a
 ec/a/l/o
@@ -482,7 +483,6 @@ kom/iD/a
 kom/iD/it/a
 kom/iD/it/a/s
 kom/miGo
-kom/o
 kompon/er
 konex/it/o
 konex/o
@@ -681,7 +681,6 @@ pi/c
 pi/k
 pi/n
 pi/o
-pi/pi
 pik/a
 pituf/o
 plat/3
@@ -763,9 +762,7 @@ s/*/s
 s/3
 s/a
 s/al
-s/e
 s/el%
-s/i
 s/in
 s/o
 s/on
@@ -799,6 +796,8 @@ salG/as
 saluD/ando
 saluD/ar
 sanahori/a
+seR/amos
+seR/aron
 sent/amos
 sent/ar
 sent/ar/l/a

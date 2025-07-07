@@ -223,9 +223,10 @@ def infinitive_break(corpus, pos_list, break_off_amount, exceptions = []):
             for stem in stem_list: 
                 if (token.startswith(stem) and len(token) > len(stem)
                     and '/' not in token):
-
+                    
                     slashed_base = slash_pronouns(base_word, stem)
                     plural_tagged = check_plural(base_word)
+
                     if break_off_amount == 2:
                         suffix = slashed_base[len(stem):]
 
@@ -246,9 +247,12 @@ def infinitive_break(corpus, pos_list, break_off_amount, exceptions = []):
                         suffix = suffix[1:]
 
                     new_word = f"{stem}/{suffix}"
+                    if new_word == 's/ul*':
+                        print("HERE")
 
                     if new_word not in exceptions:
                     # print("NEW WORD: ", new_word)
+
                         slashed_words.append(new_word)        
                         break
                     else: 
@@ -300,6 +304,25 @@ def check_plural(word):
         new_word = prefix + '/s'
         return new_word
     return word
+
+def slash_future(word, stem):
+    possible_infs = ['ar', 'er', 'ir']
+    future_endings = ['e', 'as', 'a', 'emos', '*s', 'an']
+    infinitive = ''
+    for inf in possible_infs: 
+        if word.startswith(stem + inf):
+            infinitive = stem + inf
+            print("infinitive: ", infinitive)
+    
+    if not infinitive: 
+        return word
+    
+    for ending in future_endings: 
+        if word.endswith(ending):
+            return word[:-len(ending)] + '/' + ending
+        
+    return word
+    
     
 
 def see_percentage_checked(corpus, will_print = False):

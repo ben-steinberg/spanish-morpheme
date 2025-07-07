@@ -47,14 +47,11 @@ a_endings = find_endings(modified_corpus, 'a') # make sure this is good
 # modified_corpus = infinitive_break(modified_corpus, a_endings, 1, ['anit/a', 'lusi/a', 'mart/a', 'selin/a'])
 modified_corpus = simple_add_slashes(modified_corpus, 'a', True, ['anita', 'lusia', 'marta', 'selina'])
 
-find_endings(modified_corpus, 'isimo')
 modified_corpus = simple_add_slashes(modified_corpus, 'isimo')
 
 o_endings = find_endings(modified_corpus, 'o')
-modified_corpus = infinitive_break(modified_corpus, o_endings, 1, ['peDr/o', 'pedr/o', 'artur/o', 'teres/o', 'alfons/o', 'ernest/o', 'alexandr/o'])
-# modified_corpus = simple_add_slashes(modified_corpus, 'o', True, ['pedro', 'arturo', 'tereso', 'alfonso', 'ernesto', 'alexandro'])
+modified_corpus = infinitive_break(modified_corpus, o_endings, 1, all_invalid)
 
-# find_endings(modified_corpus, 'DaD') 
 modified_corpus = simple_add_slashes(modified_corpus, 'DaD')
 
 # print(count_words(modified_corpus, False))
@@ -67,7 +64,7 @@ show_slashed(modified_corpus, path)
 '''
 Words with alternative meanings: 
 
-Bes, para, Bebe, 
+Bes, para, Bebe, seR/amos CHECK THIS
 
 '''
 # contains_word(modified_corpus, 'Bes')
