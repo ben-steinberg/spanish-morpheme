@@ -49,10 +49,10 @@ regular_verb_list = [
     'xalar', 'xuGar', 'G&rDar', 'Gustar', 'sentar', 'aGaRar', 'GaRar', 'eskucar',
     'ajuDar', 'b-lar', 'B#ner', 'D$rmir', 'subir', 'suBir', 'esperar', 'oxearlo', 'seRar',
     'pasear', 'prestar', 'Bisitar', 'Golpear', 'dexar', 'aG&rDar', 'apacuRar', 'dormir',
-    'ense|ar', 'haber', 'mandar', 'pokater', 'enoxer', 'kansar', 'azer',
-    'aReGlar', 'estar', 'faltar', 's#Rar', 'aB#ntar', 'xirar', 'tr-er',
+    'ense|ar', 'haber', 'mandar', 'pokater', 'enoxer', 'kansar', 'azer', 'Biner',
+    'aReGlar', 'estar', 'faltar', 's#Rar', 'aB#ntar', 'xirar', 'tr-er', 'Baxar',
     'poDer', 'tapar', 'laBar', 'atoraste', 'tirar', 'pres#nar', # got rid of 'seR'
-    'saluDar', 'enkontrar', 'Ber', 'ber', 'Baer', 'aser', 'keDar',
+    'saluDar', 'enkontrar', 'Ber', 'ber', 'Baer', 'aser', 'keDar', 'aserkar',
     'kaer', 'rekoxer', 'g&rDar', 'terminar', 'pakater', 'aBer', 'kajar',
     'meter', 'moBer', 'poner', 'Desaser', 'komponer', 'Desir', '$Gar',
     'aBrir', 'peDir', 'salir', 'x$Gar', 'BriNkar', 'p$Der', 'sirBer',
@@ -70,10 +70,10 @@ other_pos_list = [ # others where you can remove the last leter used for adjecti
 ]
 
 not_confident_pos = [ # words that im not sure if i should switch or not
-    'Bak-', 'Don-', 'Gat-', 'GloB-', 'bak-', 'don-', 'gat-', 'kamin-', 'jo', 'naranx-', 
-    'pal-', 'plat-', 'saBros-', 'sorpres-', 'tas-', 'Bark-', 'Bok-', 'DaDo', 'DeDo', 
-    'G!ta', 'G$r-', 'Gaj-', 'grandot-', 'Gripa', 'caNgo', 'fiGura',  'fruta', 'kaxa', 'kamara', 
-    'sanahoria', 'k$nt-', 'mon-'
+    'Bak-', 'Don-', 'Gat-', 'GloB-', 'bak-', 'don-', 'gat-', 'kamin-', 'j-', 'naranx-', 
+    'pal-', 'plat-', 'saBros-', 'sorpres-', 'tas-', 'Bark-', 'Bok-', 'DaD-', 'DeD-', 
+    'G!t-', 'G$r-', 'Gaj-', 'Grip-', 'caNg-', 'fiGura', 'frut-', 'kax-', 'kamar-', 
+    'sanahori-', 'k$nt-', 'mon-', 'grandot-', 'Grand-', 'Grandot-'
 ]
 
 all_invalid = [ 
@@ -98,14 +98,14 @@ all_invalid = [
     "D/#s", "B/iBi", "B/ern", "D/anae", "Ba/xo", "Ba/mosa", 
     "as/ukarera", "ka/mina", "B/eti", "b/$n3", "alexandr/o", "s/e", "s/ul*",
     "b/um", "D/emas", "ka/ri", "ka/ri|itos", "B/$lta", "D/eDo", 
-    "ka/rit", "B/oka", "B/um", "B/", "D/eDos",
+    "ka/rit", "B/oka", "B/um", "B/", "D/eDos", "Bl/oke",
     "b/erDaD", "D/eDitos", "B/en", "ka/Bajo", "b/eBe", "tom/ate", 
-    "b/eso", "D/el", "ka/mara", "met/a", "tap/itit/it/a",
-    "ka/Ritu", "ka/jo", "B/#ne", "ka/e", "ka/Ru", "Ba/monos", "as/i", 
-    "B/#n", "D/exo", "Ba/kit+", "d/anae", "aB/er",
-    "B/olsa", "ka/sa", "B/$no", "as/ta", "b/eBa", "D/ea", "B/eBe", 
-    "kom/o", "d/os", "b/es", "B/ak-", "B/aka",  
-    "B/akas", "B/akit+", "p/onsela", "p/onselo", "kamar/a", "ka/Ros", 
+    "b/eso", "D/el", "ka/mara", "met/a", "tap/itit/it/a", "B/in#ron", 
+    "ka/Ritu", "ka/jo", "B/#ne", "ka/e", "ka/Ru", "Ba/monos", "as/i", "B/ols/it/a"
+    "B/#n", "D/exo", "Ba/kit+", "d/anae", "aB/er", "B/onit-", "B/onit+", "B/on/it/a", 
+    "B/olsa", "ka/sa", "B/$no", "as/ta", "b/eBa", "D/ea", "B/eBe", "B/on/it/o", "B/on/it/a/s", 
+    "kom/o", "d/os", "b/es", "B/ak-", "B/aka", "Ba/n", "Ba/mos", "Ba/k/it/a", 
+    "B/akas", "B/akit+", "p/onsela", "p/onselo", "kamar/a", "ka/Ros", "Ba/mo/nos", 
     "an/ita", "Ba/k-", "Ba/ka", "Ba/kas", "j/anta/s", "j/eGe", "j/i", "j/iji"
 ]
 

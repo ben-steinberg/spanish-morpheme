@@ -217,13 +217,18 @@ def infinitive_break(corpus, pos_list, break_off_amount, exceptions = []):
 
         for token in tokens:
             
+
             base_word = token.rstrip(string.punctuation)
+            base_word = token
             punctuation_suffix = token[len(base_word):]
 
             for stem in stem_list: 
                 if (token.startswith(stem) and len(token) > len(stem)
                     and '/' not in token):
                     
+                    if stem == 'aBl':
+                        print("HERE", base_word)
+
                     slashed_base = slash_pronouns(base_word, stem)
                     plural_tagged = check_plural(base_word)
 
@@ -247,8 +252,7 @@ def infinitive_break(corpus, pos_list, break_off_amount, exceptions = []):
                         suffix = suffix[1:]
 
                     new_word = f"{stem}/{suffix}"
-                    if new_word == 's/ul*':
-                        print("HERE")
+
 
                     if new_word not in exceptions:
                     # print("NEW WORD: ", new_word)
@@ -274,8 +278,10 @@ def slash_pronouns(word, stem):
     # i want this to go in the infinitive break function and check if it can remove it
     # aim is to return the suffix slashed up
     suffix = word[len(stem):]
+
     pronoun_array = []
     pronoun_list = ['los', 'las', 'nos', 'me', 'te', 'le', 'se', 'les', 'lo', 'la', 'l*', 'l3']
+    # ablarl*
     for i in range(2):
         for pronoun in pronoun_list: 
             if suffix.endswith(pronoun) and not suffix.endswith('aste'):

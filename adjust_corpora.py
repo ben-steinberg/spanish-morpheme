@@ -43,7 +43,7 @@ modified_corpus = simple_add_slashes(modified_corpus, 'iDa', True, [], 'iD/a')
 
 modified_corpus = simple_add_slashes(modified_corpus, 'itos', True, ['karlitos', 'markitos', 'Bonitos'], 'it/o/s')
 
-a_endings = find_endings(modified_corpus, 'a') # make sure this is good
+# a_endings = find_endings(modified_corpus, 'a') # make sure this is good
 # modified_corpus = infinitive_break(modified_corpus, a_endings, 1, ['anit/a', 'lusi/a', 'mart/a', 'selin/a'])
 modified_corpus = simple_add_slashes(modified_corpus, 'a', True, ['anita', 'lusia', 'marta', 'selina'])
 

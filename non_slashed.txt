@@ -13,9 +13,7 @@ $le
 3
 3G-
 @
-B#n
-B*
-B+
+Bakit+
 BeBe
 Ben
 Bern
@@ -25,8 +23,6 @@ Bor
 Bu
 Bum
 D#s
-D*
-D@
 Danae
 De
 Del
@@ -37,8 +33,6 @@ G&
 G&G&
 G&u
 GaBi
-Grande
-Grandote
 Gras%s
 Je
 Rael
@@ -48,6 +42,7 @@ aBer
 aD@s
 aDios
 aDr%n
+aG!t-
 aRiB-
 aj#
 aj%
@@ -82,14 +77,11 @@ aremos
 aron
 arte
 arturo
-as#
-as%
 asi
 aste
 ax
 axaxax
 b#n
-baler%
 beBe
 ben
 bente
@@ -165,11 +157,8 @@ kaRit3
 kaRitu
 kae
 kam@n
-kar%
 karen
 kari
-karit-
-kat%
 kati
 ke
 keline
@@ -181,10 +170,13 @@ koce
 koces
 komo
 kon
+kosit-
 kuBos
 kucarit-
 kum
+l+D%
 leNg&
+lec*
 lece
 limon
 lusia
@@ -215,7 +207,6 @@ maz$l
 me
 meD@
 mendes
-met@
 mexor
 mi
 miGelin
@@ -278,10 +269,12 @@ sand!c
 sapatos
 sari
 se
+sel%
 selina
 semos
 se|or
 si
+sul*
 suli
 t!
 t#
@@ -294,6 +287,7 @@ tamar
 tamb#n
 tambor
 tan
+tasit-
 te
 ten
 tere
@@ -303,8 +297,6 @@ ti
 toR*
 toRe
 toRes
-tom+
-tom-
 triste
 trunR
 tsi
