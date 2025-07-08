@@ -112,13 +112,16 @@ def simple_add_slashes(corpus, morpheme, using_exceptions=True, choice_array=[],
             if using_exceptions: 
 
                 if (base_word.endswith(morpheme) and len(base_word) > len(morpheme)
-                    and base_word not in choice_array): #  and '/' not in base_word
+                    ): #  and '/' not in base_word
                     root = base_word[:-len(morpheme)]
                     if root.endswith('/'):
                         new_word = f"{root}{replaced_morpheme}"
                     else: 
                         new_word = f"{root}/{replaced_morpheme}"
                 else:
+                    new_word = base_word
+                    
+                if new_word in exceptions: 
                     new_word = base_word
 
             else: 
@@ -161,11 +164,13 @@ def add_in_section(corpus, cut_morpheme, morpheme, exceptions):
 
             if (base_word.endswith(morpheme)
                 and len(base_word) > len(morpheme)
-                and base_word not in exceptions
                 and '/' not in base_word):
                 root = base_word[:-len(cut_morpheme)]
                 new_word = f"{root}/{cut_morpheme}"
             else:
+                new_word = base_word
+
+            if new_word in exceptions: 
                 new_word = base_word
 
             new_parts.append(new_word + punctuation_suffix)
@@ -225,15 +230,15 @@ def infinitive_break(corpus, pos_list, break_off_amount, exceptions = []):
             for stem in stem_list: 
                 if (token.startswith(stem) and len(token) > len(stem)
                     and '/' not in token):
-                    
-                    if stem == 'aBl':
-                        print("HERE", base_word)
+
 
                     slashed_base = slash_pronouns(base_word, stem)
                     plural_tagged = check_plural(base_word)
 
                     if break_off_amount == 2:
                         suffix = slashed_base[len(stem):]
+                        if len(suffix) > 4:
+                            new_word = base_word
 
                     else: 
                         suffix = base_word[len(stem):]

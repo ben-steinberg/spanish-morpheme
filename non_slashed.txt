@@ -13,17 +13,21 @@ $le
 3
 3G-
 @
+B#n
 Bakit+
 BeBe
 Ben
+Bente
 Bern
 Bes
 Bisi
+Bloke
 Bor
 Bu
 Bum
 D#s
 Danae
+Dar@
 De
 Del
 Demas
@@ -66,7 +70,6 @@ ame
 amor
 an
 anaBel
-anita
 aoj
 aor+
 aor-
@@ -159,6 +162,7 @@ kae
 kam@n
 karen
 kari
+karne
 kati
 ke
 keline
@@ -179,7 +183,6 @@ leNg&
 lec*
 lece
 limon
-lusia
 m!
 m#
 m#ntras
@@ -200,8 +203,6 @@ mar%n-
 marcos
 mari
 mariBel
-markitos
-marta
 mas
 maz$l
 me
@@ -270,7 +271,6 @@ sapatos
 sari
 se
 sel%
-selina
 semos
 se|or
 si

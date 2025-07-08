@@ -1,19 +1,18 @@
 $B/it/o
 $G/an
 3G/a
-B#n/do
 B#n/e
 B#n/es
 B#n/ta/se/l/a
 B$lt/a
 B$n/o
+B-l/a
 B-l/ando
 B-l/ar
-B/#n
+B/#ndo
 B/$l/it/a
 B/*
 B/+
-B/-/l/a
 B/3
 B/a
 B/aj/a
@@ -28,7 +27,6 @@ B/e
 B/e/a
 B/e/te
 B/emos
-B/en/te
 B/er
 B/er/l/o
 B/er/l/o/s
@@ -55,8 +53,8 @@ Bes/it/o
 Bes/it/o/s
 Bes/it3
 Bes/o
-Bes/tiDo
 Bes/u
+Best/iDo
 Bet/i
 Bet/o
 BiB/e
@@ -70,7 +68,6 @@ Bist/e
 Bist/o
 Bl/a/l/e
 Bl/aNk/a
-Bl/oke
 Bok/a
 Bols/a
 Bolte/amos
@@ -99,11 +96,9 @@ D/a/me/l/o
 D/a/se/l/a
 D/a/se/l/o
 D/amos
-D/an#/l/a
 D/ando
 D/ar
 D/ar/l/e
-D/ar@
 D/as
 D/eD/it/o
 D/es
@@ -111,6 +106,7 @@ D/i/l/e
 D/i/l/e/s
 D/on-
 DaD/o/s
+Dan#l/a
 Dan/a
 De/a
 DeD/it/o/s
@@ -223,6 +219,7 @@ alG/o
 amarij/o
 amiG/o
 an/a
+an/it/a
 and/a/l/e
 and/o
 aor/a
@@ -432,12 +429,9 @@ ka/ntas
 ka/r%
 ka/r/it/a
 ka/r/it/a/s
-ka/rG/a
-ka/rGamos
 ka/rit-
 ka/ri|/it/o
 ka/rl/it/o/s
-ka/rne
 ka/s/it/a
 ka/t%
 ka/x/it/a
@@ -453,6 +447,8 @@ kaj/u
 kamar/a
 kamin/a
 kans/aste
+karG/a
+karG/amos
 kari|/it/o/s
 kas/a
 kax/a
@@ -528,6 +524,7 @@ liBr/o
 liBr/o/s
 lind/o
 list/o
+lusi/a
 maGDalen/it/a
 mal/a
 mam/a
@@ -543,6 +540,8 @@ mar%n/a
 mar%n/it/a
 mar/a
 mari/a
+mark/it/o/s
+mart/a
 martij/o
 mes/a
 met/@
@@ -556,11 +555,11 @@ met/er/l/o/s
 met/o
 mi/&
 mi/+
-mi/Go
 mi/o
 mi/o/s
 mi/s
-miGelit/o
+miG/o
+miGel/it/o
 mir/+
 mir/-
 mir/-z
@@ -614,7 +613,7 @@ otr/a/s
 otr/o
 otr/o/s
 ox/it/o/s
-oxear/l/o
+oxe/ar/l/o
 p#rn/a
 p#rn/it/a/s
 p$D/*
@@ -805,6 +804,7 @@ saluD/ar
 sanahori/a
 seR/amos
 seR/aron
+selin/a
 sent/amos
 sent/ar
 sent/ar/l/a

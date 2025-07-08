@@ -20,7 +20,7 @@ gras%s
 pum - en l/a naris
 pum pum
 ke
-m! B/#n
+m! B#n
 j/a keD/o l/a rox/a aDentr/o Bist/e
 es rox/o est/e es rox/o
 gras%s
@@ -84,7 +84,7 @@ est/e
 si ke mas Bes
 es/o
 es/o
-m! B/#n
+m! B#n
 k#r/es B/er ke mas -
 mir/a k&nt/o/s kuBos
 - se f$
@@ -136,7 +136,7 @@ gras%s
 l/o pon/emos aki
 n/o
 komo est/as
-b#n B/#n
+b#n B#n
 ol/a cik/it/a
 run
 !
@@ -355,7 +355,7 @@ mir/a te Gust/o
 si
 - te Gust/o
 si
-- - - aBer aGaR/e B/#n par/a B/er el liBr/o
+- - - aBer aGaR/e B#n par/a B/er el liBr/o
 mir/a ke paDre est/a
 b/amos a sak/ar/l/o/s toD/o/s
 toD/o toD/o toD/o l/o B/amos a sak/ar
@@ -415,10 +415,10 @@ tom/a tom/a est/o es l/o ke k#r/es
 alfonso alfonso Don/de est/a pap/a pap/a
 a ke xuG/amos e
 braB/o BraB/o
-mir/a D/ar@ l/o/s k#r/es
-aBer ke B/amos a as/er D/ar@
+mir/a Dar@ l/o/s k#r/es
+aBer ke B/amos a as/er Dar@
 b/amos a xuG/ar
-mir/a D/ar@
+mir/a Dar@
 mir/a
 tom/a tom/a tom/a
 p+l/a j/a Bist/e toD/o l/o ke ten/emos aki
@@ -454,12 +454,12 @@ axaxax
 tu k#r/es est/e
 te k#r/es est/e
 axaxax
-miGelit/o j/a Bist/e toD/o l/o ke ten/emos aki
+miGel/it/o j/a Bist/e toD/o l/o ke ten/emos aki
 mir/a
 mir/a
 pum se kaj/o
 - est/e ka/R/it/o se B/a se B/a a pase/ar
-oJe miGelit/o te ense|/o otr/o/s xuG/etes
+oJe miGel/it/o te ense|/o otr/o/s xuG/etes
 si
 mir/a miGelin
 mir/a
@@ -501,7 +501,7 @@ mir/a el mir/a
 i
 mir/a l/a Bak/a
 mu mu
-mir/a BeBe markitos
+mir/a BeBe mark/it/o/s
 mir/a l/a Ba/k/it/a
 marcos marcos
 kl+D% aBer a ke xuG/amosk l+D%
@@ -585,7 +585,7 @@ mariBel
 per/o mas mari
 ol/a te Gust/a
 mir/a l/a mu|ek/a
-s/u Bes/tiDo te
+s/u Best/iDo te
 si
 d/a/l/e un Bes/it/o
 k#r/es xuG/ar kon es/o/s
@@ -707,7 +707,7 @@ aBer B/amos aBer ke mas - si
 beBe mir/a
 mir/+  kaRitu n/a Bisi
 mir/a el BeBe
-aBer B/amos a oxear/l/o aBer ke -
+aBer B/amos a oxe/ar/l/o aBer ke -
 mir/a
 mir/a ke es est/o
 un/o Dos tr/e/s
@@ -910,8 +910,8 @@ met/e/l/o aki mir/a
 k#r/es as/er est/o
 mir/a el Bark/o el Bark/u  os/it/o
 ol/a komo est/as cikit/it/o
-komo est/as B/#n
-komo est/as B/#n
+komo est/as B#n
+komo est/as B#n
 si
 komo est/as e
 ke est/as as/#ndo
@@ -920,13 +920,13 @@ l/e p$D/e prest/ar un/o si k#r/e
 komo est/as e
 n/o k#r/es xuG/ar e
 or/a s#nt/a/te
-mir/a mir/a a marta mir/a
-aji B#n/e marta aBl/a/l/e
+mir/a mir/a a mart/a mir/a
+aji B#n/e mart/a aBl/a/l/e
 tsi  si  si  si
 kaj/a/te
-mir/a te aBl/a marta mir/a
-te aBl/a marta te aBl/a marta te aBl/a marta
-per/o ak/a aj/a est/a marta
+mir/a te aBl/a mart/a mir/a
+te aBl/a mart/a te aBl/a mart/a te aBl/a mart/a
+per/o ak/a aj/a est/a mart/a
 s#nt/a/te
 aBer a Don/de B/as
 k#r/es xuG/ar kon l/a pelot/a
@@ -1044,8 +1044,8 @@ mir/a l/a BeBe
 - l/a BeBe
 aBer ke - en un B/ols/it/a j/o k#r/o B/er
 ke B/on/it/a tu Bols/a Ber/DaD
-mir/a selina mir/a pum pum
-! ke B/#n
+mir/a selin/a mir/a pum pum
+! ke B#n
 - ke B/on/it/a nen/a
 run
 run run toD/o/s
@@ -1124,7 +1124,7 @@ aBer ec/a/l/a
 pum aDentr/o
 aDentr/o
 otr/3 j/a
-ci n/o G&rD/a el Bl/oke en l/a kax/a
+ci n/o G&rD/a el Bloke en l/a kax/a
 j/a n/o te l/o/s kit/o
 aBer k&nt/a/s kos/a/s - aki mir/a
 - el
@@ -1164,7 +1164,7 @@ aRiB/a
 - ke G&p/o
 ke G&p/o ni|/o
 ke mas GorD/o
-ben B/en/te par/a ak/a
+ben Bente par/a ak/a
 ke mas mir/a mir/a est/e
 n/o te B/ajas pituf/o
 a Don/de B/as peDro Ben par/a ak/a
@@ -1198,7 +1198,7 @@ ke aDios
 aBer aji B#n/e aji B#n/e
 aBer ke me B/as a ense|/ar
 sak/a/l/o sak/a/l/o
-ke B/#n es/o
+ke B#n es/o
 otr/o sak/amos otr/o
 j/a sal/@
 k&l sak/amos
@@ -1272,7 +1272,7 @@ par/a ke es
 par/a l/a nen/a
 si
 - par/a l/a nen/a mir/a l/a nen/a
-d/a/l/e a l/a nen/a m% mor es/o m! B/#n l/a nen/a and/a/l/e
+d/a/l/e a l/a nen/a m% mor es/o m! B#n l/a nen/a and/a/l/e
 poBre nen/a j/a l/a Dex/aste s/in kun/a
 fuci
 #  koce
@@ -1280,8 +1280,8 @@ run
 #  otr/o mir/a run
 tra/e/te el otr/o peDro
 tr-/te/l/o asi mir/a
-es/o m! B/#n
-m! B/#n peDro aji B/3
+es/o m! B#n
+m! B#n peDro aji B/3
 est/e el amarij/o
 run run
 % or/a GorD/o
@@ -1293,9 +1293,9 @@ mir/a
 komo aleGas
 ke B/as a sak/ar
 n/o
-ke B/#n peDro
+ke B#n peDro
 aBer run
-m! B/#n run
+m! B#n run
 ke j/a te kans/aste
 - ke se kaj/o peDro
 se k/a/* l$G/o te peG/as Ber/DaD
@@ -1427,7 +1427,7 @@ aBer
 ax ax ke pas/a
 te ka/es
 aserk/a/te
-ke B/#n se oJe Ber/DaD
+ke B#n se oJe Ber/DaD
 pum pum pum
 pakat/e/l/a/s
 -
@@ -1522,7 +1522,7 @@ e e ke pas/o
 pum
 otr/a Bes si
 es/o
-m! B/#n
+m! B#n
 pum pum
 aBer l/o pon/emos otr/a Bes
 a k#n l/e D/as
@@ -1585,7 +1585,7 @@ el kaR/o D/a/me el kaR/o
 es/e
 gras%s
 me D/as el otr/o
-gras%s m! B/#n
+gras%s m! B#n
 es l/a sir$l/a - ke rik/a 
 k#r/es k#r/es
 n/o k#r/es
@@ -1596,7 +1596,7 @@ sul*m/a - aG!t/a
 mir/a el BeBe
 est/a jor/ando el BeBe
 est/a jor/ando el BeBe
-ka/rG/a al BeBe ka/rG/a al BeBe tom/a
+karG/a al BeBe karG/a al BeBe tom/a
 mam/a mam/a
 mam/a nen/a
 ben Ben ak/a est/- x/a l/a mamil/a l/a tet/it/a
@@ -1638,7 +1638,7 @@ d/a/me m% mor
 pon aki l/a sir$l/a suli
 ben D/a/me D/a/me sir$l/a
 - ke te pas/o en tus oxos e
-ke est/as B#n/do e
+ke est/as B/#ndo e
 mir/a pon aki l/o/s plat/it/o/s
 mir/a ke B/3 a sak/ar e
 mir/a ke te B/a a ense|/ar mam/a e
@@ -1648,7 +1648,7 @@ el os/o
 - ke B/on/it/o kamin/a l/a nen/a
 d/a/l/e un Bes/it/o D/a/l/e un Bes/it/o
 b-l/a kon el os/o
-and/a/l/e B/-/l/a
+and/a/l/e B-l/a
 n/o k#r/es B-l/ar i kon el kocin/it/o
 si
 laralar/a
@@ -1679,7 +1679,7 @@ ol/a
 el os/o
 oJe fani ke poD/emos as/er kon est/os
 k#n es l/a mu|ek/a
-- ke poD/emos as/er kon est/e kaRit3 si l/o ka/rGamos
+- ke poD/emos as/er kon est/e kaRit3 si l/o karG/amos
 si i ke pas/o
 si n/o/s tra/emos al os/it/o
 ol/a fani komo est/as
@@ -1730,7 +1730,7 @@ ol/a Ba/k/it/a
 te l/o k#r/es pon/er en tu man/it/a
 and/a/l/e asi i j/o asi
 k#r/o kon est/e
-ol/- m% mi/Go caNg/o Don/de est/a fani
+ol/- m% miG/o caNg/o Don/de est/a fani
 - k#r/es xuG/ar kon l/a Bak/a
 un/3 un/o si
 n/o
@@ -1804,7 +1804,7 @@ ke es
 am ke rik/o
 me D/as
 ke k#r/es
-n/o se kom/e B/#n
+n/o se kom/e B#n
 mir/a peG/a kon l/o/s pal/it/o/s
 ten por ak% B/i+  tambor tom/a
 es/o/s n/o mir/a nen/a
@@ -1852,12 +1852,12 @@ f$rte f$rte
 l/o k#r/es aBr/ir
 l/o est/as Busk/ando
 mir/a aki pon/emos un/o # st/e Don/de l/o pon/emos
-es/o m! B/#n mar%n/a
+es/o m! B#n mar%n/a
 aor/a pon/emos
 don/de pon/emos l/o k#r/es ak/a
-es/o m! B/#n m! B/#n
-es/o m! B/#n aor/a B/amos arm/ar est/e ak# st/o ak/a
-es/o m! B/#n m! B/#n
+es/o m! B#n m! B#n
+es/o m! B#n aor/a B/amos arm/ar est/e ak# st/o ak/a
+es/o m! B#n m! B#n
 - ke Grand/e est/a est/o
 otr/o otr/o otr/o @ tr/o
 l/o k#r/es
@@ -1865,11 +1865,11 @@ si l/a nen/a
 aki l/o pon/emos aBer ke se met/a ke se met/a
 n/o se met/@
 n/o se met/@ aBer met/e/l/o
-es/o m! B/#n mar%n/a l/e D/as l/a B$lt/a
+es/o m! B#n mar%n/a l/e D/as l/a B$lt/a
 oJe per/o mexor aki si kaBe
 aki mir/a
 aki met/e/l/o
-es/o m! B/#n mar%n/a
+es/o m! B#n mar%n/a
 otr/o
 ak/a ten/emos otr/o mar%n/a
 k#r/es el ka/R/it/o
@@ -1883,13 +1883,13 @@ est/e l/o pon/emos aki
 me l/o D/as
 ke as/emos kon est/o aor/a
 k&nt/a/s kos/a/s
-ke aremos kon est/o l/o ka/rGamos kon est/o aki
+ke aremos kon est/o l/o karG/amos kon est/o aki
 me k#r/es ajuD/ar
 l/o/s pon/emos aki si
-es/o m! B/#n
+es/o m! B#n
 aki - otr/o % k/a - otr/o
 - k&nt/o/s - mar%n/a
-m! B/#n mar%n/a m! B/#n B/on/it/a
+m! B#n mar%n/a m! B#n B/on/it/a
 k#r/es ke te ense e otr/o/s xuG/etes
 mir/a mar%n/a B/amos a xuG/ar kon est/as kos/a/s B/on/it/a/s aBer B/amos a
 i l$G/o ak/a
@@ -1933,7 +1933,7 @@ mir/a aor+  xitomate o mandarin/a
 ke k#r/es xitomate o mandarin/a
 - mir/a l/o ke B/3 a G&rD/ar est/e pal/it/o est/e otr/o pal/it/o
 mir/a mir/a ke kos/a/s tan B/on/it/a/s aor/a t& ki est/as
-aki mir/a aki met/e/l/a/s aki met/e/l/a/s m! B/#n aBer l/a otr/a
+aki mir/a aki met/e/l/a/s aki met/e/l/a/s m! B#n aBer l/a otr/a
 aki mir/a met/e/l/a/s nen/a
 est/o # st/o met/e/l/o aki
 mir/a B/amos a met/er est/os pal/it/o/s tamb#n
@@ -1966,8 +1966,8 @@ te Gust/o el poj/it/o
 k#r/es el poj/it/o
 m#ntras j/o Bor a xuG/ar kon mi toRe B/3 a as/er un/a toRe
 un/a prest/a/me/l/o/s mir/a aor/a tu pon/l/o/s aki mir/a aki
-pon l/o/s kuB/it/o/s aki te ak# s/o m! B/#n aBer
-braB/o BraB/o por mar%n/a l/3 s/o m! B/#n aBer l/o/s Demas aki
+pon l/o/s kuB/it/o/s aki te ak# s/o m! B#n aBer
+braB/o BraB/o por mar%n/a l/3 s/o m! B#n aBer l/o/s Demas aki
 aBer mar%n/a pas/a/me l/o/s kuBos pon/l/o/s aki
 n/o pon/l/o/s ak/a mir/a l/o/s ke t#n/es aji mir/a
 mir/a mar%n/a
@@ -1995,7 +1995,7 @@ es/e j/a n/o l/*n tereso a mar%n/a
 b/amos aBer ke - aji
 i - ke paDre ke es es/o
 mir/+ n/a Bak/a mu mu un/a Bak/a
-aBer D/a/l/e l/a B$lt/a mar%n/a D/a/l/e l/a B$lt/a es/o m! B/#n mar%n/a
+aBer D/a/l/e l/a B$lt/a mar%n/a D/a/l/e l/a B$lt/a es/o m! B#n mar%n/a
 i mir/+ n/a flor  - ke rik/o $le  k#r/es ol/er/l/a a
 i mir/a ke B/on/it/o ke es est/e ke es est/o mar%n/a ke es est/o
 ke es est/o mar%n/a ke es est/o
@@ -2011,18 +2011,18 @@ mir/a
 mir/a mar%n/a
 k#r/es B/er/l/o
 aBer B/amos aBer si l/o p$D/es moB/er
-aki mir/a es/o m! B/#n ak/a - otr/3 mir/a se est/a
+aki mir/a es/o m! B#n ak/a - otr/3 mir/a se est/a
 l/e pon/emos el DeD/o aki i l/o xir/amos i l/e pon/emos el DeD/o aki i l/o
 el DeD/o en meD@ mar%n/a
 epale
-es/o m! B/#n mar%n/a
+es/o m! B#n mar%n/a
 k#r/es B/er un/o
 aBer B/amos aBer si l/o p$D/es B/er
-es/o m! B/#n
+es/o m! B#n
 mir/a aki - otr/o
 * se reGres/a
 el DeD/o en meD@ mar%n/a
-es/o m! B/#n mar%n/a
+es/o m! B#n mar%n/a
 es/o k#r/es el otr/o x$G/o
 est/e est/e kon est/e B/amos a xuG/ar aor/a
 si ke est/ar/a aj@ l/a k#n BiB/e aji
@@ -2042,7 +2042,7 @@ l/o Bax/amos
 mir/a mar%n/a j/a Bist/e
 aBer tu tu man/o mir/a se s#R/an un/o Dos
 un/o Dos tr/e/s k&tr/o
-es/o m! B/#n j/a seR/aron s/u ka/s/it/a falt/+ n/o
+es/o m! B#n j/a seR/aron s/u ka/s/it/a falt/+ n/o
 falt/a el p@p@p@
 es/e j/a se f$ron toD/o/s aor/a ke salG/an ker/emos B/er al peR/it/o
 ker/emos B/er/l/o De aki mir/a
@@ -2052,7 +2052,7 @@ kon toD/a l/a man/o
 kon toD/o/s l/o/s DeD/o/s f$rte
 aBer otr/a Bes kon toD/o/s l/o/s DeD/o/s
 kon toD/o/s l/o/s DeD/o/s f$rte f$rte
-f$rte es/o m! B/#n j/a Bist/e ke sal/@
+f$rte es/o m! B#n j/a Bist/e ke sal/@
 est/e
 aBer pon tu man/o aki tu man/it/a es/o aGaR/a/l/o
 ke
@@ -2120,7 +2120,7 @@ n/o se k#r/e p*n/ar mar%n/a
 a se kaj/o
 mir/a l/o ke me enkontr/e mar%n/a
 ke as/emos kon es/e n/o/s p*n/amos
-n/o/s p*n/amos m! B/#n ke B/on/it/a n/% ke se p*n/a es/o m! B/#n
+n/o/s p*n/amos m! B#n ke B/on/it/a n/% ke se p*n/a es/o m! B#n
 aBer B/amos a jeB/ar a l/o/s nenes +  pase/o
 j/a se B/an a D/ar el pase/o l/o/s nenes per/o k#r/en ir toD/o/s l/o/s nenes
 mir/a te B/3 a sak/ar muc/o/s xuG/et/it/o/s k#r/es xuG/ar
@@ -2147,7 +2147,7 @@ es/o otr/a Bes
 ec/a/me/l/a
 si
 ke mas nen/a
-est/as B#n/do a l/a kamar/a
+est/as B/#ndo a l/a kamar/a
 mir/a
 j/a n/o k#r/es a l/a m$ k/a
 ol/a ol/a
@@ -2163,7 +2163,7 @@ aBer k#n es k#n es
 es el peR/it/o
 mir/a jam/a/l/o
 pa/m Bum
-m! B/#n nen/a
+m! B#n nen/a
 es l/a B/ols/it/a
 aBer B/amos a met/er aDentr/o kos/a/s
 k#r/es met/er aDentr/o kos/a/s
@@ -2175,7 +2175,7 @@ gras%s
 aBer B/e/te al espex/o
 k#n es ej/a
 l/a nen/a
-n/o k#r/es B/er/te k#r/es B/er a lusia mendes
+n/o k#r/es B/er/te k#r/es B/er a lusi/a mendes
 j/o B/3 as/er mi toRe
 mi toRe - se me kaj/o
 - me tir/aste mi toRe
@@ -2201,10 +2201,10 @@ es/o
 otr/a Bes
 aki mir/a pikale
 pum
-pum m! B/#n
+pum m! B#n
 otr/a Bes aki pum
 aBer aor/a te
-es/o m! B/#n
+es/o m! B#n
 ke es
 el arBol i l/a mansan/a
 orale konex/it/o
@@ -2346,7 +2346,7 @@ mir/a ka/t% ten aRuj/a al BeBe aRuj/a al BeBe
 aRuj/a al BeBe tu cik/it/a
 d/a/l/e un/o Bes/o
 mir/a - poBres/it/o B/a a jor/ar
-- eres B/#n mal/a Bes/it/o/s
+- eres B#n mal/a Bes/it/o/s
 mir/a mir/a
 mir/a B/amos a pon/er est/e ak# st/e ak# st/e aki
 n/o k#r/es xuG/ar kon es/o/s
@@ -2417,10 +2417,10 @@ mir/- x/a
 l/a Bak/a
 ol/a
 an/a mari/a
-anita ol/a anita
-aBer anita a ke B/amos a xuG/ar e
+an/it/a ol/a an/it/a
+aBer an/it/a a ke B/amos a xuG/ar e
 mir/a B/amos a as/er un/a toRe
-aBer anita a ke B/amos a xuG/ar kon el
+aBer an/it/a a ke B/amos a xuG/ar kon el
 ke rik/o est/a ke rik/o
 te Gust/a el os/it/o Ber/DaD
 ker Grandot/e
@@ -2438,7 +2438,7 @@ braB/o
 - se kaj/o
 k#r/es B/er otr/o xuG/etes
 b/amos aBer otr/o/s xuG/etes ke teN/go por aki
-ke as/emos anita
+ke as/emos an/it/a
 e
 bu
 ben mir/a
@@ -2449,7 +2449,7 @@ braB/o
 aste mas par/a ak/a
 aBer
 n/o me D/as
-anita anita D/a/me/l/o
+an/it/a an/it/a D/a/me/l/o
 k#r/es
 mir/a
 mir/a platan/it/o
@@ -2462,10 +2462,10 @@ aki - otr/- otr/a
 otr/a B/amos a pon/er otr/a aRiB- otr/a
 - - se kaj/o
 toD/o/s se kaj/eron
-m! B/#n pa/o
-es/o es m! B/#n
+m! B#n pa/o
+es/o es m! B#n
 mir/a l/o ke te B/3 ense|/ar
-mir/a es/o es m! B/#n
+mir/a es/o es m! B#n
 ! ke G&p/a ke G&p/a est/a keD/ando
 mir/a Ben pa/o aBer ke B/amos a as/er
 ke B/amos as/er aBer
@@ -2542,7 +2542,7 @@ ol/a G&p/o
 ol/a ol/a
 ol/a aDr%n
 - ke B/on/it/o
-m! B/#n al*D/a
+m! B#n al*D/a
 - ke se kaj/o
 - j/a l/o pus/o ak/a - otr/o mir/a
 n/o
@@ -2879,7 +2879,7 @@ mir/a te pon est/o aji ten
 pon/l/o aj% ji
 mir/a B/amos a jen/ar el kaR/o De kos/it/a/s
 ten ec/a/se/l/a/s al koce
-es/o m! B/#n
+es/o m! B#n
 aBer ten otr/o
 - se kaj/o
 n/o a l/a Bok/a n/o
@@ -2896,7 +2896,7 @@ k#n est/a aji
 e
 mir/a
 mir/a l/o/s ni|/o/s
-p*n/amos a D/an#/l/a si l/a p*n/amos
+p*n/amos a Dan#l/a si l/a p*n/amos
 n/o a l/a Bok/a n/o
 mir/a p*n/a/te ten
 mir/a kon est/e mir/a
@@ -2914,18 +2914,18 @@ aBer l/a naris
 otr/a Bes
 ten
 n/o a l/a Bok/a n/o ak#  l/a naris mir/a
-oJe D/an#/l/a j/a Bist/e est/os
+oJe Dan#l/a j/a Bist/e est/os
 aki mir/a aki
 est/e n/o te Gust/o Ber/DaD
 el liBr/o
 mir/a est/e otr/o
 si
-a mi me l/o D/as D/an#/l/a
+a mi me l/o D/as Dan#l/a
 mir/a - aBer
 konex/o el Gat/o
-ol/a D/an#/l/a ol/a
+ol/a Dan#l/a ol/a
 ke pas/o cik/it/a n/o
-g& G& se B/a se B/a se B/a porke est/a jor/ando D/an#/l/a
+g& G& se B/a se B/a se B/a porke est/a jor/ando Dan#l/a
 bente alexandro
 bente par/a ak/a s#nt/a/te aji
 koR/e/l/e
@@ -2948,7 +2948,7 @@ mir/+  run run
 mir/a otr/o l/o k#r/es
 tom/a
 run
-ten tom/a B/en/te
+ten tom/a Bente
 t#n/e un a|/o Ber/DaD
 si l/o/s kumpl/@ ajer
 t* s#ron tu pastel si
@@ -3010,7 +3010,7 @@ n/o te Gust/a
 d/a/l/e
 ke
 el pajas/it/o
-ke est/as B#n/do e
+ke est/as B/#ndo e
 mir/a ke ten/emos aki
 si
 mir/a
@@ -3195,7 +3195,7 @@ te t/a
 mir/a el koce
 mir/a el pa/n
 papas
-and/a/l/e and/a/l/e B/en/te mir/a
+and/a/l/e and/a/l/e Bente mir/a
 mir/a el platan/o
 mir/a mir/a platan/o n/o k#r/es
 mir/a el poj/o
@@ -3276,8 +3276,8 @@ si j/a termin/amos
 aBer mir/a l/o ke ten/emos en est/a ka/x/it/a
 aBer B/amos aBer
 mir/a l/a pelot/a l/a ke ker/ias
-l/a tot/a m! B/#n l/a tot/a
-si m! B/#n l/a tot/a
+l/a tot/a m! B#n l/a tot/a
+si m! B#n l/a tot/a
 - se n/o/s f$
 aBer l/a tot/a
 mir/a ke mas ten/emos aki
@@ -3582,8 +3582,8 @@ l/a Don/a
 n/o
 n/o k#r/es Don/a
 n/o fucil/a Ber/DaD
-k#r/es ka/rne
-mir/a es un/a ka/rne
+k#r/es karne
+mir/a es un/a karne
 n/o fucil/a
 est/a es l/a lece
 n/o es/a es De l/a BeBe es/a es De l/a BeBe
@@ -3759,7 +3759,7 @@ te est/a el poj/o
 ke es
 el k$nt/o al poj/it/o
 aBer j/o
-aB/i+ n/a Bes i ke un peR/o B/#n Grand/e
+aB/i+ n/a Bes i ke un peR/o B#n Grand/e
 el
 aBer B/amos aBer est/e k$nt/o si
 te B/3 a est/e k$nt/o
@@ -3844,7 +3844,7 @@ a Don/de l/o/s B/as a jeB/ar
 s/u/s sapatos De ke s/on
 j/o te l/o B/3 a sent/ar
 de ke s/on
-m! B/#n
+m! B#n
 aBer i ke es est/e
 e
 a par/a l/a nen/a
@@ -3944,7 +3944,7 @@ toRe B/amos a as/er un/a toRe
 es/o es/o aor/a B/amos a pon/er est/e aki
 primer/o est/e es/o % or/a est/e es/o
 est/e aor/a
-braB/o m! B/#n
+braB/o m! B#n
 mir/a est/os mir/a mir/a
 mir/a am ke rik/o
 b/amos a as/er otr/a toRe
@@ -4097,7 +4097,7 @@ k#r/e
 aBer l/e B/amos a ec/ar lece esper/a/te mas lece
 l/e lec* l/e ec/amos
 % or/a D/a/l/e tom/a tu
-m! B/#n aor/a
+m! B#n aor/a
 - si Don/de est/a el plat/o
 s/@ Je l/e D/amos al BeBe lece
 - ke B/on/it/o BeBe D/a/l/e lece
@@ -4203,7 +4203,7 @@ k#n mas se al kam@n
 se
 s/% si par/a ke n/o se
 ax/a n/o se
-m! B/#n k#n mas
+m! B#n k#n mas
 k#n mas
 a
 a l/o/s
@@ -4220,7 +4220,7 @@ n/o es/e n/o es el p*n/e
 ak/a est/an
 - un/a Bols/a
 si s/% si l/a Ber/DaD
-! m! B/#n
+! m! B#n
 ax/a ! ke B/on/it/a
 ke
 el peR/o mir/a n/o l/o Bist/o
@@ -4438,7 +4438,7 @@ k#r/es sand!c
 el BeBe k#r/e lece
 d/a/l/e lece al BeBe si n/o B/a a jor/ar
 - s/u lece
-l/o ka/rGamos par/a ke n/o - BeBe n/o jor/es par/a ke n/o
+l/o karG/amos par/a ke n/o - BeBe n/o jor/es par/a ke n/o
  ke rik/a lece
 j/a l/o pon/emos en s/& ji BeBe
 ! ke es est/o
@@ -4459,7 +4459,7 @@ beBe oJ* est/o ke es es un peR/it/o
 es komo as/e
 n/o l/a p$D/es aBr/ir
 aBer j/a
-es/o B/#n
+es/o B#n
 o mir/a ke pas/o o % or/a al n/o al por ke si n/o
 asi B/a
 pon/se/l/a al
@@ -4485,7 +4485,7 @@ aj#  el a l/o mexor k#r/e tom/ar
 l/a tamb#n es/e ke es
 a mas % or/a est/e komo se jam/a
 - kaBaj/o n/o tir/es mi
-m! B/#n
+m! B#n
 es/a ke
 mam/a ke aG/o
 - ke rik/o #  BeBe tom/a
@@ -4510,10 +4510,10 @@ mir/a
 l/a
 el kam@n
 ke B/as a aReGl/ar
-es/o m! B/#n B/amos a aReGl/ar el kam@n aBer
+es/o m! B#n B/amos a aReGl/ar el kam@n aBer
 d/i/l/e est/3 el kam@n
 ax/a kon es/e
-es/o m! B/#n
+es/o m! B#n
 aor/a ke mas
 est/a aG/&
 es/o aBer s/u s/u j/a n/o sirB/e
@@ -4532,7 +4532,7 @@ b/amos a as/er l/a toRe
 un/a toRe
 es/o aor/a j/o s/% or/a te es/o aki - otr/o
 aor/a te
-- m! B/#n mir/a ke Grand/e
+- m! B#n mir/a ke Grand/e
 mir/a ak/a - otr/o
 se kaj/o
 se kaj/o
@@ -4660,7 +4660,7 @@ tom/a
 am
 az/l/e en l/a
 s/u Bes/it/o s/u Bes/it/o
-m! B/#n
+m! B#n
 un/o a mi un Bes/it/o a mi
 - est/a rik/a l/a lece
 - ke rik/o
@@ -4677,7 +4677,7 @@ aor/a
 aor/a
 - ke t#n/e
 -
-- m! B/#n
+- m! B#n
 aor/a j/a ke se
 k#r/es uBas
 uB/a
@@ -4796,7 +4796,7 @@ a l/a ka/s/it/a met/e/l/o/s a l/a ka/s/it/a
 es/o
 es/o
 braB/o
-aor/a D/a/se/l/a a mam- B/en/te a xuG/ar kon est/o j/a por
+aor/a D/a/se/l/a a mam- Bente a xuG/ar kon est/o j/a por
 mir/a
 ol/a
 k&l k#r/es
@@ -4821,7 +4821,7 @@ pon/emos aRiB/a
 aRiB/a
 me l/o D/as
 te pon/l/o
-aBer pikale es/o otr/a Bes es/o m! B/#n Bet/o aor/a toD/o/s
+aBer pikale es/o otr/a Bes es/o m! B#n Bet/o aor/a toD/o/s
 un/o aBer
 ke me B/as a
 k&l
@@ -4897,7 +4897,7 @@ j/o me B/3 a kom/er el kes/o ke es est/o
 ke es est/o
 est/e es el kes/o # st/e
 est/e es
-pa/n m! B/#n
+pa/n m! B#n
 # st/a es lecuG/a
 de es/a n/o kom/es te
 # st/e es ke
@@ -4973,7 +4973,7 @@ te Gust/a
 - mir/a
 te
 es/o mir/a l/a Gajin/it/a
-- m! B/#n
+- m! B#n
 # st/e
 si
 te
@@ -5026,8 +5026,8 @@ mir/a mi toRe
 ke rik/o j/a n/o Ber/DaD
 d/a/l/e un Bes/it/o
 d/i/l/e n/o jor/es
-m! B/#n D/i/l/e te k#r/o
-m! B/#n komo se jam/a komo se jam/a est/e BeBe komo se jam/a
+m! B#n D/i/l/e te k#r/o
+m! B#n komo se jam/a komo se jam/a est/e BeBe komo se jam/a
 komo se jam/a
 k#r/o
 mas
@@ -5236,7 +5236,7 @@ b$n/o
 asi mir/a
 ke ten/emos ak#
 es un
-mir/a B/e B/#n
+mir/a B/e B#n
 n/o es un Gat/o
 un poj/o
 # st/e
@@ -5517,8 +5517,8 @@ list/o a
 a si j/a p$D/e
 l/o
 3G- si l/o
-si l/o ka/rGamos
-- per/o l/a man/o De aji si n/o se B/a a l/o ka/rGamos kon
+si l/o karG/amos
+- per/o l/a man/o De aji si n/o se B/a a l/o karG/amos kon
 a Don/de l/o B/a a jeB/ar
 run
 es/a es un/a
@@ -5527,7 +5527,7 @@ a es/a el
 l/o est/a aReGl/ando
 - el kam@n se B/a
 j/o s/3 un/a Bak/a ol/a komo est/as
-ker/emos t& mi/Go mir/a n/o as/emos naD/a
+ker/emos t& miG/o mir/a n/o as/emos naD/a
 b/#nes a xuG/ar kom/miGo
 si B#n/es a xuG/ar kom/miGo si
 ben si Ben
@@ -5656,7 +5656,7 @@ n/o n/o - uBas
 mir/a
 k&l l/a l/+ B/a
 j/a Bist/e ke - aki
-aBer B/amos a as/er un/a toRe B/#n
+aBer B/amos a as/er un/a toRe B#n
 i - n/o l/a B/ajas a mi toRe
 mir/a
 mir/a j/a Bist/e ke - aki
@@ -5739,7 +5739,7 @@ s/% si se D$rm/e
 per/o aki
 komo te
 si
-aor/a B/en/te par/a ak/a
+aor/a Bente par/a ak/a
 est/a
 se tom/a kon ke est/a tas/it/a
 n/o ak#  est/a tas/it/a
@@ -5900,7 +5900,7 @@ ke es es/o
 n/o aBer mas f$rte ke es ke Bonit/o/s DiBux/os
 j/a se akaB/o
 b/emos est/e
-k#r/es B/er est/e o k#r/es B#n/do el otr/o
+k#r/es B/er est/e o k#r/es B/#ndo el otr/o
 ke s/on
 mir/a
 - ke Bonit/o/s DiBux/os oJe per/o j/o k#r/o ke me l/o/s
@@ -5985,7 +5985,7 @@ l/o/s GloB/o/s mir/a
 # st/e
 es/e es un limon De Bes mir/a - uBas
 es/a es un/a aBer ense aBer
-es/a es un/a naranx/+ n/a mandarin/a B/#n
+es/a es un/a naranx/+ n/a mandarin/a B#n
 - se el kam@n ke as/emos
 est/a
 - ke G&p/a
@@ -6128,7 +6128,7 @@ az/l/e un $B/it/o a tu pap/a
 a est/as
 aBer
 aj# st/a
-ka/rne
+karne
 si
 aBer
 -
@@ -6212,7 +6212,7 @@ am
 ol/a komo est/as
 k#r/es xuG/ar kom/miGo
 amiG/o
-amiG/o si j/o tamb#n s/3 t& mi/Go
+amiG/o si j/o tamb#n s/3 t& miG/o
 ol/a amiG/o komo est/as
 amiG/o komo est/as
 komo te amiG/o
@@ -6516,12 +6516,12 @@ komo l/e as/e mir/a mir/a
 g&u
 otr/o aor/a te B/a a kom/er el G&u
  aji te B/a aji te B/a
-g&u B/en/te n/o te B/ajas mir/a
+g&u Bente n/o te B/ajas mir/a
 mir/a s/u Don/de est/a s/u
-g&u B/en/te B/en/te mir/a
+g&u Bente Bente mir/a
 g&u
 te B/a a kom/er n/o te
-mir/a par/a ke n/o te par/a ke n/o B/en/te aki
+mir/a par/a ke n/o te par/a ke n/o Bente aki
 mir/a pon l/o/s DeD/it/o/s mir/a
 pi/n pi/n pi/n pi/n pi/n pi/n pi/n pi/n
 aor/a t& m% mi
@@ -6586,8 +6586,8 @@ ten
 otr/a
 se akaB/o
 aji - mas
-mir/a est/a B/#n paDre
-j/a Bist/e B/en/te kom/miGo
+mir/a est/a B#n paDre
+j/a Bist/e Bente kom/miGo
 mir/a ke est/an as/#ndo
 est/an xuG/ando
 a ej/a
@@ -7029,7 +7029,7 @@ mir/a j/a Bist/e s/u
 aor/a aki mir/a aki
 ak% pr#t/a/l/e
 aor/a est/e mir/a falt/a est/e
-de aki mir/a fix/a/te B/#n
+de aki mir/a fix/a/te B#n
 -
 ke B/on/it/o est/a mir/a s/u
 aki
@@ -7669,7 +7669,7 @@ n/o n/o l/o/s
 orale pon/l/o
 aki - mas mir/a
 tom/a met/e/l/o/s toD/o/s
-pon/l/o B/#n mir/a
+pon/l/o B#n mir/a
 ak% RiB/a mir/a
 ak# st/e B/a aki
 aBer
@@ -7697,7 +7697,7 @@ komo se jam/a
 uBas aBer
 # st/e otr/o tamb#n
 est/e
-est/e est/a B/#n
+est/e est/a B#n
 k#r/es est/e
 mir/a ke s/on
 n/o fix/a/te l/o ke - aDentr/o fix/a/te l/o ke - aDentr/o
@@ -7792,9 +7792,9 @@ mir/a
 si l/a Bak/a
 s/#  Del koce mir/a
 el koce
-aBer ke mas ten/emos por aki D/an#/l/a
+aBer ke mas ten/emos por aki Dan#l/a
 mir/a
-mir/a D/an#/l/a
+mir/a Dan#l/a
 mir/a est/e es Bet/o # st/e es enRike
 ke as/en
 el
@@ -7829,7 +7829,7 @@ te mir/a
 te te
 ke
 ke
-ke D/an#/l/a
+ke Dan#l/a
 l/o k#r/es aBr/ir
 asi mir/a
 kon tu man/it/a
@@ -7903,15 +7903,15 @@ i k#n est/a aki
 mir/a
 si
 mir/a
-mir/a D/an#/l/a
+mir/a Dan#l/a
 - - l/o B/3 a
 ke pas/o
 un p*n/e
 n/o mir/a es par/a ak/a
 mir/a
 ke G&p/a
-j/a Bist/e l/o ke ten/emos aki D/an#/l/a
-mir/a D/an#/l/a
+j/a Bist/e l/o ke ten/emos aki Dan#l/a
+mir/a Dan#l/a
 k#n est/a aj#
 k#n est/a aji
 si
@@ -7930,13 +7930,13 @@ ke
 - j/o B/3 a D/ar De kom/er a l/o/s ni|/o/s porke j/a ambre
 aBer l/o/s ni|/o/s j/a ambre
 b/amos a
-me ajuD/as D/an#/l/a
+me ajuD/as Dan#l/a
 mir/a
 ke
 ke
 ke
 si
-oJe D/an#/l/a me ajuD/as a De kom/er a l/o/s ni|/o/s
+oJe Dan#l/a me ajuD/as a De kom/er a l/o/s ni|/o/s
 oJe B/amos a p*n/ar a l/o/s ni|/o/s est/an m!
 mir/a enRik* Bet/o
 b/amos aBer ke as/en

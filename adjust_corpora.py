@@ -31,21 +31,21 @@ print("COMBINED: ", combined_pos_list)
 
 modified_corpus = infinitive_break(modified_corpus, combined_pos_list, 1, all_invalid)
 
-modified_corpus = simple_add_slashes(modified_corpus, 'ititita', True, [], 'it/it/it/a')
+modified_corpus = simple_add_slashes(modified_corpus, 'ititita', True, all_invalid, 'it/it/it/a')
 
-modified_corpus = simple_add_slashes(modified_corpus, 'ita', True, ['bonita', 'tapititita', 'anita', 'Bonita'], 'it/a')
+modified_corpus = simple_add_slashes(modified_corpus, 'ita', True, all_invalid, 'it/a')
 
-modified_corpus = simple_add_slashes(modified_corpus, 'ito', True, ['Bonito', 'miGelito', 'kito', 'Pedrito'], 'it/o')
+modified_corpus = simple_add_slashes(modified_corpus, 'ito', True, all_invalid, 'it/o')
 
-modified_corpus = simple_add_slashes(modified_corpus, 'itas', True, [], 'it/a/s')
+modified_corpus = simple_add_slashes(modified_corpus, 'itas', True, all_invalid, 'it/a/s')
 
-modified_corpus = simple_add_slashes(modified_corpus, 'iDa', True, [], 'iD/a')
+modified_corpus = simple_add_slashes(modified_corpus, 'iDa', True, all_invalid, 'iD/a')
 
-modified_corpus = simple_add_slashes(modified_corpus, 'itos', True, ['karlitos', 'markitos', 'Bonitos'], 'it/o/s')
+modified_corpus = simple_add_slashes(modified_corpus, 'itos', True, all_invalid, 'it/o/s')
 
 # a_endings = find_endings(modified_corpus, 'a') # make sure this is good
 # modified_corpus = infinitive_break(modified_corpus, a_endings, 1, ['anit/a', 'lusi/a', 'mart/a', 'selin/a'])
-modified_corpus = simple_add_slashes(modified_corpus, 'a', True, ['anita', 'lusia', 'marta', 'selina'])
+modified_corpus = simple_add_slashes(modified_corpus, 'a', True, all_invalid)
 
 modified_corpus = simple_add_slashes(modified_corpus, 'isimo')
 
@@ -83,6 +83,15 @@ account for Bino which is venir in past third person? would it
 be Bin/o?
 Do we split up the indr and dir pronouns in verbs? pon/me/l/o? pon/se/l/a/s?
 di/l/e/s?
+
+If we slash n/o, do we slash n/o/s?
+
+Do we split up words with similar stems up?
+
+mama, mamassita, mamila? split from mam/?
+also grande and grandote
+
+Do we split up cuchara into cuch/ar/a because it ends in the infinitive?
 '''
 
 
