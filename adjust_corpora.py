@@ -27,25 +27,21 @@ modified_corpus = corpus
 modified_corpus = infinitive_break(modified_corpus, regular_verb_list, 2, all_invalid)
 
 combined_pos_list = other_pos_list + not_confident_pos
-print("COMBINED: ", combined_pos_list)
 
 modified_corpus = infinitive_break(modified_corpus, combined_pos_list, 1, all_invalid)
 
-modified_corpus = simple_add_slashes(modified_corpus, 'ititita', True, all_invalid, 'it/it/it/a')
+add_slash_array = [
+    ('ititita', 'it/it/it/a'), ('itito', 'it/it/o'), ('ita', 'it/a'), 
+    ('ito', 'it/o'), ('itas', 'it/a/s'), ('iDa', 'iD/a'), ('iD-', 'iD/-'), 
+    ('itos', 'it/o/s'), ('etes', 'ete/s')
+]
 
-modified_corpus = simple_add_slashes(modified_corpus, 'ita', True, all_invalid, 'it/a')
+for morpheme, output in add_slash_array:
+    modified_corpus = simple_add_slashes(modified_corpus, morpheme, True, all_invalid, output)
 
-modified_corpus = simple_add_slashes(modified_corpus, 'ito', True, all_invalid, 'it/o')
-
-modified_corpus = simple_add_slashes(modified_corpus, 'itas', True, all_invalid, 'it/a/s')
-
-modified_corpus = simple_add_slashes(modified_corpus, 'iDa', True, all_invalid, 'iD/a')
-
-modified_corpus = simple_add_slashes(modified_corpus, 'itos', True, all_invalid, 'it/o/s')
-
-# a_endings = find_endings(modified_corpus, 'a') # make sure this is good
-# modified_corpus = infinitive_break(modified_corpus, a_endings, 1, ['anit/a', 'lusi/a', 'mart/a', 'selin/a'])
-modified_corpus = simple_add_slashes(modified_corpus, 'a', True, all_invalid)
+a_endings = find_endings(modified_corpus, 'a') # make sure this is good
+modified_corpus = infinitive_break(modified_corpus, a_endings, 1, all_invalid)
+# modified_corpus = simple_add_slashes(modified_corpus, 'a', True, all_invalid)
 
 modified_corpus = simple_add_slashes(modified_corpus, 'isimo')
 
@@ -59,12 +55,14 @@ modified_corpus = simple_add_slashes(modified_corpus, 'DaD')
 # find_endings(modified_corpus, 'os')
 
 
-# show_slashed(modified_corpus, path)
+show_slashed(modified_corpus, path)
 
 '''
 Words with alternative meanings: 
 
 Bes, para, Bebe, seR/amos CHECK THIS
+
+Do we switch tap/aDer/a? because stem tapar?
 
 '''
 # contains_word(modified_corpus, 'Bes')

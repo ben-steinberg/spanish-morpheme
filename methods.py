@@ -230,7 +230,7 @@ def infinitive_break(corpus, pos_list, break_off_amount, exceptions = []):
                 if (token.startswith(stem) and len(token) > len(stem)
                     and '/' not in token):
 
-
+                    # slashed_base = slash_future(base_word, stem)
                     slashed_base = slash_pronouns(base_word, stem)
                     plural_tagged = check_plural(base_word)
 
@@ -288,7 +288,7 @@ def slash_pronouns(word, stem):
     # ablarl*
     for i in range(2):
         for pronoun in pronoun_list: 
-            if suffix.endswith(pronoun) and not suffix.endswith('aste'):
+            if suffix.endswith(pronoun) and not suffix.endswith('aste') and not suffix.endswith('iste'):
                 if pronoun.startswith('l'): 
                     if len(pronoun) == 2: # la lo le
                         pronoun_array.append(pronoun[0] + '/' + pronoun[1])
