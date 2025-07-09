@@ -111,8 +111,7 @@ def simple_add_slashes(corpus, morpheme, using_exceptions=True, choice_array=[],
 
             if using_exceptions: 
 
-                if (base_word.endswith(morpheme) and len(base_word) > len(morpheme)
-                    ): #  and '/' not in base_word
+                if (base_word.endswith(morpheme) and len(base_word) > len(morpheme)): #  and '/' not in base_word
                     root = base_word[:-len(morpheme)]
                     if root.endswith('/'):
                         new_word = f"{root}{replaced_morpheme}"
@@ -120,8 +119,8 @@ def simple_add_slashes(corpus, morpheme, using_exceptions=True, choice_array=[],
                         new_word = f"{root}/{replaced_morpheme}"
                 else:
                     new_word = base_word
-                    
-                if new_word in exceptions: 
+
+                if new_word in choice_array: 
                     new_word = base_word
 
             else: 

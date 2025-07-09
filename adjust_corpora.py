@@ -59,7 +59,7 @@ modified_corpus = simple_add_slashes(modified_corpus, 'DaD')
 # find_endings(modified_corpus, 'os')
 
 
-show_slashed(modified_corpus, path)
+# show_slashed(modified_corpus, path)
 
 '''
 Words with alternative meanings: 

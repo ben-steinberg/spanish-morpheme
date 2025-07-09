@@ -87,7 +87,7 @@ all_invalid = [
     "b/ente", "Ba/rko", "Ba/rku", "ro/ko", "s/*s", "s/#/te", "par/aD/it/o", 
     "met/elo", "b/raBo", "D/$rmelo", "D/entro", "mir/%m", "B/ente", "an/it/a",
     "B/arko", "B/arku", "tra/Gona", "B/iBeron", "par/aD/it/o", "mi/r%m",
-    "B/arku", "D/os", "tom/", "b/en", "ka/xa", "b/u", "Ba/kas", 
+    "B/arku", "D/os", "tom/", "b/en", "ka/xa", "b/u", "Ba/kas", "an/a", "an/it/a",
     "par/a", "ka/ju", "B/loke", "B/eBes", "mand/arina", "d/i/les", "d/i/le",
     "ka/cete", "met/", "B/or", "as/te", "D/an#la", "B/ino", "pi/pi",
     "ka/Rit3", "B/isto", "pas/tel", "s/i", "Ba/s", "peDr/o", "pedr/o",
