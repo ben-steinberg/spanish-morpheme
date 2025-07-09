@@ -33,7 +33,7 @@ modified_corpus = infinitive_break(modified_corpus, combined_pos_list, 1, all_in
 add_slash_array = [
     ('ititita', 'it/it/it/a'), ('itito', 'it/it/o'), ('ita', 'it/a'), 
     ('ito', 'it/o'), ('itas', 'it/a/s'), ('iDa', 'iD/a'), ('iD-', 'iD/-'), 
-    ('itos', 'it/o/s'), ('etes', 'ete/s')
+    ('itos', 'it/o/s'), ('etes', 'ete/s'), ('it-', 'it/-'), ('it3', 'it/3')
 ]
 
 for morpheme, output in add_slash_array:
@@ -52,7 +52,7 @@ modified_corpus = simple_add_slashes(modified_corpus, 'DaD')
 
 # print(count_words(modified_corpus, False))
 
-# find_endings(modified_corpus, 'os')
+find_endings(modified_corpus, 'it3')
 
 
 show_slashed(modified_corpus, path)

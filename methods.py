@@ -236,12 +236,19 @@ def infinitive_break(corpus, pos_list, break_off_amount, exceptions = []):
 
                     if break_off_amount == 2:
                         suffix = slashed_base[len(stem):]
+                        if base_word == 'kalaBasita':
+                            print("CALABASITA: ", suffix, len(suffix))
                         if len(suffix) > 4:
+                            if base_word == 'kalaBasita':
+                                print("HEREE", stem)
                             new_word = base_word
+                            
+                        if base_word == 'kalaBasita':
+                                print("new word: ", new_word)
 
                     else: 
                         suffix = base_word[len(stem):]
-                        
+
                         if len(suffix) > 2:
                             # print("PREFIX: ", stem, "SUFFIX: ", suffix)
                             new_word = base_word

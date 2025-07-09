@@ -75,7 +75,6 @@ bente
 bes
 bu
 bum
-caNgit3
 ci
 cil*
 cile
@@ -131,13 +130,9 @@ k$rnos
 k&k&k&
 kaBe
 kaReras
-kaRit3
 kaRitu
 kam@n
 kamara
-karen
-kari
-karne
 kati
 keline
 kl+D%
@@ -148,6 +143,7 @@ komo
 kosit-
 kuBos
 kucarit-
+l*n
 l+D%
 leNg&
 lec*
@@ -210,7 +206,6 @@ pepe
 pikale
 pipi
 platisamelos
-platit3
 platitu
 poBre
 porke
@@ -220,9 +215,17 @@ purum
 raton
 ruBen
 runrun
+s!
+s#
 s#ron
 s#te
+s$
 s$nan
+s%
+s%n
+s*s
+s@
+sal
 sand!c
 sapatos
 sari
@@ -232,10 +235,10 @@ selina
 semos
 se|or
 si
+sin
 sul*
 suli
 tRun
-tamar
 tamb#n
 tambor
 tasit-
