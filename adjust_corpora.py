@@ -40,7 +40,8 @@ for morpheme, output in add_slash_array:
     modified_corpus = simple_add_slashes(modified_corpus, morpheme, True, all_invalid, output)
 
 a_endings = find_endings(modified_corpus, 'a') # make sure this is good
-modified_corpus = infinitive_break(modified_corpus, a_endings, 1, all_invalid)
+a_endings_filtered = [word for word in a_endings if len(word) > 2 or word == 'la']
+modified_corpus = infinitive_break(modified_corpus, a_endings_filtered, 1, all_invalid)
 # modified_corpus = simple_add_slashes(modified_corpus, 'a', True, all_invalid)
 
 modified_corpus = simple_add_slashes(modified_corpus, 'isimo')
@@ -53,7 +54,6 @@ modified_corpus = simple_add_slashes(modified_corpus, 'DaD')
 # print(count_words(modified_corpus, False))
 
 find_endings(modified_corpus, 'it3')
-
 
 show_slashed(modified_corpus, path)
 
