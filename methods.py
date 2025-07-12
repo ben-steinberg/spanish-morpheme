@@ -28,6 +28,7 @@ def find_endings(corpus, morpheme):
         print(line)
 
     print(f'total instances of {morpheme}: {instance_number}')
+    print()
     return sorted_words
 
 def contains_word(corpus, word):
@@ -41,7 +42,11 @@ def contains_word(corpus, word):
 
 
     for i, line in enumerate(lines):
-        print(f"Instance {i}: {line}")
+        final_string = ''
+        for word in line:
+            final_string = final_string + ' ' + word
+        print(f"Instance {i}: {final_string}")
+    print()
 
 
 
@@ -106,7 +111,7 @@ def simple_add_slashes(corpus, morpheme, using_exceptions=True, choice_array=[],
 
         for token in tokens:
             
-            base_word = token.rstrip(string.punctuation)
+            base_word = token
             punctuation_suffix = token[len(base_word):]
 
             if using_exceptions: 
@@ -222,7 +227,6 @@ def infinitive_break(corpus, pos_list, break_off_amount, exceptions = []):
         for token in tokens:
             
 
-            base_word = token.rstrip(string.punctuation)
             base_word = token
             punctuation_suffix = token[len(base_word):]
 
@@ -334,7 +338,50 @@ def slash_future(word, stem):
         
     return word
     
-    
+def slash_in_context(corpus, word, morpheme, choice_array, is_following=False):
+
+    new_corpus = []
+    for line in corpus:
+        has_new_line = line.endswith("\n")
+        content = line.rstrip("\n")
+
+        tokens = content.split(' ')
+        new_tokens = []
+        
+        for i, token in enumerate(tokens):
+            modified_token = token
+            
+            if token == word:
+                apply_slash = False
+                
+                context_word_found = False
+                if is_following:
+                    if i + 1 < len(tokens):
+                        if tokens[i+1] in choice_array:
+                            context_word_found = True
+                else: 
+                    if i - 1 >= 0:
+                        if tokens[i-1] in choice_array:
+                            context_word_found = True
+                
+                if not context_word_found:
+                    apply_slash = True
+
+                if apply_slash:
+                    if token.endswith(morpheme) and len(token) > len(morpheme):
+                        stem = token[:-len(morpheme)]
+                        modified_token = f"{stem}/{morpheme}"
+            
+            new_tokens.append(modified_token)
+        
+        new_line = ' '.join(new_tokens)
+        
+        if has_new_line:
+            new_line += "\n"
+        new_corpus.append(new_line)
+
+    return new_corpus
+        
 
 def see_percentage_checked(corpus, will_print = False):
     # returns slashed words

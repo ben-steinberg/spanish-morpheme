@@ -1,7 +1,6 @@
 import os 
-from lists import direct_change_array, exceptions, cases
 from lists import regular_verb_list, all_invalid, other_pos_list, not_confident_pos
-from methods import find_endings, simple_add_slashes, count_words, infinitive_break, contains_word
+from methods import find_endings, simple_add_slashes, count_words, infinitive_break, contains_word, slash_in_context
 from methods import find_intersection, see_percentage_checked, write_new_corpus, show_slashed
 
 path = os.path.dirname(os.path.abspath(__file__)) 
@@ -11,18 +10,8 @@ with open(corpus_path, 'r') as file:
     corpus = file.readlines()
 
 modified_corpus = corpus
+# contains_word(modified_corpus, 'Bes')
 
-# for morpheme in direct_change_array: 
-#     find_endings(modified_corpus, morpheme)
-#     modified_corpus = simple_add_slashes(modified_corpus, morpheme)
-
-# for morpheme, choice_array in exceptions.items(): 
-#     find_endings(modified_corpus, morpheme)
-#     modified_corpus = simple_add_slashes(modified_corpus, morpheme, True, choice_array)
-
-# for morpheme, choice_array in cases.items():
-#     find_endings(modified_corpus, morpheme)
-#     modified_corpus = simple_add_slashes(modified_corpus, morpheme, False, choice_array)
 
 modified_corpus = infinitive_break(modified_corpus, regular_verb_list, 2, all_invalid)
 
@@ -53,19 +42,19 @@ modified_corpus = simple_add_slashes(modified_corpus, 'DaD')
 
 # print(count_words(modified_corpus, False))
 
-find_endings(modified_corpus, 'it3')
+# show_slashed(modified_corpus, path)
 
-show_slashed(modified_corpus, path)
+modified_corpus = slash_in_context(modified_corpus, 'Bes', 'es', ['otr/a', 'tr/a'])
+contains_word(modified_corpus, 'B/es')
 
 '''
 Words with alternative meanings: 
 
-Bes, para, Bebe, seR/amos CHECK THIS
+Bes, para, Bebe, 
 
 Do we switch tap/aDer/a? because stem tapar?
 
 '''
-# contains_word(modified_corpus, 'Bes')
 
 # from here, a way to make it so that you can divide the words based on the instance
 

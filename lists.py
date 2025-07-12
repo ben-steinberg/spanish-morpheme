@@ -1,12 +1,3 @@
-direct_change_array = [
-    'ando', 'amos', 'emos', 'ir', 'imos', 
-    '#ndo', 'ame', 'aste', 'arlo', 'erlo', 'irlo',
-    'erla', 'arla', 'asela', 'aselo',
-    'onselo', 'etela', 'atela', 'arle', 'erle', 
-    'irle', 'amela', '$rmela', 'arlos', 'erlos', '#ron',
-    'eron', 'aron', '$ron', 'iDo', 'itas', 'it+'
-    ]  # all tested so far and with easy change
-
 exceptions = { 
     'er': ['aBer', 'ker', 'per', 'ajer', 'fer'],
     'an': ['tan', 'pan', '|an'],
@@ -30,15 +21,6 @@ exceptions = {
              'tres', 'aD@s', 'Demas', 'jolis', 'k#nes', 'naris', 'marcos',
              'm#ntras', 'entonses', 'karlitos', 'markitos', 'pakatelas',
              'pokatelas', 'platisamelos']
-    }
-
-cases = {
-    'as' : ['Bas', 'Das', 'bas', 'stas', 'Bajas', 'estas', 
-            'komas', 'peGas', 'x$gas', 'ajuDas'], # 'Bonitas'
-    'a' : ['Ba', 'ba', 'da', 'sa', 'Dexa', 'dexa', 'Baja', 'mira', 'toma', 'peGa', 
-           'pika', 'keDa', 'aBla', 'Gusta', 'kamara', 'B-la'],
-    'en' : ['acen', 'k#ren', 'komen', 'ponen', 'traen', 'xuGen', 'rompen', 'asen'],
-    '%n' : ['as%n'],
     }
 
 regular_verb_list = [
@@ -107,7 +89,7 @@ all_invalid = [
     "kom/o", "d/os", "b/es", "B/ak-", "B/aka", "Ba/n", "Ba/mos", "Ba/k/it/a", "B/aj/a", "D/eD/it/o",
     "B/akas", "B/akit+", "p/onsela", "p/onselo", "kamar/a", "ka/Ros", "Ba/mo/nos", "B/e/a", "Dan#l/a",
     "an/ita", "Ba/k-", "Ba/ka", "Ba/kas", "j/anta/s", "j/eGe", "j/i", "j/iji", "Bl/aNk/a", "ka/m/it/a", 
-    "ka/mpan/it/a", "ka/mpanit-", "ka/ntas", 
+    "ka/mpan/it/a", "ka/mpanit-", "ka/ntas", "Grand/e"
 ]
 
 # grandote is this split up grand/ot/e?
