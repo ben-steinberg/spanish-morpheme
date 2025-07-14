@@ -24,7 +24,6 @@ B/iene
 B/ienes
 B/ienta/se/l/a
 B/iste
-B/oi
 B/olsita
 B/onitai
 B/onitau
@@ -408,7 +407,6 @@ ix/it/a
 ix/o
 j/a
 j/ie
-j/o
 j/oi
 jam/a
 jam/a/l/o
@@ -480,7 +478,6 @@ kes/u
 ki/a
 ki/e
 ki/e/s
-ki/en
 kier/a
 kier/e
 kier/e/s
@@ -786,10 +783,10 @@ rapiD/a
 re/Ga/l/o
 re/ia
 re/s
-re/zBalaDija
 reGres/a
 rekox/e/l/o/s
 rekox/emos
+rezBalaDij/a
 rik/a
 rik/o
 rik/u

@@ -6,6 +6,7 @@ Bern
 Bes
 Bisi
 Bloke
+Boi
 Bor
 Bu
 Bum
@@ -106,6 +107,7 @@ jantas
 jeGe
 ji
 jiji
+jo
 jolis
 ka
 kaBe
@@ -120,6 +122,7 @@ kei
 keline
 ker
 ki
+kien
 kienes
 kietos
 koce

@@ -2,7 +2,6 @@ import os
 from collections import Counter
 import re
 import string
-from lists import exceptions
 
 def change_diphthongs(corpus):
 
@@ -14,12 +13,10 @@ def change_diphthongs(corpus):
     modified_corpus = [] 
 
     for line in corpus:
-        adjusted_line = [] 
         split_line = line.split(' ')
         adjusted_words_in_line = []
 
         for word in split_line:
-            print("WORD: ", word)
             split_word = list(word)
             adjusted_split_word = [] 
 
@@ -30,17 +27,19 @@ def change_diphthongs(corpus):
                 else:
                     adjusted_split_word.append(char)
 
-            adjusted_word = "".join(adjusted_split_word) # Joins ['h', 'ia', 'l', 'a'] into "hiala"
+            adjusted_word = "".join(adjusted_split_word) 
             adjusted_words_in_line.append(adjusted_word)
 
-        # After processing all words in a line, join them back into a single string
-        joined_line_string = " ".join(adjusted_words_in_line) # Joins ['hiala', 'cielo'] into "hiala cielo"
-        modified_corpus.append(joined_line_string) # Adds "hiala cielo" to the list
-
-
+        joined_line_string = " ".join(adjusted_words_in_line) 
+        modified_corpus.append(joined_line_string)
 
     return modified_corpus 
 
+def move_dip_letters(modified_corpus):
+    # Possible way to do this is to look at words and see
+    # if there are alternatives which are the same word without the extra letter
+    # example: la and lau. might have to do this in the previous function 
+    pass
 
 def find_endings(corpus, morpheme):
     # just prints endings for observation
@@ -419,7 +418,8 @@ def slash_in_context(corpus, word, morpheme, choice_array, is_following=False):
         new_corpus.append(new_line)
 
     return new_corpus
-        
+
+
 
 def see_percentage_checked(corpus, will_print = False):
     # returns slashed words
@@ -431,12 +431,7 @@ def see_percentage_checked(corpus, will_print = False):
             if '/' in word: 
                 slashed_words.append(word)
 
-            in_exception = False
-            for key in exceptions.keys():
-                if word in key:
-                    in_exception = True
-
-            if len(word) > 1 and not in_exception:
+            if len(word) > 1:
                 total_words.append(word)
 
     unique_slashed_words = set(slashed_words)

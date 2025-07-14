@@ -1,27 +1,4 @@
-exceptions = { 
-    'er': ['aBer', 'ker', 'per', 'ajer', 'fer'],
-    'an': ['tan', 'pan', '|an'],
-    'ar' : ['eDGar', 'itamar', "tamar"],
-    'alos' : ['palos'],
-    'aBa' : ['baBa'],
-    'iste': ['triste'],
-    'me': ['dexeme', 'pomme', 'ame', 'tome', 'kome'],
-    'es': ['res', 'tres', 'Diles', 'diles', 'k#nes', 'koces', 
-           'nenes', 'toRes','xuGetes', 'entonses', 's#Rales'],
-    'ate': ['tomate', 'xitomate'],
-    'arte': ['arte'],
-    'ita': ['bonita', 'tapititita', 'anita', 'Bonita'],
-    'ale': ['sale', 'orale', 'pres#nale', 'apacuRale', 'epale'],
-    'ala': ['mala'], 
-    'ito' : ['Bonito', 'miGelito', ' kito'], 
-    'alo' : [], # s#Ralo
-    'iDa' : ['rapi/Da'],
-    'itos' : ['karlitos', 'markitos', 'Bonitos'], # ask about names
-    's:' :  ['es', 'D#s', 'Dos', 'dos', 'k#s', 'lis', 'mas', 'nos', 'p$s', 'res', 's*s',
-             'tres', 'aD@s', 'Demas', 'jolis', 'k#nes', 'naris', 'marcos',
-             'm#ntras', 'entonses', 'karlitos', 'markitos', 'pakatelas',
-             'pokatelas', 'platisamelos']
-    }
+from methods import change_diphthongs
 
 regular_verb_list = [
     'Dar', 'dar', 'ecar', 'B-lar', 'armar', 'jeBar', 'jenar', 'jorar', 'BiBer', 'Diser',
@@ -45,17 +22,18 @@ regular_verb_list = [
 ]
 
 other_pos_list = [ # others where you can remove the last leter used for adjectives
-    'GorD-', 'un-', 'ix-', 'otr-', 'tuj-', 'ej-', 'toD-', 'g&p-', 'es-', 'rik-', 
-    'otr-', 'ni|-', 'gorD-', 'rox-', 'Bonit-', 'sol-', 'Bax-', 'rapiD-', 'se|or-',
-    'spos-', 'BlaNk-', 'kas-', 'G&p-', 'kos-', 'seres-', 'amarij-', 'amiG-', 'ermos-',
-    'fe-', 'list-', 'mi-', 'pok-', 'primer-', 'B$n-', 'alG-', 'b$n-', 'kar-'
+    'GorDo', 'una', 'ixa', 'otra', 'tuja', 'eja', 'toDa', 'g&pa', 'esa', 'rika', 
+    'otra', 'ni|a', 'gorDa', 'roxa', 'Bonita', 'sola', 'Baxa', 'rapiDa', 'se|ora',
+    'sposa', 'BlaNka', 'kasa', 'G&pa', 'kosa', 'seresa', 'amarija', 'amiGa', 'ermosa',
+    'fea', 'lista', 'mia', 'poka', 'primera', 'B$na', 'alGa', 'b$na', 'kara'
 ]
 
+
 not_confident_pos = [ # words that im not sure if i should switch or not
-    'Bak-', 'Don-', 'Gat-', 'GloB-', 'bak-', 'don-', 'gat-', 'kamin-', 'j-', 'naranx-', 
-    'pal-', 'plat-', 'saBros-', 'sorpres-', 'tas-', 'Bark-', 'Bok-', 'DaD-', 'DeD-', 
-    'G!t-', 'G$r-', 'Gaj-', 'Grip-', 'caNg-', 'fiGura', 'frut-', 'kax-', 'kamar-', 
-    'sanahori-', 'k$nt-', 'mon-', 'grandot-', 'Grand-', 'Grandot-', 'saBros-', 'kampan-'
+    'Baka', 'Dona', 'Gata', 'GloBa', 'baka', 'dona', 'gata', 'kamina', 'naranxa', 
+    'pala', 'plata', 'saBrosa', 'sorpresa', 'tasa', 'Barka', 'Boka', 'DaDa', 'DeDa', 
+    'G!ta', 'G$ra', 'Gaja', 'Gripa', 'caNga', 'fiGura', 'fruta', 'kaxa', 'kamara', 
+    'sanahoria', 'k$nta', 'mona', 'grandota', 'Granda', 'Grandota', 'saBrosa', 'kampana'
 ]
 
 all_invalid = [ 
@@ -73,7 +51,7 @@ all_invalid = [
     "par/a", "ka/ju", "B/loke", "B/eBes", "mand/arina", "d/i/les", "d/i/le", "konex/it/o", "s/@",
     "ka/cete", "met/", "B/or", "as/te", "D/an#la", "B/ino", "pi/pi", "B/onito", "kom/miGo", "s/al",
     "ka/Rit3", "B/isto", "pas/tel", "s/i", "Ba/s", "peDr/o", "pedr/o", "t/en", "mar/i", "s/in",
-    "b/aler", "Ba/ka", "B/raBo", "B/es", "d/ona", "B/-la", "mi/Go", "peD/rito", "mar/ta",
+    "b/aler", "Ba/ka", "B/raBo", "B/es", "d/ona", "B/-la", "mi/Go", "peD/rito", "mar/ta", "j/o", "j/a"
     "B/ak-", "B/akit+", "f/er", "par/aDos", "st/orBa", "anit/a", "lusi/a", "par/aDito", 
     "b/eto", "B/arBariDaD", "ka/m@n", "D/", "D/iles", "B/onitos", "mart/a", "selin/a", "saB/rosa",
     "B/eB", "D/onde", "Ba/k", "ka/Reras", "artur/o", "teres/o", "alfons/o", "ernest/o",  "saB/roso",
@@ -89,8 +67,17 @@ all_invalid = [
     "kom/o", "d/os", "b/es", "B/ak-", "B/aka", "Ba/n", "Ba/mos", "Ba/k/it/a", "B/aj/a", "D/eD/it/o",
     "B/akas", "B/akit+", "p/onsela", "p/onselo", "kamar/a", "ka/Ros", "Ba/mo/nos", "B/e/a", "Dan#l/a",
     "an/ita", "Ba/k-", "Ba/ka", "Ba/kas", "j/anta/s", "j/eGe", "j/i", "j/iji", "Bl/aNk/a", "ka/m/it/a", 
-    "ka/mpan/it/a", "ka/mpanit-", "ka/ntas", "Grand/e"
+    "ka/mpan/it/a", "ka/mpanit-", "ka/ntas", "Grand/e", "re/zBalaDija", "ki/en", "B/oi",
 ]
+
+all_lists = [regular_verb_list, other_pos_list, all_invalid, not_confident_pos]
+adjusted_all_lists = [] # Create a new list to store the adjusted versions
+
+for original_list in all_lists:
+    adjusted_version = change_diphthongs(original_list)
+    adjusted_all_lists.append(adjusted_version)
+    print(adjusted_version)
+
 
 # grandote is this split up grand/ot/e?
 # watch for bonita and bolsita, Bes/it3, make sure it catches
