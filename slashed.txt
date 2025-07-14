@@ -405,7 +405,6 @@ ir/au
 ix/a
 ix/it/a
 ix/o
-j/a
 j/ie
 j/oi
 jam/a

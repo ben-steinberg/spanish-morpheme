@@ -51,7 +51,7 @@ all_invalid = [
     "par/a", "ka/ju", "B/loke", "B/eBes", "mand/arina", "d/i/les", "d/i/le", "konex/it/o", "s/@",
     "ka/cete", "met/", "B/or", "as/te", "D/an#la", "B/ino", "pi/pi", "B/onito", "kom/miGo", "s/al",
     "ka/Rit3", "B/isto", "pas/tel", "s/i", "Ba/s", "peDr/o", "pedr/o", "t/en", "mar/i", "s/in",
-    "b/aler", "Ba/ka", "B/raBo", "B/es", "d/ona", "B/-la", "mi/Go", "peD/rito", "mar/ta", "j/o", "j/a"
+    "b/aler", "Ba/ka", "B/raBo", "B/es", "d/ona", "B/-la", "mi/Go", "peD/rito", "mar/ta", "j/o", "j/a",
     "B/ak-", "B/akit+", "f/er", "par/aDos", "st/orBa", "anit/a", "lusi/a", "par/aDito", 
     "b/eto", "B/arBariDaD", "ka/m@n", "D/", "D/iles", "B/onitos", "mart/a", "selin/a", "saB/rosa",
     "B/eB", "D/onde", "Ba/k", "ka/Reras", "artur/o", "teres/o", "alfons/o", "ernest/o",  "saB/roso",
