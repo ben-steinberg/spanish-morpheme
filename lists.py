@@ -5,7 +5,7 @@ regular_verb_list = [
     'kitar', 'aBlar', 'Blar', 'peGar', 'kumplir', 'BeBer', 'empuxar', 'Boltear', 'saBer',
     'kojar', 'p*nar', 'parar', 'pasar', 'sakar', 'tamar', 'tokar', 'akomoDar', 'reir',
     'tomar', 'Bar', 'Dexar', 'romper', 'poNgar', 'star', 'Buskar', 'apr#tar', 'pr#tar', 'pomer', 
-    'xalar', 'xuGar', 'G&rDar', 'Gustar', 'sentar', 'aGaRar', 'GaRar', 'eskucar',
+    'xalar', 'xuGar', 'G&rDar', 'Gustar', 'sentar', 'aGaRar', 'GaRar', 'eskucar', 'mueBer'
     'ajuDar', 'b-lar', 'B#ner', 'D$rmir', 'subir', 'suBir', 'esperar', 'oxear', 'seRar',
     'pasear', 'prestar', 'Bisitar', 'Golpear', 'dexar', 'aG&rDar', 'apacuRar', 'dormir',
     'ense|ar', 'haber', 'mandar', 'pokater', 'enoxer', 'kansar', 'azer', 'Biner',
@@ -70,13 +70,11 @@ all_invalid = [
     "ka/mpan/it/a", "ka/mpanit-", "ka/ntas", "Grand/e", "re/zBalaDija", "ki/en", "B/oi",
 ]
 
-all_lists = [regular_verb_list, other_pos_list, all_invalid, not_confident_pos]
-adjusted_all_lists = [] # Create a new list to store the adjusted versions
+regular_verb_list = change_diphthongs(regular_verb_list)
+other_pos_list = change_diphthongs(other_pos_list)
+not_confident_pos = change_diphthongs(not_confident_pos)
+all_invalid = change_diphthongs(all_invalid)
 
-for original_list in all_lists:
-    adjusted_version = change_diphthongs(original_list)
-    adjusted_all_lists.append(adjusted_version)
-    print(adjusted_version)
 
 
 # grandote is this split up grand/ot/e?
