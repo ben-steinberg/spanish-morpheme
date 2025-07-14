@@ -4,6 +4,44 @@ import re
 import string
 from lists import exceptions
 
+def change_diphthongs(corpus):
+
+    diphthong_dict = {'%' : 'ia',  '#' : 'ie', '@' : 'io',
+                      '$' : 'ue', '&' : 'ua', '!' : 'ui',
+                      '*' : 'ei', '+' : 'au','-' : 'ai',
+                      '3' : 'oi'}
+
+    modified_corpus = [] 
+
+    for line in corpus:
+        adjusted_line = [] 
+        split_line = line.split(' ')
+        adjusted_words_in_line = []
+
+        for word in split_line:
+            print("WORD: ", word)
+            split_word = list(word)
+            adjusted_split_word = [] 
+
+            for char in split_word: 
+                if char in diphthong_dict:
+
+                    adjusted_split_word.append(diphthong_dict[char])
+                else:
+                    adjusted_split_word.append(char)
+
+            adjusted_word = "".join(adjusted_split_word) # Joins ['h', 'ia', 'l', 'a'] into "hiala"
+            adjusted_words_in_line.append(adjusted_word)
+
+        # After processing all words in a line, join them back into a single string
+        joined_line_string = " ".join(adjusted_words_in_line) # Joins ['hiala', 'cielo'] into "hiala cielo"
+        modified_corpus.append(joined_line_string) # Adds "hiala cielo" to the list
+
+
+
+    return modified_corpus 
+
+
 def find_endings(corpus, morpheme):
     # just prints endings for observation
 

@@ -1,6 +1,7 @@
 import os 
 from lists import regular_verb_list, all_invalid, other_pos_list, not_confident_pos
-from methods import find_endings, simple_add_slashes, count_words, infinitive_break, contains_word, slash_in_context
+from methods import find_endings, simple_add_slashes, count_words, infinitive_break
+from methods import contains_word, slash_in_context, change_diphthongs
 from methods import find_intersection, see_percentage_checked, write_new_corpus, show_slashed
 
 path = os.path.dirname(os.path.abspath(__file__)) 
@@ -10,8 +11,8 @@ with open(corpus_path, 'r') as file:
     corpus = file.readlines()
 
 modified_corpus = corpus
-# contains_word(modified_corpus, 'Bes')
 
+modified_corpus = change_diphthongs(modified_corpus)
 
 modified_corpus = infinitive_break(modified_corpus, regular_verb_list, 2, all_invalid)
 
@@ -42,10 +43,10 @@ modified_corpus = simple_add_slashes(modified_corpus, 'DaD')
 
 # print(count_words(modified_corpus, False))
 
-# show_slashed(modified_corpus, path)
+show_slashed(modified_corpus, path)
 
 modified_corpus = slash_in_context(modified_corpus, 'Bes', 'es', ['otr/a', 'tr/a'])
-contains_word(modified_corpus, 'B/es')
+# contains_word(modified_corpus, 'B/es')
 
 '''
 Words with alternative meanings: 
