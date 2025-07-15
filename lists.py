@@ -73,10 +73,10 @@ all_invalid = [
 special_dip_cases = ['estoi', 'mui', 'pio', 'pie', 'miau', 'aGua', 'mio', 'oJei', 'soi', 
                      'nio', 'katia', 'maria', 'Dio', 'Guau']
 
-regular_verb_list = change_diphthongs(regular_verb_list)
-other_pos_list = change_diphthongs(other_pos_list)
-not_confident_pos = change_diphthongs(not_confident_pos)
-all_invalid = change_diphthongs(all_invalid)
+# regular_verb_list = change_diphthongs(regular_verb_list)
+# other_pos_list = change_diphthongs(other_pos_list)
+# not_confident_pos = change_diphthongs(not_confident_pos)
+# all_invalid = change_diphthongs(all_invalid)
 
 
 

@@ -12,9 +12,9 @@ with open(corpus_path, 'r') as file:
 
 modified_corpus = corpus
 
-modified_corpus = change_diphthongs(modified_corpus)
+# modified_corpus = change_diphthongs(modified_corpus)
 
-modified_corpus = move_dip_letters(modified_corpus, special_dip_cases)
+# modified_corpus = move_dip_letters(modified_corpus, special_dip_cases)
 # watch out for i (y)
 # mir/a i/un what to do with this? 238
 # mir/a iak/i
@@ -72,7 +72,7 @@ Do we switch tap/aDer/a? because stem tapar?
 
 see_percentage_checked(modified_corpus, True)
 
-write_new_corpus(modified_corpus, path, 'modified_corpus_with_dip.txt')
+write_new_corpus(modified_corpus, path, 'old_modified_corpus.txt')
 
 
 '''
