@@ -1,7 +1,7 @@
 import os 
-from lists import regular_verb_list, all_invalid, other_pos_list, not_confident_pos
+from lists import regular_verb_list, all_invalid, other_pos_list, not_confident_pos, special_dip_cases
 from methods import find_endings, simple_add_slashes, count_words, infinitive_break
-from methods import contains_word, slash_in_context, change_diphthongs
+from methods import contains_word, slash_in_context, change_diphthongs, move_dip_letters
 from methods import find_intersection, see_percentage_checked, write_new_corpus, show_slashed
 
 path = os.path.dirname(os.path.abspath(__file__)) 
@@ -13,6 +13,17 @@ with open(corpus_path, 'r') as file:
 modified_corpus = corpus
 
 modified_corpus = change_diphthongs(modified_corpus)
+
+modified_corpus = move_dip_letters(modified_corpus, special_dip_cases)
+# watch out for i (y)
+# mir/a i/un what to do with this? 238
+# mir/a iak/i
+# maybe make it so that if the next word doesn't exist and just had a dipthong added
+# then keep it to the end? especially if ends with i 
+# watch for i sieron
+# ie st/e
+# a Buelita watch for that
+# e te i s/o tei s/o tu a Buel/it/a tu/a Buel/it/a 1796
 
 modified_corpus = infinitive_break(modified_corpus, regular_verb_list, 2, all_invalid)
 
@@ -43,9 +54,9 @@ modified_corpus = simple_add_slashes(modified_corpus, 'DaD')
 
 # print(count_words(modified_corpus, False))
 
-show_slashed(modified_corpus, path)
+# show_slashed(modified_corpus, path)
 
-modified_corpus = slash_in_context(modified_corpus, 'Bes', 'es', ['otr/a', 'tr/a'])
+modified_corpus = slash_in_context(modified_corpus, 'Bes', 'es', ['otr/a', 'tr/a', 'un/a'])
 # contains_word(modified_corpus, 'B/es')
 
 '''
@@ -61,7 +72,7 @@ Do we switch tap/aDer/a? because stem tapar?
 
 see_percentage_checked(modified_corpus, True)
 
-write_new_corpus(modified_corpus, path)
+write_new_corpus(modified_corpus, path, 'modified_corpus_with_dip.txt')
 
 
 '''

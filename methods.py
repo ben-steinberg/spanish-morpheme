@@ -35,11 +35,118 @@ def change_diphthongs(corpus):
 
     return modified_corpus 
 
-def move_dip_letters(modified_corpus):
-    # Possible way to do this is to look at words and see
-    # if there are alternatives which are the same word without the extra letter
-    # example: la and lau. might have to do this in the previous function 
-    pass
+def move_dip_letters(corpus, cases):
+    diphthong_endings = ['ia', 'ie', 'io', 'ue', 'ua',
+                         'ui', 'ei', 'au', 'ai', 'oi']
+
+    all_words_set = set()
+    for line in corpus:
+        words_in_line = line.split(' ')
+        for word in words_in_line:
+            cleaned_word_for_lookup = word.strip(string.punctuation + '\n')
+            if cleaned_word_for_lookup:
+                all_words_set.add(cleaned_word_for_lookup)
+    
+    not_valid = ['ie', 'sto', 'io', 'marianai', 'otrai', 
+                 'pau', 'ste', 'pojoi', 'ajai']
+    for word in not_valid: 
+        all_words_set.remove(word)
+    print(all_words_set)
+
+
+    modified_corpus = []
+
+    for i, line in enumerate(corpus):
+        split_line = line.split(' ')
+        new_split_line = []
+        j = 0
+
+        while j < len(split_line):
+            current_word_original = split_line[j]
+
+            ends_with_newline = current_word_original.endswith('\n')
+
+            word_base = current_word_original.rstrip('\n')
+
+            found_diphthong_split = False
+            if word_base:
+
+                if word_base in cases:
+                    new_split_line.append(current_word_original)
+                    found_diphthong_split = True
+                else:
+                    for dip in diphthong_endings:
+                        
+
+                        if word_base.endswith(dip) and len(word_base) > len(dip):
+
+                            shorter_word_base = word_base[:-1]
+                            char_to_move = word_base[-1]
+
+                            if j + 1 < len(split_line):
+                                next_word_original = split_line[j+1]
+                                next_word_ends_with_newline = next_word_original.endswith('\n')
+                                next_word_for_mod = next_word_original.rstrip('\n')
+                                modified_next_word = char_to_move + next_word_for_mod
+
+                            # checks if both current and next word valid 
+                            
+                            
+                            if shorter_word_base in all_words_set and modified_next_word and modified_next_word in all_words_set:
+                                new_word_part1 = shorter_word_base
+                                if ends_with_newline:
+                                    new_word_part1 += '\n'
+                                new_split_line.append(new_word_part1)
+
+
+                                if j + 1 < len(split_line):
+
+                                    if next_word_ends_with_newline:
+                                        modified_next_word += '\n'
+
+                                    split_line[j+1] = modified_next_word
+                                else:
+                                    new_split_line.append(char_to_move)
+
+                                found_diphthong_split = True
+                                break
+                            elif (shorter_word_base in all_words_set and modified_next_word 
+                                  and modified_next_word not in all_words_set 
+                                  and char_to_move in all_words_set):
+                                
+                                print("here in elif at line", i)
+                                print('new word p1 ', new_word_part1)
+                                print('char ', char_to_move)
+                                print('next word ', next_word_for_mod)
+                                new_word_part1 = shorter_word_base
+                                if ends_with_newline: 
+                                    new_word_part1 != '\n'
+                                new_split_line.append(new_word_part1)
+                                new_split_line.append(char_to_move)
+                                new_split_line.append(next_word_for_mod)
+
+                                                
+
+                        elif (len(word_base) == len(dip) and word_base.startswith(dip) and shorter_word_base in all_words_set 
+                              and modified_next_word in all_words_set and next_word_for_mod not in all_words_set):
+                            print("shorter word Base: ", shorter_word_base)
+                            print('modified next word', modified_next_word)
+                            new_split_line.append(shorter_word_base)
+                            new_split_line.append(modified_next_word)
+
+
+                           
+                                
+            if not found_diphthong_split:
+                new_split_line.append(current_word_original)
+
+            j += 1
+
+        modified_corpus.append(" ".join(new_split_line))
+
+    return modified_corpus
+ 
+
 
 def find_endings(corpus, morpheme):
     # just prints endings for observation
@@ -84,8 +191,6 @@ def contains_word(corpus, word):
             final_string = final_string + ' ' + word
         print(f"Instance {i}: {final_string}")
     print()
-
-
 
 def count_words(corpus, show_slashes = True):
     words = []
@@ -419,8 +524,6 @@ def slash_in_context(corpus, word, morpheme, choice_array, is_following=False):
 
     return new_corpus
 
-
-
 def see_percentage_checked(corpus, will_print = False):
     # returns slashed words
     total_words = []
@@ -443,8 +546,8 @@ def see_percentage_checked(corpus, will_print = False):
     
     return slashed_words
 
-def write_new_corpus(modified_corpus, path):
-    new_path = os.path.join(path, 'modified_corpus.txt')
+def write_new_corpus(modified_corpus, path, file_name):
+    new_path = os.path.join(path, file_name)
     with open(new_path, 'w') as file:
         for line in modified_corpus:
             file.write(line)
