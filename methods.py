@@ -48,9 +48,10 @@ def move_dip_letters(corpus, cases):
                 all_words_set.add(cleaned_word_for_lookup)
     
     not_valid = ['ie', 'sto', 'io', 'marianai', 'otrai', 
-                 'pau', 'ste', 'pojoi', 'ajai']
-    for word in not_valid: 
-        all_words_set.remove(word)
+                 'pau', 'ste', 'pojoi', 'ajai', 'Gustoi', 'stos']
+    for word in not_valid:
+        if word in all_words_set: 
+            all_words_set.remove(word)
     print(all_words_set)
 
 
@@ -114,10 +115,10 @@ def move_dip_letters(corpus, cases):
                                   and modified_next_word not in all_words_set 
                                   and char_to_move in all_words_set):
                                 
-                                print("here in elif at line", i)
-                                print('new word p1 ', new_word_part1)
-                                print('char ', char_to_move)
-                                print('next word ', next_word_for_mod)
+                                # print("here in elif at line", i)
+                                # print('new word p1 ', new_word_part1)
+                                # print('char ', char_to_move)
+                                # print('next word ', next_word_for_mod)
                                 new_word_part1 = shorter_word_base
                                 if ends_with_newline: 
                                     new_word_part1 != '\n'
@@ -129,8 +130,14 @@ def move_dip_letters(corpus, cases):
 
                         elif (len(word_base) == len(dip) and word_base.startswith(dip) and shorter_word_base in all_words_set 
                               and modified_next_word in all_words_set and next_word_for_mod not in all_words_set):
-                            print("shorter word Base: ", shorter_word_base)
-                            print('modified next word', modified_next_word)
+                            # print("shorter word Base: ", shorter_word_base)
+                            # print('modified next word', modified_next_word)
+                            if word_base == 'ie':
+                                print("HERE")
+                                print('modified next', modified_next_word)
+                                print("char to move :", char_to_move)
+                                print("next word for mod: ", next_word_for_mod)
+                                print("line adjusted: ", i + 1)
                             new_split_line.append(shorter_word_base)
                             new_split_line.append(modified_next_word)
 

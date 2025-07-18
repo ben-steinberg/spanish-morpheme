@@ -11,7 +11,7 @@ regular_verb_list = [
     'ense|ar', 'haber', 'mandar', 'pokater', 'enoxer', 'kansar', 'azer', 'Biner', 'suenar',
     'aReGlar', 'estar', 'faltar', 's#Rar', 'aB#ntar', 'xirar', 'tr-er', 'Baxar',
     'poDer', 'tapar', 'laBar', 'atoraste', 'tirar', 'pres#nar', 'atorar', # got rid of 'seR'
-    'saluDar', 'enkontrar', 'Ber', 'ber', 'Baer', 'aser', 'keDar', 'aserkar', 'pa/ra',
+    'saluDar', 'enkontrar', 'Ber', 'ber', 'Baer', 'aser', 'keDar', 'aserkar', 
     'kaer', 'rekoxer', 'g&rDar', 'terminar', 'pakater', 'aBer', 'kajar', 'iser',
     'meter', 'moBer', 'poner', 'Desaser', 'komponer', 'Desir', '$Gar', 'duermer',
     'aBrir', 'peDir', 'salir', 'x$Gar', 'BriNkar', 'p$Der', 'sirBer', 'Bestir',
@@ -61,11 +61,11 @@ all_invalid = [
     "ka/rit", "B/oka", "B/um", "B/", "D/eDos", "Bl/oke", "D/ar@", "mari/a", "B/$l/it/a", "miGelit/o",
     "b/erDaD", "D/eDitos", "B/en", "ka/Bajo", "b/eBe", "tom/ate", "B#n/do", "D/an#/l/a", "ka/rlitos",
     "b/eso", "D/el", "ka/mara", "met/a", "tap/itit/it/a", "B/in#ron", "B/#n", "B/en/te", "l/*n", "ka/mpanita",
-    "ka/Ritu", "ka/jo", "B/#ne", "ka/e", "ka/Ru", "Ba/monos", "as/i", "B/ols/it/a", "Ba/k/it/a", "e/s",
+    "ka/Ritu", "ka/jo", "B/#ne", "ka/e", "ka/Ru", "Ba/monos", "as/i", "B/ols/it/a", "Ba/k/it/a", "e/s", "Don/de",
     "B/#n", "D/exo", "Ba/kit+", "d/anae", "aB/er", "B/onit-", "B/onit+", "B/on/it/a", "ramons/it/o", "ale/iD/a", "aleiD/a",
-    "B/olsa", "ka/sa", "B/$no", "as/ta", "b/eBa", "D/ea", "B/eBe", "B/on/it/o", "B/on/it/a/s", "e/l", "Bist/e",
+    "B/olsa", "ka/sa", "B/$no", "as/ta", "b/eBa", "D/ea", "B/eBe", "B/on/it/o", "B/on/it/a/s", "e/l", "Bist/e", "don/de",
     "kom/o", "d/os", "b/es", "B/ak-", "B/aka", "Ba/n", "Ba/mos", "Ba/k/it/a", "B/aj/a", "D/eD/it/o", "son", "B/olsita",
-    "B/akas", "B/akit+", "p/onsela", "p/onselo", "kamar/a", "ka/Ros", "Ba/mo/nos", "B/e/a", "Dan#l/a", "marian/a",
+    "B/akas", "B/akit+", "p/onsela", "p/onselo", "kamar/a", "ka/Ros", "Ba/mo/nos", "B/e/a", "Dan#l/a", "marian/a", "pa/ra",
     "an/ita", "Ba/k-", "Ba/ka", "Ba/kas", "j/anta/s", "j/eGe", "j/i", "j/iji", "Bl/aNk/a", "ka/m/it/a", "B/iste", "kati/a",
     "ka/mpan/it/a", "ka/mpanit-", "ka/ntas", "Grand/e", "re/zBalaDija", "ki/en", "B/oi", "i/e", "no", "pa/n", "ka/ti", "ka/tia"
 ]

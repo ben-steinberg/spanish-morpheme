@@ -13,16 +13,18 @@ with open(corpus_path, 'r') as file:
 modified_corpus = corpus
 
 modified_corpus = change_diphthongs(modified_corpus)
-
 modified_corpus = move_dip_letters(modified_corpus, special_dip_cases)
+
 # watch out for i (y)
-# mir/a i/un what to do with this? 238
+# mir/a i un mir/ai un 238 it breaks too fast so after there is one break it'll skip over
 # mir/a iak/i
 # maybe make it so that if the next word doesn't exist and just had a dipthong added
 # then keep it to the end? especially if ends with i 
 # watch for i sieron
 # ie st/e
 # a Buelita watch for that
+# se kae i lueG/o ka/ei lueG/o te peG/as Ber/DaD 1301
+
 # e te i s/o tei s/o tu a Buel/it/a tu/a Buel/it/a 1796
 
 modified_corpus = infinitive_break(modified_corpus, regular_verb_list, 2, all_invalid)
