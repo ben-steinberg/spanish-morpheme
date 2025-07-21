@@ -5,7 +5,7 @@ from methods import contains_word, slash_in_context, change_diphthongs, move_dip
 from methods import find_intersection, see_percentage_checked, write_new_corpus, show_slashed
 
 path = os.path.dirname(os.path.abspath(__file__)) 
-corpus_path = os.path.join(path, 'dipthonged_corpus.txt')
+corpus_path = os.path.join(path, 'hand_adjusted.txt')
 
 with open(corpus_path, 'r') as file:
     corpus = file.readlines()
