@@ -52,7 +52,7 @@ def move_dip_letters(corpus, cases):
     for word in not_valid:
         if word in all_words_set: 
             all_words_set.remove(word)
-    print(all_words_set)
+    # print(all_words_set)
 
 
     modified_corpus = []
@@ -78,6 +78,21 @@ def move_dip_letters(corpus, cases):
                 else:
                     for dip in diphthong_endings:
                         
+                        if j + 1 < len(split_line):
+                            next_word_original = split_line[j+1]
+                            shorter_word_base = word_base[:-1]
+                            next_word_ends_with_newline = next_word_original.endswith('\n')
+                            next_word_for_mod = next_word_original.rstrip('\n')
+                            char_to_move = word_base[-1]
+                            modified_next_word = char_to_move + next_word_for_mod
+                        
+                        else: 
+                            next_word_original = None
+                            shorter_word_base = None
+                            next_word_ends_with_newline = None
+                            next_word_for_mod = None
+                            char_to_move = None
+                            modified_next_word = None
 
                         if word_base.endswith(dip) and len(word_base) > len(dip):
 
@@ -135,9 +150,7 @@ def move_dip_letters(corpus, cases):
                             if word_base == 'ie':
                                 print("HERE")
                                 print('modified next', modified_next_word)
-                                print("char to move :", char_to_move)
-                                print("next word for mod: ", next_word_for_mod)
-                                print("line adjusted: ", i + 1)
+                                
                             new_split_line.append(shorter_word_base)
                             new_split_line.append(modified_next_word)
 
@@ -153,6 +166,7 @@ def move_dip_letters(corpus, cases):
 
     return modified_corpus
  
+
 
 
 def find_endings(corpus, morpheme):

@@ -5,16 +5,12 @@ from methods import contains_word, slash_in_context, change_diphthongs, move_dip
 from methods import find_intersection, see_percentage_checked, write_new_corpus, show_slashed
 
 path = os.path.dirname(os.path.abspath(__file__)) 
-corpus_path = os.path.join(path, 'corpus.txt')
+corpus_path = os.path.join(path, 'dipthonged_corpus.txt')
 
 with open(corpus_path, 'r') as file:
     corpus = file.readlines()
 
 modified_corpus = corpus
-
-modified_corpus = change_diphthongs(modified_corpus)
-modified_corpus = move_dip_letters(modified_corpus, special_dip_cases)
-
 # watch out for i (y)
 # mir/a i un mir/ai un 238 it breaks too fast so after there is one break it'll skip over
 # mir/a iak/i
@@ -24,7 +20,7 @@ modified_corpus = move_dip_letters(modified_corpus, special_dip_cases)
 # ie st/e
 # a Buelita watch for that
 # se kae i lueG/o ka/ei lueG/o te peG/as Ber/DaD 1301
-
+# ai ke paDre liBr/o teN/go ak/i teN/gu n/a Bak/a What about this 4970
 # e te i s/o tei s/o tu a Buel/it/a tu/a Buel/it/a 1796
 
 modified_corpus = infinitive_break(modified_corpus, regular_verb_list, 2, all_invalid)
@@ -60,7 +56,6 @@ modified_corpus = simple_add_slashes(modified_corpus, 'DaD')
 
 modified_corpus = slash_in_context(modified_corpus, 'Bes', 'es', ['otr/a', 'tr/a', 'un/a'])
 # contains_word(modified_corpus, 'B/es')
-
 '''
 Words with alternative meanings: 
 
