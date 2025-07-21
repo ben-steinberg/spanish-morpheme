@@ -52,7 +52,7 @@ modified_corpus = simple_add_slashes(modified_corpus, 'DaD')
 
 # print(count_words(modified_corpus, False))
 
-# show_slashed(modified_corpus, path)
+show_slashed(modified_corpus, path)
 
 modified_corpus = slash_in_context(modified_corpus, 'Bes', 'es', ['otr/a', 'tr/a', 'un/a'])
 # contains_word(modified_corpus, 'B/es')

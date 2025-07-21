@@ -14,7 +14,7 @@ mira mira lo ke estoi asiendu na toRe
 aora te itamar
 dile Damelo mama
 grasias Dame el koce el koce
-ke kieres el koce el koce i la kocei la nena
+ke kieres el koce el koce i la koce i la nena
 ke Bas a aser
 grasias
 pum ai en la naris
@@ -315,7 +315,7 @@ toma
 ten
 mira mira
 ai pio pio pio
-oJei aki ke ai
+oJe i aki ke ai
 ja
 kon el pie
 ai miua miau miau
@@ -369,7 +369,7 @@ no lo kieres aGaRar
 no
 no no este lo mandamos para aja entonses
 aja se keDa
-oJei esto
+oJe i esto
 te Gusto esto
 mira ke Bonito ke Bonito toDas kosas
 bamos aBer ke ai aki
@@ -734,7 +734,7 @@ uno
 dos
 tres
 son tres mira ponlos aki los tres
-este este i este estei este
+este este i este este i este
 kual kieres este o este
 nu no De los Dos
 este o este
@@ -1267,7 +1267,7 @@ run run
 no te Gusto i tus Gustoi tus uBas
 ke se komen
 no fuci no se komen
-oJei esto para ke es peDrito
+oJe i esto para ke es peDrito
 para ke es
 para la nena
 si
@@ -1612,7 +1612,7 @@ aji no Ba aki mira
 kieres lecita
 no kieres
 dame el platito ponselo
-asi komo este mira el platito i la platitoi la tasita
+asi komo este mira el platito i la platito i la tasita
 ai Dos ira otro platitu no i Dos noi Dos
 aka mira i tres mira i tres aka ja Biste tres platitos
 mira las tasitas
@@ -1679,7 +1679,7 @@ ola
 el oso
 oJe fani ke poDemos aser kon estos
 kien es la mu|eka
-ai ke poDemos aser kon este kaRito i si kaRitoi si lo karGamos
+ai ke poDemos aser kon este kaRito i si kaRito i si lo karGamos
 si i ke paso
 si nos traemos al osito
 ola fani komo estas
@@ -1793,7 +1793,7 @@ ke no
 damelos no
 mira kome
 am ke riko
-ke te i so tei so tu a Buelita tua Buelita
+ke te iso te iso tu aBuelita tu aBuelita
 mira el nene
 lo Dormimos Dormimos al nene
 aBer jo lo Duermo
@@ -1847,7 +1847,7 @@ ese
 ke es eso
 ke ai aji
 mira ke Bonita una karita i otra karitai otra karita ja Biste
-bueno poDemos aser una toRe i le toRei le ponemos esto aki i ponemos
+bueno poDemos aser una toRe i le toRe i le ponemos esto aki i ponemos
 fuerte fuerte
 lo kieres aBrir
 lo estas Buskando
@@ -1899,13 +1899,13 @@ i pojo ja Biste el pio pio
 aBer aora te aBer pero sientate ixita Bamos a xuGar aki aBer
 aBer Donde esta el peRo
 donde esta el konexo
-el konexo este De la sanahoria Donde esta oJei el pojo Donde
+el konexo este De la sanahoria Donde esta oJe i el pojo Donde
 pero asi kon tu manita aki
 ai ja Biste
 ke esta aji
 no este es peRo o ke es
 aBer i ke es este
-pepe i este pepei este
+pepe i este pepe i este
 konexo
 i este ke es
 no este es el miau
@@ -2027,7 +2027,7 @@ eso kieres el otro xueGo
 este este kon este Bamos a xuGar aora
 si ke estara aji ola kien BiBe aji
 aBranos kien BiBe aki
-no se pueDe oJei aki aki ei aBranos la puerta
+no se pueDe oJe i aki aki ei aBranos la puerta
 i
 kien es
 este
@@ -2380,7 +2380,7 @@ te no kieres
 no te Gusta
 um saBroso
 aora te aGaRala
-aGaRa la kucarita i kome kucaritai kome
+aGaRa la kucarita i kome kucarita i kome
 kon la otra
 ai esa mano no
 otra
@@ -2951,7 +2951,7 @@ run
 ten toma Bente
 tiene un a|o BerDaD
 si los kumplio ajer
-te i sieron tei sieron tu pastel si
+te isieron te isieron tu pastel si
 mira la pelota aji te Ba
 aji te Ba
 aji te Ba
@@ -4095,7 +4095,7 @@ te komo ecamos si i le Damos
 si ia ora mama se toma el  tu kieres
 kiere
 aBer le Bamos a ecar lece esperate mas lece
-le lece i le lecei le ecamos
+le lece i le lece i le ecamos
 ia ora Dale toma tu
 mui Bien aora
 ai si Donde esta el plato
@@ -4104,7 +4104,7 @@ ai ke Bonito BeBe Dale lece
 beBe kiere tomar Dale lece al BeBe
 komo le Das lece al BeBe
 no kieres al BeBe Bueno
-ai le Bas a ecar mas lece i ke lecei ke es esto
+ai le Bas a ecar mas lece i ke lece i ke es esto
 ke es
 ke es
 keso te De tu keso
@@ -4117,7 +4117,7 @@ le ponemos
 o
 kual
 tomando
-oJei el xitomate
+oJe i el xitomate
 keDo el xitomate para el sanduic
 aki esta De ti mira
 aki esta el el xitomate
@@ -4272,7 +4272,7 @@ dormimos al BeBe aorita le Bamos a aGua primero ai ke
 por ke no al BeBe
 en su mira ke
 el BeBe
-aGua a la mamila aBer Bamos a aGua en esta xaRita i le xaRitai le
+aGua a la mamila aBer Bamos a aGua en esta xaRita i le xaRita i le
 aBer
 ke Ba a aser kon el aGua
 a su BeBe
@@ -4303,7 +4303,7 @@ es ke son para xuGar
 de xueGo asi
 aora tu
 kieres tu
-oJei los kaRos te ja saBes xuGar kon los kaRos BerDaD
+oJe i los kaRos te ja saBes xuGar kon los kaRos BerDaD
 komo Ban
 aora mama
 se Ba a el BeBe
@@ -4317,7 +4317,7 @@ me Das
 pues
 komo estan
 si
-aora ja Bamos a tu aGaRa tu tasita i tu tasitai tu plato
+aora ja Bamos a tu aGaRa tu tasita i tu tasita i tu plato
 ke estas tomando
 toma
 la Bolsita
@@ -4358,7 +4358,7 @@ porke me tiraste mi toRe
 ja me tiraste mi toRe mira naDa mas
 ke paso
 ke aGo
-se kajo la toRe i Bamos toRei Bamos a aser otra BerDaD
+se kajo la toRe i Bamos toRe i Bamos a aser otra BerDaD
 si Bamos a aser una mui Grande
 aora ke Bas a aser
 ja
@@ -4455,7 +4455,7 @@ a esta jorando el BeBe no jores BeBe tomate tu lece
 ja le a la lece
 bueno
 aora ja al BeBe para ke se
-beBe oJei esto ke es es un peRito
+beBe oJe i esto ke es es un peRito
 es komo ase
 no la pueDes aBrir
 aBer ja
@@ -4475,7 +4475,7 @@ saBes ke estan aDentro Del en un plato
 esto es para me
 grasias Grasias
  ke riko
-oJei el pan Donde
+oJe i el pan Donde
 aji i e keso
 ese es el keso
 saBes ke este kaBajo kiere De tu
@@ -4962,7 +4962,7 @@ ke es
 ai ke paDre
 te Gusta
 mira lo ke estoi asiendo
-kieres Ber un liBro mira este es enRike i este enRikei este es Beto
+kieres Ber un liBro mira este es enRike i este enRike i este es Beto
 no
 mira mira mira mira mira
 ai ke Bonito te Gusta
@@ -5319,7 +5319,7 @@ bamos a ponerlo aki
 kien se Ba a komer este sanduic
 te
 orale pues
-oJei a kien aki
+oJe i a kien aki
 aBer Bamos
 mira esta su mira
 para ke se
@@ -5333,7 +5333,7 @@ asi ja lo Dormimos
 bamos a poner
 a poBresito ponlo en su kuna
 si
-oJei esto ke es
+oJe i esto ke es
 la tapaDera De la tasa
 si
 aki ponemos
@@ -5746,7 +5746,7 @@ no aki e esta tasita
 ke teNgo aki
 toma mira Bamos a xuGar
 jo te aGuita
-jo te aGuita i tu aGuitai tu se la Das a tomar
+jo te aGuita i tu aGuita i tu se la Das a tomar
 mira Be
 aora tomate tu aGuita tomatela
 i tomate tu aGuita
@@ -6032,9 +6032,9 @@ es un Gua Gua
 es enRike me
 es
 i
-ese es enRike i este enRikei este es Beto
+ese es enRike i este enRike i este es Beto
 si
-enRike i Beto enRikei Beto
+enRike i Beto enRike i Beto
 enRike
 enRike tambien
 este
@@ -6061,7 +6061,7 @@ aki
 fuerte fuerte fuerte
 ke Bonito el Gua Gua el konexo el Gato el pojito
 ke paso
-oJei estos estan en su kasita
+oJe i estos estan en su kasita
 kiero salir kiero salir
 mira lo ke me enkontre
 no se
@@ -6700,7 +6700,7 @@ aBer Dale una mandarina al BeBe
 ke rika
 ai mira este ke es
 komo se jama ese
-cile i pika cilei pika
+cile i pika cile i pika
 komo pika aBer
 komo pika el cile
 pika
@@ -6758,7 +6758,7 @@ si
 te kon este
 aki esta el papa
 te peina kon este
-te kon este i jo estei jo kon este sale
+te kon este i jo este i jo kon este sale
 ke
 donde estara el espexo
 a este es el otro ni|o
@@ -6771,7 +6771,7 @@ ese
 kien se lo Ba a komer te lo komes te
 te lo komes ese
 aBer kometelo
-aBer jo me komo este i te estei te te komes este kometelo
+aBer jo me komo este i te este i te te komes este kometelo
 no
 kual kieres
 mira Duermelo Bamos a Dormir a la nena
@@ -6957,7 +6957,7 @@ si ja Biste
 bamos a Berlo el si
 ke estan asiendo
 si
-enRike i Beto enRikei Beto
+enRike i Beto enRike i Beto
 axa
 si
 ai mira ke Bonitos
@@ -6996,7 +6996,7 @@ te Gusta
 mira
 mira
 ola
-te Gusta mas enRike i Beto enRikei Beto
+te Gusta mas enRike i Beto enRike i Beto
 axa
 si
 estan xuGando kon la pelota ja Biste
@@ -7083,7 +7083,7 @@ ja no kieren
 damelos
 mira kien esta aji
 mira ke Bonita
-mira toma para ke te i aki tei aki te Bes
+mira toma para ke te i aki te i aki te Bes
 no te aki
 mira
 aBer mira lo ke teNgo aki
@@ -7242,7 +7242,7 @@ ke es eso
 una ke
 una Baka
 este es una Baka
-oJei aka mira
+oJe i aka mira
 ke es
 este ja me lo jeBo
 aBer aora Bemos este
@@ -7893,7 +7893,7 @@ si
 mira mira
 a a
 no no las
-aBlale a tu a Buelita tua Buelita
+aBlale a tu aBuelita tu aBuelita
 aBlale a tu mama
 si
 te la Bas a komer
@@ -7938,7 +7938,7 @@ ke
 si
 oJe Daniela me ajuDas a De komer a los ni|os
 oJe Bamos a peinar a los ni|os estan mui
-mira enRike i Beto enRikei Beto
+mira enRike i Beto enRike i Beto
 bamos aBer ke asen
 a Donde lo jeBan a pasear en el kaRito
 ia ki
@@ -7950,7 +7950,7 @@ esta BriNkando
 ia ki
 la pelota la pelota la estan
 ia ji
-ke mas asen ke esta asiendo enRike i Beto enRikei Beto ke estan asiendo
+ke mas asen ke esta asiendo enRike i Beto enRike i Beto ke estan asiendo
 los
 mira estan
 ke mas
