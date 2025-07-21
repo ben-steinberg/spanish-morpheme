@@ -22,6 +22,7 @@ modified_corpus = corpus
 # se kae i lueG/o ka/ei lueG/o te peG/as Ber/DaD 1301
 # ai ke paDre liBr/o teN/go ak/i teN/gu n/a Bak/a What about this 4970
 # e te i s/o tei s/o tu a Buel/it/a tu/a Buel/it/a 1796
+# what about this case? as/iendu
 
 modified_corpus = infinitive_break(modified_corpus, regular_verb_list, 2, all_invalid)
 
@@ -34,6 +35,8 @@ add_slash_array = [
     ('ito', 'it/o'), ('itas', 'it/a/s'), ('iDa', 'iD/a'), ('iD-', 'iD/-'), 
     ('itos', 'it/o/s'), ('etes', 'ete/s'), ('it-', 'it/-'), ('it3', 'it/3')
 ]
+
+# Bakita check fo rthis
 
 for morpheme, output in add_slash_array:
     modified_corpus = simple_add_slashes(modified_corpus, morpheme, True, all_invalid, output)

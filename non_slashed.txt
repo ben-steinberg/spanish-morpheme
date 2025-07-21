@@ -4,6 +4,8 @@ Ben
 Bente
 Bern
 Bes
+Beti
+Beto
 Bien
 Bisi
 Biste
@@ -14,6 +16,7 @@ Bu
 Bum
 Daniela
 De
+Del
 Demas
 Di
 Dientes
@@ -24,7 +27,6 @@ GaBi
 Grande
 Grasias
 Rael
-Rike
 a
 aBer
 aDios
@@ -42,6 +44,7 @@ ambre
 ame
 amor
 an
+anDale
 ana
 anaBel
 anita
@@ -97,6 +100,7 @@ grasias
 i
 iBan
 ie
+ir
 itamar
 itos
 ixole
@@ -115,6 +119,8 @@ kae
 kamara
 kamion
 kantas
+karen
+karne
 kati
 katia
 ke
@@ -130,8 +136,11 @@ koces
 komo
 kon
 kuBos
+kua
 kual
+kuatro
 kuernos
+kum
 lece
 limon
 lis
@@ -163,6 +172,7 @@ muerDe
 mui
 naris
 nenene
+ni
 nikole
 no
 nueBe
@@ -183,7 +193,12 @@ peDro
 pepe
 per
 pi
+pic
+pie
+pik
 pikale
+pin
+pio
 pipi
 platisamelos
 platitu
@@ -210,7 +225,12 @@ se
 seis
 se|or
 si
+siek
 siete
+sin
+so
+soi
+son
 sue
 sulei
 suli
@@ -229,6 +249,8 @@ triste
 trunR
 tsi
 tu
+tuk
+tus
 u
 ueN
 uele
