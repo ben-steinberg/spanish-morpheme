@@ -66,7 +66,6 @@ D/a/me/l/a
 D/a/me/l/o
 D/a/se/l/a
 D/a/se/l/o
-D/ameloi
 D/amos
 D/ando
 D/ar
@@ -148,7 +147,7 @@ aBient/a/me
 aBient/a/me/l/a
 aBl/a
 aBl/a/l/e
-aBl/arlei
+aBl/ar/l/e
 aBl/o
 aBr/a/nos
 aBr/e
@@ -475,7 +474,6 @@ l/a/s
 l/e
 l/o
 l/o/s
-l/oi
 laB/ar/l/o/s
 laD/o
 laralar/a
@@ -492,7 +490,6 @@ lueG/u
 maGDalen/it/a
 mal/a
 mam/a
-mam/ai
 mamas/it/a
 mamil/a
 man/it/a
@@ -541,7 +538,6 @@ mu|ek/u
 mxu/a
 n/a
 n/o/s
-n/oi
 n/u
 naD/a
 naranx/a
@@ -581,7 +577,6 @@ pal/o/s
 pans/a
 pap/a
 pap/a/s
-pap/ai
 pap/i
 papas/it/o
 par/ar
@@ -696,8 +691,6 @@ romp/en
 romp/es
 rox/a
 rox/o
-s/u
-s/u/s
 saB/e
 saB/es
 saBros/a

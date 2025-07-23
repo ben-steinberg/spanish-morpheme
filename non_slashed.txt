@@ -63,7 +63,6 @@ bien
 bienes
 bu
 bum
-caNgitoi
 ci
 cile
 cit
@@ -228,12 +227,13 @@ si
 siek
 siete
 sin
-so
 soi
 son
+su
 sue
 sulei
 suli
+sus
 tRun
 ta
 tambien
