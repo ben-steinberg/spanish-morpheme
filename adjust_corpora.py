@@ -11,17 +11,7 @@ with open(corpus_path, 'r') as file:
     corpus = file.readlines()
 
 modified_corpus = corpus
-# watch out for i (y)
-# mir/a i un mir/ai un 238 it breaks too fast so after there is one break it'll skip over
-# mir/a iak/i
-# maybe make it so that if the next word doesn't exist and just had a dipthong added
-# then keep it to the end? especially if ends with i 
-# watch for i sieron
-# ie st/e
-# a Buelita watch for that
-# se kae i lueG/o ka/ei lueG/o te peG/as Ber/DaD 1301
-# ai ke paDre liBr/o teN/go ak/i teN/gu n/a Bak/a What about this 4970
-# e te i s/o tei s/o tu a Buel/it/a tu/a Buel/it/a 1796
+
 # what about this case? as/iendu
 
 modified_corpus = infinitive_break(modified_corpus, regular_verb_list, 2, all_invalid)
