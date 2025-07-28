@@ -37,7 +37,7 @@ not_confident_pos = [ # words that im not sure if i should switch or not
 ]
 
 all_invalid = [ 
-    "B/laNka", "B/eto", "D/ona", "B/u", "ka/Be", "as/", "ka/t", "D/i", "Ba/ja", "Ba/jan", "l/i/s",
+    "B/laNka", "B/eto", "D/ona", "B/u", "ka/Be", "as/", "ka/t", "D/i", "Ba/ja", "Ba/jan", "l/i/s", "pa/m", "pa/o", "pa/s",
     "b/-la", "d/e", "d/i", "d/ile", "d/iles", "d/#s", "b/on/it/o", "b/is/te", "peD/r/it/o", "s/*/s",
     "Ba/kita", "B/onita", "B/isi", "ka/ti", "ka/Ro", "D/e", "B/ete", "b/en/te", "BeB/e", "B/onitas",
     "D/ile", "b/aka", "d/onde", "tam/b#n", "tam/bor", "Ba/jas", "Ba/k/it/a", "fe/r", "selin/a", "B/uelita",

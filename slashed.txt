@@ -25,14 +25,12 @@ Bak/a/s
 Bak/it/a
 BarBari/DaD
 Bark/o
-Bark/u
 Bax/amos
 BeB/es
 Ber/DaD
 Bes/it/o
 Bes/it/o/s
 Bes/o
-Bes/u
 Best/iDo
 BiB/e
 BiB/eron
@@ -161,7 +159,6 @@ aBr/ir/l/o
 aBr/iste
 aDentr/o
 aG/o
-aG/u
 aGaR/a
 aGaR/a/l/a
 aGaR/a/l/e
@@ -326,7 +323,6 @@ est/es
 est/o
 est/oi
 est/os
-est/u
 estorB/a
 falt/a
 falt/aBa
@@ -389,11 +385,9 @@ ka/xita
 kaBaj/o
 kaR/o
 kaR/o/s
-kaR/u
 kaj/a/te
 kaj/eron
 kaj/o
-kaj/u
 kalaBas/it/a
 kam/it/a
 kamin/a
@@ -415,13 +409,11 @@ ker/emos
 ker/ias
 kes/it/o
 kes/o
-kes/u
 kier/a
 kier/e
 kier/en
 kier/es
 kier/o
-kier/u
 kit/amos
 kit/ar
 kit/es
@@ -486,7 +478,6 @@ liBr/o/s
 lind/o
 list/o
 lueG/o
-lueG/u
 maGDalen/it/a
 mal/a
 mam/a
@@ -534,11 +525,9 @@ mueB/e/l/e
 mu|ek/a
 mu|ek/it/o
 mu|ek/o
-mu|ek/u
 mxu/a
 n/a
 n/o/s
-n/u
 naD/a
 naranx/a
 nen/a
@@ -564,9 +553,6 @@ otr/o
 otr/o/s
 ox/it/o/s
 oxe/ar/l/o
-pa/m
-pa/o
-pa/s
 paDr/isimo
 pajas/it/o
 pajas/o
@@ -667,7 +653,6 @@ prest/a/me/l/o/s
 prest/ar
 prest/as
 prest/o
-prest/u
 primer/o
 prueBal/a
 pueD/e
@@ -684,7 +669,6 @@ rekox/emos
 rezBalaDij/a
 rik/a
 rik/o
-rik/u
 rok/o
 romp/e
 romp/en
@@ -820,7 +804,6 @@ ueG/an
 un/a
 un/o
 un/o/s
-un/u
 up/a
 xaR/it/a
 xaR/it/o/s

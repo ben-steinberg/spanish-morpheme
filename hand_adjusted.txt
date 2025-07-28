@@ -736,7 +736,7 @@ tres
 son tres mira ponlos aki los tres
 este este i este este i este
 kual kieres este o este
-nu no De los Dos
+no uno De los Dos
 este o este
 este
 mira miriam un kocesito
@@ -842,7 +842,7 @@ dame uno
 mio
 son tujos
 dame uno
-dame unu no
+dame un uno
 andale
 otra
 mira
@@ -908,7 +908,7 @@ aora aora te
 aprietale te
 metelo aki mira
 kieres aser esto
-mira el Barko el Barku  osito
+mira el Barko el Barko un osito
 ola komo estas cikitito
 komo estas Bien
 komo estas Bien
@@ -2312,7 +2312,7 @@ grasias
 seresa
 mira un platito Bamos a komer
 mira mira
-um kesu  riku 
+um keso riko 
 komo se kome
 se kome aBer
 este es el keso
@@ -4401,7 +4401,7 @@ ja se las uBas
 bamos en el koce al
 donde estan las uBas aBer De aji
 me Das una ai pero se komen
-no se komen porke son De lueGu nos
+no se komen porke son De lueGo unos
 i este mira ke es este
 kieres un sanduic
 kual
@@ -4442,7 +4442,7 @@ lo karGamos para ke no ai BeBe no jores para ke no
  ke rika lece
 ja lo ponemos en su aji BeBe
 ui ke es esto
-una nu na
+una no una
 aji e la tasa la ponemos no mexor la ponemos aki kon la Baka komo
 no la Baka saBes komo ase
 no a Bueno
@@ -4864,7 +4864,7 @@ la lece a la Baka
 eso
 esto ke es
 ke es esto tan ke es
-ke es estu 
+ke es esto 
 un ke se Ba ai  a su kasa
 ai metelo a Dormir
 aki mexor las i lo aki
@@ -4931,7 +4931,7 @@ sientate aDentro De la kasita papi sientate
 esta es la nena
 la nena mira ke tiene en la mano
 sientate
-ke mas estu no Dos
+ke mas esto uno Dos
 ai se kajo toDo
 el koce
 te
@@ -5389,7 +5389,7 @@ kieres xuGar
 ui
 kieres xuGar kon mi la Baka
 si
-aBer te prestu no
+aBer te presto uno
 ola Bak/it/a
 estas
 kieres otro
@@ -5698,7 +5698,7 @@ kieres el caNgito
 mu
 i mu
 jo soi una Baka
-i i jo kieru 
+i i jo kiero
 jo kiero komer
 ola amiGo caNgito komo estas
 kieres la Baka
@@ -5859,7 +5859,7 @@ jo Boi a komer
 ai ke rika me la komo
 ia ji ke ai unos DeDos
 unos DeDos De kien son estos DeDos
-mientras a mi me la jo aGu  kari a estos karia estos
+mientras a mi me la jo aGo kari a estos karia estos
 kieres uno
 kieres uno
 aBer tu kieres
@@ -7184,7 +7184,7 @@ a ke xuGamos e
 ja Biste a la mama
 eso no se kome
 mira se el kamion
-mira se le kaju na al kamion
+mira se le kajo una al kamion
 bamos a
 bamos a mira kon este
 mira la nena
@@ -7476,7 +7476,7 @@ ira
 a ke Bamos a xuGar ira ira
 ira
 ira
-el mu|eku  Besu  Besito ira
+el mu|eko un Beso Besito ira
 un Besito
 kuantos son
 son Dos
@@ -7540,7 +7540,7 @@ un pan
 se|ora si a la ni|a tantito asi a aka asia aka
 un kaRo
 un kaRo
-un kaRu  kaRo ira
+un kaRo kaRo ira
 ira
 ira
 ke es

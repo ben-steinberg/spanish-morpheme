@@ -113,7 +113,6 @@ jolis
 ka
 kaBe
 kaReras
-kaRitu
 kae
 kamara
 kamion
@@ -183,9 +182,12 @@ ombre
 orale
 oxos
 paDre
+pam
 pan
+pao
 para
 paraDos
+pas
 pastel
 pau
 peDro
