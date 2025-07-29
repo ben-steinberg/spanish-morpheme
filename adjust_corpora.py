@@ -64,6 +64,16 @@ see_percentage_checked(modified_corpus, True)
 
 write_new_corpus(modified_corpus, path, 'modified_corpus_with_dip.txt')
 
+'''
+Questionable words: 
+aBien
+aBaxo --> a/Baxo?
+ar/a
+aserk/a/te --> a/serk/a/te
+mara
+paDrisimo
+'''
+
 
 '''
 New questions: 
