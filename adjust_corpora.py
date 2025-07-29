@@ -41,7 +41,7 @@ modified_corpus = simple_add_slashes(modified_corpus, 'isimo')
 o_endings = find_endings(modified_corpus, 'o')
 modified_corpus = infinitive_break(modified_corpus, o_endings, 1, all_invalid)
 
-modified_corpus = simple_add_slashes(modified_corpus, 'DaD')
+modified_corpus = simple_add_slashes(modified_corpus, 'DaD', True, ['BerDaD'])
 
 # print(count_words(modified_corpus, False))
 

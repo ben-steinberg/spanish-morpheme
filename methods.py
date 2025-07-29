@@ -458,10 +458,14 @@ def slash_pronouns(word, stem):
         for pronoun in pronoun_list: 
             if suffix.endswith(pronoun) and not suffix.endswith('aste') and not suffix.endswith('iste'):
                 if pronoun.startswith('l'): 
-                    if len(pronoun) == 2: # la lo le
+                    if len(pronoun) == 2 and pronoun != 'le': # la lo le
                         pronoun_array.append(pronoun[0] + '/' + pronoun[1])
+                    elif pronoun == 'les':
+                        pronoun_array.append(pronoun[0] + '' + pronoun[1] + '/' + pronoun[2])
                     elif len(pronoun) == 3: # las los les
                         pronoun_array.append(pronoun[0] + '/' + pronoun[1] + '/' + pronoun[2])
+                    
+
                     else: 
                         pronoun_array.append(pronoun)
                 else:
