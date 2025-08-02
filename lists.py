@@ -17,8 +17,8 @@ regular_verb_list = [
     'aBrir', 'peDir', 'salir', 'x$Gar', 'BriNkar', 'p$Der', 'sirBer', 'Bestir',
     'G&rDar', 'pareser', 'Dormir', 'Besar', 'biBir', 'DiBuxar', 'iser', 'suenar',
     'k#rer', 'akaBar', 'kerer', 'teNer', 'oler', 'reGresar', 'besar', 'karGar',
-    't#ner', 'tener', 'poner', 's#ntar', 'mirar', 'komer', 'filmar', 'koRer',
-    'salGar', 'jamar', 'traer', 'estorBar', 'storBar', 'andar', 'fixar', 'perar'
+    't#ner', 'tener', 'poner', 's#ntar', 'mirar', 'komer', 'filmar', 'koRer', 'Bientar',
+    'salGar', 'jamar', 'traer', 'estorBar', 'storBar', 'andar', 'fixar', 'perar', 'Bajar'
 ]
 
 other_pos_list = [ # others where you can remove the last leter used for adjectives
@@ -32,16 +32,16 @@ other_pos_list = [ # others where you can remove the last leter used for adjecti
 not_confident_pos = [ # words that im not sure if i should switch or not
     'Baka', 'Dona', 'Gata', 'GloBa', 'baka', 'dona', 'gata', 'kamina', 'naranxa', 
     'pala', 'plata', 'saBrosa', 'sorpresa', 'tasa', 'Barka', 'Boka', 'DaDa', 'DeDa', 
-    'G!ta', 'G$ra', 'Gaja', 'Gripa', 'caNga', 'fiGura', 'fruta', 'kaxa', 'kamara', 
+    'G!ta', 'G$ra', 'Gaja', 'Gripa', 'caNga', 'fiGura', 'fruta', 'kaxa', 'kamara', 'BlaNka',
     'sanahoria', 'k$nta', 'mona', 'grandota', 'Granda', 'Grandota', 'saBrosa', 'kampana'
 ]
 
 all_invalid = [ 
     "B/laNka", "B/eto", "D/ona", "B/u", "ka/Be", "as/", "ka/t", "D/i", "Ba/ja", "Ba/jan", "l/i/s", "pa/m", "pa/o", "pa/s", "miu/a", "tataRatat/a",
     "b/-la", "d/e", "d/i", "d/ile", "d/iles", "d/#s", "b/on/it/o", "b/is/te", "peD/r/it/o", "s/*/s", "ar/Bol", "baB/a", "kuakuaku/a", "|i/a",
-    "Ba/kita", "B/onita", "B/isi", "ka/ti", "ka/Ro", "D/e", "B/ete", "b/en/te", "BeB/e", "B/onitas", "Gu/au", "ar/on", "laralar/a",
+    "Ba/kita", "B/onita", "B/isi", "ka/ti", "ka/Ro", "D/e", "B/ete", "b/en/te", "BeB/e", "B/onitas", "Gu/au", "ar/on", "laralar/a", "Bl/aNka",
     "D/ile", "b/aka", "d/onde", "tam/b#n", "tam/bor", "Ba/jas", "Ba/k/it/a", "fe/r", "selin/a", "B/uelita", "braB/o", "mari/e", "suleim/a",
-    "D/on", "D/isen", "ka/", "B/erDaD", "D/ana", "ka/r", "B/ols/it/a", "Ba/rBariDaD", "B/olsita", "Dan/a", "Gu/a", "lueG/o", "seli/a", 
+    "D/on", "D/isen", "ka/", "B/erDaD", "D/ana", "ka/r", "B/ols/it/a", "Ba/rBariDaD", "B/olsita", "Dan/a", "Gu/a", "lueG/o", "seli/a", "BraB/o",
     "tam/ar", "Ba/mosa", "x/ita", "peD/ro", "B/is/te", "B/la/le", "B/iBe", "tra/B#so", "miGel/it/o", "mam/a", "gu/a", "gu/au", "seli/na",
     "b/$no", "b/aBa", "ka/R3", "D/aDos", "ka/ren", "b/#n", "B/axo", "mark/it/o/s", "mart/a", "s/$", "ar/te", "guaGu/a", "mxu/a", "tap/aDera",
     "b/ente", "Ba/rko", "Ba/rku", "ro/ko", "s/*s", "s/#/te", "par/aD/it/o", "b/onito", "s/%n", "ka/laBasita", "jamani/a", "klauDi/a",

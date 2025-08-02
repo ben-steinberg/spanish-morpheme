@@ -1,7 +1,4 @@
 B/a
-B/aja
-B/ajan
-B/ajas
 B/amo/nos
 B/amos
 B/amos/a
@@ -21,6 +18,9 @@ Ba/er
 Bail/a
 Bail/ando
 Bail/ar
+Baj/a
+Baj/an
+Baj/as
 Bak/a
 Bak/a/s
 Bak/it/a
@@ -38,13 +38,13 @@ BiB/eron
 BiB/i
 Bien/e
 Bien/es
-Bien/ta/se/l/a
+Bient/a/se/l/a
 Bin/ieron
 Bin/o
 Bisit/ar
 Bisit/ar/te
 Bist/o
-Bl/aNka
+BlaNk/a
 Bok/a
 Bols/a
 Bols/it/a
@@ -53,7 +53,6 @@ Bonit/a
 Bonit/a/s
 Bonit/o
 Bonit/o/s
-BraB/o
 BriNk/ando
 Buelt/a
 Buen/o
@@ -735,6 +734,7 @@ toD/it/o/s
 toD/o
 toD/o/s
 toR/es/it/a
+toRe/s
 tok/a
 tok/ar
 tom/a

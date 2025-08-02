@@ -11,6 +11,7 @@ Bisi
 Bloke
 Boi
 Bor
+BraBo
 Bu
 Bum
 Dana
@@ -228,7 +229,6 @@ pio
 piopiopio
 pipi
 platisamelos
-platitu
 poBre
 poiN
 pon
@@ -274,7 +274,6 @@ ten
 tere
 ti
 toRe
-toRes
 tres
 triste
 trunR
