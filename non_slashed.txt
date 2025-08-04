@@ -130,7 +130,6 @@ ka
 kaBe
 kacete
 kae
-kamara
 kamion
 kantas
 karen
@@ -222,7 +221,6 @@ pi
 pic
 pie
 pik
-pikale
 pin
 pio
 piopiopio
@@ -283,7 +281,6 @@ tuk
 tus
 u
 ueN
-uele
 ui
 um
 un

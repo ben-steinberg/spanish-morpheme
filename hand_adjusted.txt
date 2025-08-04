@@ -214,7 +214,7 @@ i e Barko el osito
 ben BeBe Ben
 a Ber
 mira
-a Ber pommelo
+a Ber ponmelo
 se kajo
 kieres xuGar kon este a Ber
 el aBien
@@ -1261,10 +1261,10 @@ ben Bamos a xuGar kaReras orale
 run run
 run peDrito
 orale a Ber te kon uno e
-te ese i jo ese i jo este
+te ese i jo este
 run |an ai
 run run
-no te Gusto i tus Gusto i tus uBas
+no te Gusto i tus uBas
 ke se komen
 no fuci no se komen
 oJe i esto para ke es peDrito
@@ -1378,7 +1378,7 @@ ese aki
 aki ponlo mira
 aki ponlo mira
 ponlo aRiBa
-a Ber aora tu pomme este
+a Ber aora tu ponme este
 no la tires no la tires no
 a Ber ponlo asi
 ai se kajo
@@ -1652,8 +1652,8 @@ andale Baila
 no kieres Bailar i kon el kocinito
 si
 laralara
-ui te komo
-ui te komo la mano
+ui te kom/o
+ui te kom/o la mano
 mira te kome el oso
 no no
 bamos a Desir si
@@ -1760,7 +1760,7 @@ ai
 ja sakamos otro
 mira
 oJe komo se xuG/ar/a esto mira
-ja se teNgo una iDea na iDea mexor
+ja se teNgo una iDea mexor
 ai kuantos xuGetes
 me lo Das
 grasias
@@ -5962,7 +5962,7 @@ mira esta es la naranxa
 i e BeBe ponlo en su kuna este tendra ambre el BeBe
 kual
 es una pelota
-u na mansana
+una mansana
 mira ke
 el BeBe en su kuna
 duermelo

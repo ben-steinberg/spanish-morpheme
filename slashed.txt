@@ -369,6 +369,7 @@ kaj/eron
 kaj/o
 kalaBas/it/a
 kam/it/a
+kamar/a
 kamin/a
 kampan/it/a
 kans/aste
@@ -584,6 +585,7 @@ per/o
 piern/a
 piern/it/a/s
 pik/a
+pik/a/le
 pituf/o
 plat/it/o
 plat/it/o/s
@@ -602,8 +604,6 @@ poj/o
 pok/it/o
 pok/o
 pokat/e/l/a/s
-pom/me
-pom/me/l/o
 pon/emos
 pon/en
 pon/er
@@ -614,6 +614,8 @@ pon/l/a
 pon/l/o
 pon/l/o/s
 pon/le
+pon/me
+pon/me/l/o
 pon/se/l/a
 pon/se/l/o
 pon/se/l/o/s
@@ -765,6 +767,7 @@ uB/a
 uB/a/s
 ueB/it/o
 ueG/an
+uel/e
 un/a
 un/o
 un/o/s

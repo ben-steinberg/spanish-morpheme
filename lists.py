@@ -11,12 +11,13 @@ regular_verb_list = [
     'ense|ar', 'haber', 'mandar', 'pokater', 'enoxer', 'kansar', 'azer', 'Biner', 'suenar',
     'aReGlar', 'estar', 'faltar', 's#Rar', 'aB#ntar', 'xirar', 'tr-er', 'Baxar',
     'poDer', 'tapar', 'laBar', 'atoraste', 'tirar', 'pres#nar', 'atorar', # got rid of 'seR'
-    'saluDar', 'enkontrar', 'Ber', 'ber', 'Baer', 'aser', 'keDar', 'aserkar', 
+    'saluDar', 'enkontrar', 'Ber', 'ber', 'Baer', 'aser', 'keDar', 'aserkar', 'pikar',
     'kaer', 'rekoxer', 'g&rDar', 'terminar', 'pakater', 'aBer', 'kajar', 'iser',
     'meter', 'moBer', 'poner', 'Desaser', 'komponer', 'Desir', '$Gar', 'duermer',
-    'aBrir', 'peDir', 'salir', 'x$Gar', 'BriNkar', 'p$Der', 'sirBer', 'Bestir',
-    'G&rDar', 'pareser', 'Dormir', 'Besar', 'biBir', 'DiBuxar', 'iser', 'suenar',
-    'k#rer', 'akaBar', 'kerer', 'teNer', 'oler', 'reGresar', 'besar', 'karGar', 'meter',     't#ner', 'tener', 'poner', 's#ntar', 'mirar', 'komer', 'filmar', 'koRer', 'Bientar',
+    'aBrir', 'peDir', 'salir', 'x$Gar', 'BriNkar', 'p$Der', 'sirBer', 'Bestir', 'Pruebar',
+    'G&rDar', 'pareser', 'Dormir', 'Besar', 'biBir', 'DiBuxar', 'iser', 'suenar', 'ueler',
+    'k#rer', 'akaBar', 'kerer', 'teNer', 'oler', 'reGresar', 'besar', 'karGar', 'meter',     
+    't#ner', 'tener', 'poner', 's#ntar', 'mirar', 'komer', 'filmar', 'koRer', 'Bientar',
     'salGar', 'jamar', 'traer', 'estorBar', 'storBar', 'andar', 'fixar', 'perar', 'Bajar'
 ]
 
@@ -65,7 +66,7 @@ all_invalid = [
     "B/#n", "D/exo", "Ba/kit+", "d/anae", "aB/er", "B/onit-", "B/onit+", "B/on/it/a", "ramons/it/o", "ale/iD/a", "aleiD/a",
     "B/olsa", "ka/sa", "B/$no", "as/ta", "b/eBa", "D/ea", "B/eBe", "B/on/it/o", "B/on/it/a/s", "e/l", "Bist/e", "don/de",
     "kom/o", "d/os", "b/es", "B/ak-", "B/aka", "Ba/n", "Ba/mos", "Ba/k/it/a", "B/aj/a", "D/eD/it/o", "son", "B/olsita", "ku/al",
-    "B/akas", "B/akit+", "p/onsela", "p/onselo", "kamar/a", "ka/Ros", "Ba/mo/nos", "B/e/a", "Dan#l/a", "marian/a", "pa/ra",
+    "B/akas", "B/akit+", "p/onsela", "p/onselo", "ka/Ros", "Ba/mo/nos", "B/e/a", "Dan#l/a", "marian/a", "pa/ra",
     "an/ita", "Ba/k-", "Ba/ka", "Ba/kas", "j/anta/s", "j/eGe", "j/i", "j/iji", "Bl/aNk/a", "ka/m/it/a", "B/iste", "kati/a", "pa/u",
     "ka/mpan/it/a", "ka/mpanit-", "ka/ntas", "Grand/e", "re/zBalaDija", "ki/en", "B/oi", "i/e", "no", "pa/n", "ka/ti", "ka/tia"
 ]
