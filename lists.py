@@ -61,7 +61,7 @@ all_invalid = [
     "b/um", "D/emas", "ka/ri", "ka/ri|itos", "B/$lta", "D/eDo", "ka/laBas/it/a", "B/-/l/a", "pi/c", "pi/e", "pi/k", "pi/n", "pi/o",
     "ka/rit", "B/oka", "B/um", "B/", "D/eDos", "Bl/oke", "D/ar@", "mari/a", "B/$l/it/a", "miGelit/o", "Dan/ae", "jam/ania",
     "b/erDaD", "D/eDitos", "B/en", "ka/Bajo", "b/eBe", "tom/ate", "B#n/do", "D/an#/l/a", "ka/rlitos", "Dari/o", "paul/a", 
-    "b/eso", "D/el", "ka/mara", "tap/itit/it/a", "B/in#ron", "B/#n", "B/en/te", "l/*n", "ka/mpanita",
+    "b/eso", "D/el", "ka/mara", "tap/itit/it/a", "B/in#ron", "B/#n", "B/en/te", "l/*n", "ka/mpanita", "as/ukar", "ak/i", "ak/a", "aj/a", "aj/i",
     "ka/Ritu", "ka/jo", "B/#ne", "ka/e", "ka/Ru", "Ba/monos", "as/i", "B/ols/it/a", "Ba/k/it/a", "e/s", "Don/de", "D/ientes",
     "B/#n", "D/exo", "Ba/kit+", "d/anae", "aB/er", "B/onit-", "B/onit+", "B/on/it/a", "ramons/it/o", "ale/iD/a", "aleiD/a",
     "B/olsa", "ka/sa", "B/$no", "as/ta", "b/eBa", "D/ea", "B/eBe", "B/on/it/o", "B/on/it/a/s", "e/l", "Bist/e", "don/de",

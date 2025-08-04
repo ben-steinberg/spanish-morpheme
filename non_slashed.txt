@@ -37,8 +37,12 @@ a
 aDios
 aDrian
 ai
+aja
 ajer
+aji
 ajian
+aka
+aki
 al
 aleGas
 aleiDa
@@ -61,6 +65,7 @@ aron
 arte
 arturo
 asi
+asukar
 au
 auGauG
 auc

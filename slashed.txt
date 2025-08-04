@@ -169,13 +169,9 @@ aReGl/andu
 aReGl/ar
 aRiB/a
 aRuj/a
-aj/a
-aj/i
 ajuD/a/le
 ajuD/ar
 ajuD/as
-ak/a
-ak/i
 akaB/e
 akaB/o
 aki/a
@@ -204,7 +200,7 @@ as/iendo
 aserk/a/te
 ast/a
 ast/e
-asukarer/a
+asukar/er/a
 ator/aste
 atr/a/s
 atr/o
@@ -305,10 +301,10 @@ est/an
 est/ar/a
 est/as
 est/e
-est/es
+est/e/s
 est/o
+est/o/s
 est/oi
-est/os
 estorB/a
 ex/it/o
 falt/a
