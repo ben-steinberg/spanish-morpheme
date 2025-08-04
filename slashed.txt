@@ -28,7 +28,6 @@ BarBari/DaD
 Bark/o
 Bax/amos
 BeB/es
-Ber/DaD
 Bes/it/o
 Bes/it/o/s
 Bes/o
@@ -132,10 +131,10 @@ Gust/aron
 Gust/o
 a/Baxo
 a/Dentro
+a/fuera
 a/komoD/a/l/o
 aB/ia
 aB/ien
-aB/uel/it/a
 aBient/a/le
 aBient/a/me
 aBient/a/me/l/a
@@ -153,6 +152,7 @@ aBr/io
 aBr/ir
 aBr/ir/l/o
 aBr/iste
+aBuel/it/a
 aG/o
 aGaR/a
 aGaR/a/l/a
@@ -169,7 +169,6 @@ aReGl/andu
 aReGl/ar
 aRiB/a
 aRuj/a
-afuer/a
 aj/a
 aj/i
 ajuD/a/le
@@ -186,7 +185,6 @@ amarij/o
 amiG/o
 and/a/le
 and/o
-aor/a
 aor/it/a
 apacuR/a/le
 apriet/a/le
@@ -207,7 +205,7 @@ aserk/a/te
 ast/a
 ast/e
 asukarer/a
-atoras/te
+ator/aste
 atr/a/s
 atr/o
 ax/a
@@ -312,6 +310,7 @@ est/o
 est/oi
 est/os
 estorB/a
+ex/it/o
 falt/a
 falt/aBa
 fe/a
@@ -344,6 +343,7 @@ jam/ai
 jam/an
 jam/as
 jam/o
+jant/a/s
 jeB/a/l/o/s
 jeB/amos
 jeB/an
@@ -356,15 +356,14 @@ jen/ar
 jor/ando
 jor/ar
 jor/es
-ka/R/it/o
 ka/ca/l/a
-ka/ce/te
+ka/e
 ka/er
 ka/es
-ka/rita
 kaBaj/o
 kaR/o
 kaR/o/s
+kaRera/s
 kaj/a/te
 kaj/eron
 kaj/o
@@ -375,7 +374,9 @@ kampan/it/a
 kans/aste
 kar/i
 kar/ia
+kar/it/a
 kar/it/a/s
+kar/it/o
 karG/a
 karG/amos
 kari|/it/o
@@ -397,6 +398,7 @@ kier/e
 kier/en
 kier/es
 kier/o
+kiet/o/s
 kit/amos
 kit/ar
 kit/es
@@ -404,7 +406,8 @@ kit/o
 koR/e
 koR/e/le
 koc/es/it/o
-koces/it/o
+koce/s
+koce/s/it/o
 kocin/it/o
 kocin/o
 koj/ar
@@ -428,7 +431,6 @@ kom/o
 kommiG/o
 kompon/er
 konex/o
-konexit/o
 kontiG/o
 kos/a
 kos/a/s
@@ -475,6 +477,7 @@ marian/it/a
 martij/o
 meDi/o
 mes/a
+met/a
 met/an
 met/e/l/a/s
 met/e/l/o
@@ -553,7 +556,6 @@ pat/o
 paxar/it/o
 peD/as/it/o
 peD/ir
-peDrit/o
 peG/a
 peG/a/le
 peG/ar/le
@@ -674,7 +676,6 @@ seres/a
 seres/a/s
 se|or/a
 siG/o
-siNk/o
 sieR/a/l/o
 sieR/a/le/s
 sieR/an

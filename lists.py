@@ -16,13 +16,12 @@ regular_verb_list = [
     'meter', 'moBer', 'poner', 'Desaser', 'komponer', 'Desir', '$Gar', 'duermer',
     'aBrir', 'peDir', 'salir', 'x$Gar', 'BriNkar', 'p$Der', 'sirBer', 'Bestir',
     'G&rDar', 'pareser', 'Dormir', 'Besar', 'biBir', 'DiBuxar', 'iser', 'suenar',
-    'k#rer', 'akaBar', 'kerer', 'teNer', 'oler', 'reGresar', 'besar', 'karGar',
-    't#ner', 'tener', 'poner', 's#ntar', 'mirar', 'komer', 'filmar', 'koRer', 'Bientar',
+    'k#rer', 'akaBar', 'kerer', 'teNer', 'oler', 'reGresar', 'besar', 'karGar', 'meter',     't#ner', 'tener', 'poner', 's#ntar', 'mirar', 'komer', 'filmar', 'koRer', 'Bientar',
     'salGar', 'jamar', 'traer', 'estorBar', 'storBar', 'andar', 'fixar', 'perar', 'Bajar'
 ]
 
 other_pos_list = [ # others where you can remove the last leter used for adjectives
-    'GorDo', 'una', 'ixa', 'otra', 'tuja', 'eja', 'toDa', 'g&pa', 'esa', 'rika', 
+    'GorDo', 'una', 'ixa', 'otra', 'tuja', 'eja', 'toDa', 'g&pa', 'esa', 'rika', 'janta',
     'otra', 'ni|a', 'gorDa', 'roxa', 'Bonita', 'sola', 'Baxa', 'rapiDa', 'se|ora',
     'sposa', 'BlaNka', 'kasa', 'G&pa', 'kosa', 'seresa', 'amarija', 'amiGa', 'ermosa',
     'fea', 'lista', 'mia', 'poka', 'primera', 'B$na', 'alGa', 'b$na', 'kara', 'sapato'
@@ -30,10 +29,10 @@ other_pos_list = [ # others where you can remove the last leter used for adjecti
 
 
 not_confident_pos = [ # words that im not sure if i should switch or not
-    'Baka', 'Dona', 'Gata', 'GloBa', 'baka', 'dona', 'gata', 'kamina', 'naranxa', 
+    'Baka', 'Dona', 'Gata', 'GloBa', 'baka', 'dona', 'gata', 'kamina', 'naranxa', 'kaReras',
     'pala', 'plata', 'saBrosa', 'sorpresa', 'tasa', 'Barka', 'Boka', 'DaDa', 'DeDa', 
     'G!ta', 'G$ra', 'Gaja', 'Gripa', 'caNga', 'fiGura', 'fruta', 'kaxa', 'kamara', 'BlaNka',
-    'sanahoria', 'k$nta', 'mona', 'grandota', 'Granda', 'Grandota', 'saBrosa', 'kampana'
+    'sanahoria', 'k$nta', 'mona', 'grandota', 'Granda', 'Grandota', 'saBrosa', 'kampana', 'kieto'
 ]
 
 all_invalid = [ 
@@ -42,26 +41,26 @@ all_invalid = [
     "Ba/kita", "B/onita", "B/isi", "ka/ti", "ka/Ro", "D/e", "B/ete", "b/en/te", "BeB/e", "B/onitas", "Gu/au", "ar/on", "laralar/a", "Bl/aNka",
     "D/ile", "b/aka", "d/onde", "tam/b#n", "tam/bor", "Ba/jas", "Ba/k/it/a", "fe/r", "selin/a", "B/uelita", "braB/o", "mari/e", "suleim/a",
     "D/on", "D/isen", "ka/", "B/erDaD", "D/ana", "ka/r", "B/ols/it/a", "Ba/rBariDaD", "B/olsita", "Dan/a", "Gu/a", "lueG/o", "seli/a", "BraB/o",
-    "tam/ar", "Ba/mosa", "x/ita", "peD/ro", "B/is/te", "B/la/le", "B/iBe", "tra/B#so", "miGel/it/o", "mam/a", "gu/a", "gu/au", "seli/na",
+    "tam/ar", "Ba/mosa", "x/ita", "peD/ro", "B/is/te", "B/la/le", "B/iBe", "tra/B#so", "miGel/it/o", "mam/a", "gu/a", "gu/au", "seli/na", "peDrit/o",
     "b/$no", "b/aBa", "ka/R3", "D/aDos", "ka/ren", "b/#n", "B/axo", "mark/it/o/s", "mart/a", "s/$", "ar/te", "guaGu/a", "mxu/a", "tap/aDera",
     "b/ente", "Ba/rko", "Ba/rku", "ro/ko", "s/*s", "s/#/te", "par/aD/it/o", "b/onito", "s/%n", "ka/laBasita", "jamani/a", "klauDi/a",
     "met/elo", "b/raBo", "D/$rmelo", "D/entro", "mir/%m", "B/ente", "an/it/a", "b/#nes", "s/%", "trai/Go", "ar/turo", "oc/o", "re/Ga/l/o",
     "B/arko", "B/arku", "tra/Gona", "B/iBeron", "par/aD/it/o", "mi/r%m", "b/aler%", "aj/er", "n/o", "d/uer/me/l/a", "ol/a", "ramonsit/o",
-    "B/arku", "D/os", "tom/", "b/en", "ka/xa", "b/u", "Ba/kas", "an/a", "an/it/a", "s/#", "s/!", "Bet/i", "Bet/o", "paulin/a",
-    "par/a", "ka/ju", "B/loke", "B/eBes", "mand/arina", "d/i/les", "d/i/le", "konex/it/o", "s/@", "i/r", "ka/mita", "peDr/it/o",
+    "B/arku", "D/os", "tom/", "b/en", "ka/xa", "b/u", "Ba/kas", "an/a", "an/it/a", "s/#", "s/!", "Bet/i", "Bet/o", "paulin/a", "siNk/o",
+    "par/a", "ka/ju", "B/loke", "B/eBes", "mand/arina", "d/i/les", "d/i/le", "konex/it/o", "s/@", "i/r", "ka/mita", "peDr/it/o", "aor/a",
     "ka/cete", "met/", "B/or", "as/te", "D/an#la", "B/ino", "pi/pi", "B/onito", "kom/miGo", "s/al", "ka/mita", "ka/r/it/a", "ka/r/it/a/s", 
     "ka/ria", "ka/ritai", "ka/ri|ito", "ka/s/it/a", "ka/x/it/a", "kar/en", "kar/ne", "ku/m", "ku/a", "D/i/le/s", "D/i/le", "piopiopi/o",
     "ka/Rit3", "B/isto", "pas/tel", "s/i", "Ba/s", "peDr/o", "pedr/o", "t/en", "mar/i", "s/in", "B/ak/it/a", "lueGo", "braBo", 
     "b/aler", "Ba/ka", "B/raBo", "B/es", "d/ona", "B/-la", "mi/Go", "peD/rito", "mar/ta", "j/o", "j/a", "B/akita", "tr/e/s",
     "B/ak-", "B/akit+", "f/er", "par/aDos", "st/orBa", "anit/a", "lusi/a", "par/aDito", "kuatr/o", "n/i", "pap/a", "pa/pa", "pap/i", "pa/pi",
     "b/eto", "B/arBariDaD", "ka/m@n", "D/", "D/iles", "B/onitos", "mart/a", "selin/a", "saB/rosa", "si/ek", "si/n", "GuaGu/a",
-    "B/eB", "D/onde", "Ba/k", "ka/Reras", "artur/o", "teres/o", "alfons/o", "ernest/o",  "saB/roso", "si/no", "si/o",
+    "B/eB", "D/onde", "Ba/k", "ka/Reras", "artur/o", "teres/o", "alfons/o", "ernest/o",  "saB/roso", "si/no", "si/o", "ka/ce/te",
     "D/#s", "B/iBi", "B/ern", "D/anae", "Ba/xo", "Ba/mosa", "ka/ri|/it/o", "ka/rl/it/o/s", "ka/rne", "pa/s", "maurici/o", "mi/ua", "mi/au",
     "as/ukarera", "ka/mina", "B/eti", "b/$n3", "alexandr/o", "s/e", "s/ul*", "mar/ia", "e/n", "s/o", "s/oi", "s/on",
     "b/um", "D/emas", "ka/ri", "ka/ri|itos", "B/$lta", "D/eDo", "ka/laBas/it/a", "B/-/l/a", "pi/c", "pi/e", "pi/k", "pi/n", "pi/o",
     "ka/rit", "B/oka", "B/um", "B/", "D/eDos", "Bl/oke", "D/ar@", "mari/a", "B/$l/it/a", "miGelit/o", "Dan/ae", "jam/ania",
     "b/erDaD", "D/eDitos", "B/en", "ka/Bajo", "b/eBe", "tom/ate", "B#n/do", "D/an#/l/a", "ka/rlitos", "Dari/o", "paul/a", 
-    "b/eso", "D/el", "ka/mara", "met/a", "tap/itit/it/a", "B/in#ron", "B/#n", "B/en/te", "l/*n", "ka/mpanita",
+    "b/eso", "D/el", "ka/mara", "tap/itit/it/a", "B/in#ron", "B/#n", "B/en/te", "l/*n", "ka/mpanita",
     "ka/Ritu", "ka/jo", "B/#ne", "ka/e", "ka/Ru", "Ba/monos", "as/i", "B/ols/it/a", "Ba/k/it/a", "e/s", "Don/de", "D/ientes",
     "B/#n", "D/exo", "Ba/kit+", "d/anae", "aB/er", "B/onit-", "B/onit+", "B/on/it/a", "ramons/it/o", "ale/iD/a", "aleiD/a",
     "B/olsa", "ka/sa", "B/$no", "as/ta", "b/eBa", "D/ea", "B/eBe", "B/on/it/o", "B/on/it/a/s", "e/l", "Bist/e", "don/de",

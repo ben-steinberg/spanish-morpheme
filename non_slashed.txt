@@ -2,6 +2,7 @@
 BeBe
 Ben
 Bente
+BerDaD
 Bern
 Bes
 Beti
@@ -53,6 +54,7 @@ ana
 anaBel
 anita
 aoj
+aora
 ar
 arBol
 aron
@@ -120,14 +122,13 @@ ixole
 izRael
 ja
 jamania
-jantas
 ji
 jiji
 jo
 jolis
 ka
 kaBe
-kaReras
+kacete
 kae
 kamara
 kamion
@@ -143,10 +144,8 @@ ki
 kien
 kienes
 kies
-kietos
 klauDia
 koce
-koces
 komo
 kon
 kua
@@ -176,7 +175,6 @@ mauricio
 mazuel
 me
 mendes
-meta
 mexor
 mi
 miGelin
@@ -216,6 +214,7 @@ pastel
 pau
 paula
 paulina
+peDrito
 peDro
 pepe
 per
@@ -254,6 +253,7 @@ selia
 selina
 se|or
 si
+siNko
 siete
 sin
 soi
