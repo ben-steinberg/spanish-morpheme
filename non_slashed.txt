@@ -23,7 +23,6 @@ Dario
 De
 Demas
 Di
-Dientes
 Dies
 Donde
 Dos
@@ -43,21 +42,24 @@ aji
 ajian
 aka
 aki
+al
+aleGas
 aleiDa
+alexandro
+alfonso
 am
 ambre
-ame
 amor
 an
+anDale
 ana
 anaBel
 anita
 aoj
 aora
-ar
 arBol
+ara
 aron
-arte
 arturo
 asi
 asukar
@@ -70,6 +72,7 @@ baBa
 ben
 bente
 bes
+beto
 bien
 bienes
 braBo
@@ -94,6 +97,7 @@ en
 enRike
 ense
 entonses
+epale
 eres
 ernesto
 es
@@ -130,7 +134,6 @@ kaBe
 kacete
 kae
 kamion
-kantas
 karen
 karne
 kati
@@ -148,8 +151,10 @@ komo
 kon
 kua
 kuakuakua
+kual
 kuatro
 kum
+laralara
 lece
 limon
 lis
@@ -183,6 +188,7 @@ mu
 mue
 mui
 mxua
+na
 naris
 nenene
 ni
@@ -196,6 +202,7 @@ oco
 oi
 ola
 ombre
+orale
 paDre
 pam
 pan
@@ -220,7 +227,6 @@ pin
 pio
 piopiopio
 pipi
-platisamelos
 poBre
 poiN
 pon
@@ -237,6 +243,7 @@ ru
 ruBen
 run
 runrun
+sal
 sanduic
 sari
 se
@@ -251,7 +258,6 @@ sin
 soi
 son
 su
-sue
 sulei
 suleima
 suli
@@ -264,6 +270,7 @@ tataRatata
 te
 ten
 tere
+teresita
 ti
 toRe
 tres
@@ -278,6 +285,7 @@ ueN
 ui
 um
 un
+upa
 xa
 xitomate
 xorxe
