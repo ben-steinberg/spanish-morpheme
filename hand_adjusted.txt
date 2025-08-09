@@ -210,7 +210,7 @@ un peRo
 esta suaB/es/it/o
 mira BeBe mira la kas/it/a
 mira un paxarito
-i e Barko el osito
+i el Barko el osito
 ben BeBe Ben
 a Ber
 mira
@@ -922,7 +922,7 @@ no kieres xuGar e
 ora sientate
 mira mira a marta mira
 aji Biene marta aBlale
-tsi  si  si  si
+tsi si si si
 kajate
 mira te aBla marta mira
 te aBla marta te aBla marta te aBla marta
@@ -1133,7 +1133,7 @@ ai suBanse
 ai a Ber Bamos a poner al
 pum
 mu
-ueN ueN ueN mirat la  la  la
+ueN ueN ueN mirat la la la
 a Ber aki esta
 el papa aDios papa
 aDios peDro
@@ -1275,9 +1275,9 @@ ai para la nena mira la nena
 dale a la nena mi amor eso mui Bien la nena andale
 poBre nena ja la Dexaste sin kuna
 fuci
-i e koce
+i el koce
 run
-i e otro mira run
+i el otro mira run
 traete el otro peDro
 traitelo asi mira
 eso mui Bien
@@ -1833,7 +1833,7 @@ prestame este entonses
 donde estan los ox/o/s De/l caNgo
 ense|ame los ox/o/s
 dale a/l caNgo Dale limon
-ola fani aBia ai me komo su kacete
+ola fani aBia ai me kom/o su kacete
 dale Dale a el
 tataRatata
 te kome el caNgo
@@ -1926,7 +1926,7 @@ entonses me Boi a komer esta mansana mira am ke rika mansana
 mansana kieres un peDasito De mansana si
 o se la Damos a/l peRo o a/l Gato ke a Ber a kien le Das la
 al peRo o a/l Gato o te te la komes
-kometela kometela  ke rika BerDaD
+kometela kometela ke rika BerDaD
  ke saBrosa mansana
 esta rika si
 mira aora un xitomate o mandarina
@@ -1996,7 +1996,7 @@ bamos a Ber ke ai aji
 i ai ke paDre ke es eso
 mira una Baka mu mu una Baka
 a Ber Dale la Buelta mariana Dale la Buelta eso mui Bien mariana
-i mira una flor  ai ke riko uele  kieres olerla a
+i mira una flor ai ke riko uele kieres olerla a
 i mira ke Bonito ke es este ke es esto mariana ke es esto
 ke es esto mariana ke es esto
 ai i ke
@@ -3384,7 +3384,7 @@ donde esta tu mama
 donde esta tu mama
 tu pelota
 ola
-beBe  
+beBe 
 guau Guau guau Guau Guau
 otra Bes
 es un oso
@@ -3461,7 +3461,7 @@ a Ber aGua
 aora te
 ke kieres kieres aGua
 ten tomate tu aGua
-aGua  ke rika BerDaD
+aGua ke rika BerDaD
 ke rika
 a Ber
 una tortija
@@ -4045,18 +4045,18 @@ esta esta
 si
 toma
 a Ber ke ases
-estas toDo
-mue ui se sal/io
+estas guarDando toDo
+ui se sal/io
 ja no ai naDa
-si o no si o no
-u i ke
-u i kien es
-u i
+si o no
+ui ke
+ui kien es
+ui
 mira
-u i me tiraste mis kosas
+ui me tiraste mis kosas
 a Ber jo Boi a aser una toRe
 a Ber
-u i ai
+ui ai
 mi
 ai se me kajo la toRe
 ai me mi toRe
@@ -4092,7 +4092,7 @@ dame lece en una tasa kon
 para mama Dale
 si te
 te komo ecamos si i le Damos
-si i aora mama se toma el  tu kieres
+si i aora mama se toma el tu kieres
 kiere
 a Ber le Bamos a ecar lece esperate mas lece
 le lece i le lece i le ecamos
@@ -4123,8 +4123,8 @@ aki esta De ti mira
 aki esta el el xitomate
 el xitomate
 entonses poNgo el el plato el pan le ponemos
-si i le poNgo keso le poNgo el keso i le keso i le poNgo xitomate
-i aora me lo komo  ke riko sanduic
+si i le poNgo keso le poNgo el keso i le poNgo xitomate
+i aora me lo komo ke riko sanduic
 te kieres sanduic kieres una
 una De sanduic
 komo Dises 
@@ -4168,7 +4168,7 @@ a Ber ui
 ui mira un pojito
 a Ber aki ai el aGua
 i mira ke ai aki ui el Gatito
-u i mira kieres Ber los liBros
+ui mira kieres Ber los liBros
 a Ber Bamos a Ber mira
 ke estan asiendo
 estan xuGando a la rezBalaDija
@@ -4268,11 +4268,11 @@ si un Gato sal/io
 mariana Bamos a a/l primero Bamos a a/l BeBe
 esto es una
 ke Bamos a kien en la
-dormimos a/l BeBe aorita le Bamos a aGua primero ai ke
+dormimos a/l BeBe aorita le Bamos a traer aGua primero ai ke
 por ke no a/l BeBe
 en su mira ke
 el BeBe
-aGua a la mamila a Ber Bamos a aGua en esta xaRita i le xaRita i le
+aGua a la mamila a Ber Bamos a traer aGua en esta xaRita i le ecamos a la mamila e
 a Ber
 ke Ba a aser kon el aGua
 a su BeBe
@@ -4317,7 +4317,7 @@ me Das
 pues
 komo estan
 si
-aora ja Bamos a tu aGaRa tu tasita i tu tasita i tu plato
+aora ja Bamos a tu aGaRa tu tasita i tu plato
 ke estas tomando
 toma
 la Bolsita
@@ -4358,7 +4358,7 @@ por/ke me tiraste mi toRe
 ja me tiraste mi toRe mira naDa mas
 ke paso
 ke aGo
-se kajo la toRe i Bamos toRe i Bamos a aser otra BerDaD
+se kajo la toRe i Bamos a aser otra BerDaD
 si Bamos a aser una mui Grande
 aora ke Bas a aser
 ja
@@ -4425,7 +4425,7 @@ tu lece o es la lece De/l BeBe Dale la lece a/l BeBe
 toma BeBe tomate tu lece
 ja se la akaBo
 komo estaBa la lece
-i e komo esta
+ie  komo esta
 ja lo a Ber
  Donde Bas a poner la lece
 i este ke es
@@ -4772,7 +4772,7 @@ a Ber
 a la kas/it/a
 mira esta la mama
 el BeBe
-i e papa
+ie  papa
 papa
 no es el papa
 no es el papa
@@ -4788,8 +4788,8 @@ kien es eja
 kien es
 i e
 el nene
-i e 
-i e 
+ie  
+ie  
 mira mira
 a Ber a la kas/it/a
 a la kas/it/a metelos a la kas/it/a
@@ -4865,7 +4865,7 @@ eso
 esto ke es
 ke es esto tan ke es
 ke es esto 
-un ke se Ba ai  a su kasa
+un ke se Ba ai a su kasa
 ai metelo a Dormir
 aki mexor las i lo aki
 ai ke es eso komo a Ber
@@ -4875,7 +4875,7 @@ ai
 es ke aki a/Baxo se las Bakas la Baka
 la puerta para ke la
 ai komo ase la Baka
-i e kaBajo Donde Ba en la kas/it/a De aRiBa
+ie  kaBajo Donde Ba en la kas/it/a De aRiBa
 ponlo
 eso
 aora las las De aRiBa las De
@@ -4918,7 +4918,7 @@ dame un peDasito
 ai
 ecalo aki e la Bolsa
 ponlo a/Dentro Grasias
-i e Donde esta el
+ie  Donde esta el
 este no
 ai ke Guapo
 aki Bamos a ponerlos aRiBa De/l kamion
@@ -4942,19 +4942,19 @@ uno
 ten te ponlo
 eso
 ke ja se Ba el kamion ja se Ba el kamion
-ba ai  a la kasa o a Donde a Donde Ba el kamion
+ba ai a la kasa o a Donde a Donde Ba el kamion
 ai ja el kamion ja el kamion
 ola
 me aRiBa
 ja estoi aRiBa
-i e BeBe
+ie  BeBe
 a/l kamion i jo i jo i jo i jo i jo jo i jo
 falta la mama
 aRiBa
 ja se Ban
 a Donde se Ban
 a/l koce pasear
-se Ban ai  a la kas/it/a
+se Ban ai a la kas/it/a
 se Ban a pasear
 mira ja B/iste
 ai
@@ -5043,7 +5043,7 @@ aBre aora mas lece
 aora tapalo tapalo
 mas
 aora
-a Ber le Boi ai  a ecar jo le te xueGa kon mama
+a Ber le Boi ai a ecar jo le te xueGa kon mama
 ke es esto a Ber ai
 un pojito aki un Gatito miau miau miau aki un
 sieRalo sieRalo
@@ -5328,7 +5328,7 @@ duermelo
 ja se
 no
 azle asi
-a Ber Bamos a poner aki a BeBe
+a Ber Bamos a poner aki al BeBe
 asi ja lo Dormimos
 bamos a poner
 a poBresito ponlo en su kuna
@@ -5371,10 +5371,10 @@ kon esta
 si
 kon un peine
 oJe Be a Ber ke mas ai aja mira
-se Ba ai  De paseo
+se Ba ai De paseo
 ke mas
 ke en su Bolsa
-a Donde se Ba ai  De paseo
+a Donde se Ba ai De paseo
 oJe GuarDamos esto para ke te ense|e otras kosas
 ola
 ola
@@ -5421,7 +5421,7 @@ un Gua Gua i este
 aora te a Ber te aki
 aki mira
 komo se jama este e
-se Ba ai  el pojo el konexo el Gato i el peRo
+se Ba ai el pojo el konexo el Gato i el peRo
 de aki
 de ese
 konexo
@@ -5454,7 +5454,7 @@ i este
 ke es esta ke es
 si esta riko
 bamos a komer ke
-jo me komo la el limon jo me komo el limon sal/e
+jo me kom/o la el limon jo me kom/o el limon sal/e
 i te te komes las uBas
 pero es De estamos xuGando
 pero De la Boka mexor
@@ -5585,7 +5585,7 @@ mira toDo lo ke tenemos aki los ke te Gustan
 ke Bonito
 grasias
 mira ixa
-aki tenemos mi amor no Bas ai  a otro laDo
+aki tenemos mi amor no Bas ai a otro laDo
 a Ber te ke ases kon tus en la kasa
 ke pasa
 kieres Ber otros xuGetes
@@ -5652,7 +5652,7 @@ las uBas ixa Donde
 a Ber Donde las uBas mi amor
 no no ai uBas
 i esta ke son
-ai se te Ba ai  toDa oJe a Ber ke ja ke
+ai se te Ba ai toDa oJe a Ber ke ja ke
 mira
 kual la la uBa
 ja B/iste ke ai aki
@@ -5705,9 +5705,9 @@ kieres la Baka
 jo xueGo kon este entonses
 ola Bak/it/a
 komo estas Bak/it/a
-me ases un kari
-ai me asiendo kari
-oJe Bak/it/a me ke jo te un kari
+me ases un kari|ito
+ai me asiendo kari|ito
+oJe Bak/it/a me ke jo te un kari|ito
 ai un kari a la karia la Bak/it/a
 ai Bak/it/a no aBia Bisto tus kuern/o/s
 tus
@@ -5839,11 +5839,11 @@ oJe kieres ke te ense|e otros xuGetes
 guarDamos est/o/s
 si los GuarDamos
 los GuarDamos aja
-mui un
-i un esta aReGlandu  ni|o
+mui un kamionsito
+i un esta aReGlando un ni|o
 ola
 ola
-un kari a este karia este ni|o un kari
+un kari|ito a este ni|o un kari|ito
 a me kiere
 a mu
 mu
@@ -5859,7 +5859,7 @@ jo Boi a komer
 ai ke rika me la komo
 ia ji ke ai unos DeDos
 unos DeDos De kien son est/o/s DeDos
-mientras a mi me la jo aGo kari a est/o/s karia est/o/s
+mientras a mi me martijan la kabesa jo aGo un kari|ito a est/o/s DeDos
 kieres uno
 kieres uno
 a Ber tu kieres
@@ -6771,7 +6771,7 @@ ese
 kien se lo Ba a komer te lo komes te
 te lo komes ese
 a Ber kometelo
-a Ber jo me komo este i te este i te te komes este kometelo
+a Ber jo me kom/o este i te este i te te komes este kometelo
 no
 kual kieres
 mira Duermelo Bamos a Dormir a la nena
@@ -7199,7 +7199,7 @@ alexandro
 a aki esta mama
 si aji esta mama
 ia ka kien esta aka
-se Ban ai  a pasear
+se Ban ai a pasear
 ke Guapo
 mira los nenes
 bamos a De komer a los nenes mira
@@ -7715,7 +7715,7 @@ ke paso
 aja aja kon mama a xuGar
 mira
 mira
-me komo las papas jo
+me kom/o las papas jo
 se kome tu mama las papas si
 mira
 ke kieres mira
@@ -7751,12 +7751,12 @@ ke estas Dando De komer
 si
 aGua aGua aGuita aGuita
 oJe el papa se tiene ke i a
-a Donde Ba ai  a el papa
+a Donde Ba ai a el papa
 a Ber ke se Baja en su kamion el papa a
 te no kieres De komer
 ke kieres De komer
 e
-a Ber  
+a Ber 
 te Gusta
 ke es
 ke le estas Dando De komer a la mama
@@ -7821,7 +7821,7 @@ si
 i e pojo
 aja esta BerDaD
 el pojo
-i e Gato
+ie  Gato
 el Gato
 donde esta el Gato
 mira aki

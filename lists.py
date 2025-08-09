@@ -2,8 +2,8 @@ from methods import change_diphthongs
 
 regular_verb_list = [
     'Dar', 'dar', 'ecar', 'B-lar', 'armar', 'jeBar', 'jenar', 'jorar', 'BiBer', 'Diser', 'arer',
-    'kitar', 'aBlar', 'Blar', 'peGar', 'kumplir', 'BeBer', 'empuxar', 'Boltear', 'saBer',
-    'kojar', 'p*nar', 'parar', 'pasar', 'sakar', 'tamar', 'tokar', 'akomoDar', 'reir', 
+    'kitar', 'aBlar', 'Blar', 'peGar', 'kumplir', 'BeBer', 'empuxar', 'Boltear', 'saBer', 'orar',
+    'kojar', 'p*nar', 'parar', 'pasar', 'sakar', 'tamar', 'tokar', 'akomoDar', 'reir', 'martijar',
     'tomar', 'Bar', 'Dexar', 'romper', 'poNgar', 'star', 'Buskar', 'apr#tar', 'pr#tar', 'pomer', 
     'xalar', 'xuGar', 'G&rDar', 'Gustar', 'sentar', 'aGaRar', 'GaRar', 'eskucar', 'mueBer',
     'ajuDar', 'b-lar', 'B#ner', 'D$rmir', 'subir', 'suBir', 'esperar', 'oxear', 'seRar',
@@ -68,7 +68,7 @@ all_invalid = [
     "kom/o", "d/os", "b/es", "B/ak-", "B/aka", "Ba/n", "Ba/mos", "Ba/k/it/a", "B/aj/a", "D/eD/it/o", "son", "B/olsita", "ku/al",
     "B/akas", "B/akit+", "p/onsela", "p/onselo", "ka/Ros", "Ba/mo/nos", "B/e/a", "Dan#l/a", "marian/a", "pa/ra", "BiB/i", "ar/a",
     "an/ita", "Ba/k-", "Ba/ka", "Ba/kas", "j/anta/s", "j/eGe", "j/i", "j/iji", "Bl/aNk/a", "ka/m/it/a", "B/iste", "kati/a", "pa/u",
-    "ka/mpan/it/a", "ka/mpanit-", "ka/ntas", "Grand/e", "re/zBalaDija", "ki/en", "B/oi", "i/e", "no", "pa/n", "ka/ti", "ka/tia"
+    "ka/mpan/it/a", "ka/mpanit-", "ka/ntas", "Grand/e", "re/zBalaDija", "ki/en", "B/oi", "i/e", "no", "pa/n", "ka/ti", "ka/tia", "mar/ie"
 ]
 
 special_dip_cases = ['estoi', 'mui', 'pio', 'pie', 'miau', 'aGua', 'mio', 'oJei', 'soi', 

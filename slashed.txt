@@ -168,7 +168,6 @@ aGu/a
 aGu/it/a
 aGuarD/ar
 aReGl/ando
-aReGl/andu
 aReGl/ar
 aRiB/a
 aRuj/a
@@ -326,6 +325,7 @@ gorD/o
 grandot/a
 guarD/a
 guarD/amos
+guarD/ando
 iDe/a
 interes/a
 interes/o
@@ -354,10 +354,12 @@ jen/ar
 jor/ando
 jor/ar
 jor/es
+ka/besa
 ka/ca/l/a
 ka/e
 ka/er
 ka/es
+ka/mions/it/o
 kaBaj/o
 kaR/o
 kaR/o/s
@@ -474,8 +476,8 @@ mandarin/a
 mansan/a
 mansan/it/a
 mar/a
-mar/ie
 marian/it/a
+martij/an
 martij/o
 meDi/o
 mes/a
@@ -519,7 +521,8 @@ ni|/o/s
 oiG/a
 ol/er/l/a
 or/a
-ormiG/it/a
+or/a/le
+or/miG/it/a
 os/it/o
 os/o
 otr/a
@@ -753,6 +756,7 @@ tot/a
 tra/e/te
 tra/emos
 tra/en
+tra/er
 tra/iGo
 tra/xeron
 tra/ximos
