@@ -47,6 +47,7 @@ Bok/a
 Bols/a
 Bols/it/a
 Bolte/amos
+Bolte/ar
 Bonit/a
 Bonit/a/s
 Bonit/o
@@ -92,6 +93,7 @@ Dis/en
 Dis/es
 Dis/iendo
 Don/a
+Dorm/id/it/o
 Dorm/imos
 Dorm/ir
 Duerm/an
@@ -198,9 +200,9 @@ as/es
 as/ia
 as/ian
 as/iendo
+as/me
 as/te
 aserk/a/te
-ast/a
 asukar/er/a
 ator/aste
 atr/a/s
@@ -329,7 +331,6 @@ guarD/ando
 iDe/a
 interes/a
 interes/o
-ir/a
 is/ieron
 is/o
 ix/a
@@ -337,7 +338,6 @@ ix/it/a
 ix/o
 jam/a
 jam/a/l/o
-jam/ai
 jam/an
 jam/as
 jam/o
@@ -359,7 +359,9 @@ ka/ca/l/a
 ka/e
 ka/er
 ka/es
+ka/mera
 ka/mions/it/o
+ka/rita
 kaBaj/o
 kaR/o
 kaR/o/s
@@ -480,9 +482,11 @@ marian/it/a
 martij/an
 martij/o
 meDi/o
+mentir/it/a/s
 mes/a
 met/a
 met/an
+met/e
 met/e/l/a/s
 met/e/l/o
 met/e/l/o/s
@@ -551,11 +555,13 @@ pas/a
 pas/a/me
 pas/ar
 pas/o
+pas/t/it/o
 pase/ar
 pase/o
 pat/i
 pat/it/o
 pat/o
+patan/o
 paxar/it/o
 peD/as/it/o
 peD/ir
@@ -632,6 +638,7 @@ prest/as
 prest/o
 primer/o
 prueBal/a
+pudier/a
 pueD/e
 pueD/es
 puert/a

@@ -65,8 +65,8 @@ all_invalid = [
     "ka/Ritu", "ka/jo", "B/#ne", "ka/e", "ka/Ru", "Ba/monos", "as/i", "B/ols/it/a", "Ba/k/it/a", "e/s", "Don/de", "D/ientes", "n/a",
     "B/#n", "D/exo", "Ba/kit+", "d/anae", "aB/er", "B/onit-", "B/onit+", "B/on/it/a", "ramons/it/o", "ale/iD/a", "aleiD/a", "teresit/a",
     "B/olsa", "ka/sa", "B/$no", "as/ta", "b/eBa", "D/ea", "B/eBe", "B/on/it/o", "B/on/it/a/s", "e/l", "Bist/e", "don/de", "teres/it/a",
-    "kom/o", "d/os", "b/es", "B/ak-", "B/aka", "Ba/n", "Ba/mos", "Ba/k/it/a", "B/aj/a", "D/eD/it/o", "son", "B/olsita", "ku/al",
-    "B/akas", "B/akit+", "p/onsela", "p/onselo", "ka/Ros", "Ba/mo/nos", "B/e/a", "Dan#l/a", "marian/a", "pa/ra", "BiB/i", "ar/a",
+    "kom/o", "d/os", "b/es", "B/ak-", "B/aka", "Ba/n", "Ba/mos", "Ba/k/it/a", "B/aj/a", "D/eD/it/o", "son", "B/olsita", "ku/al", "ir/a",
+    "B/akas", "B/akit+", "p/onsela", "p/onselo", "ka/Ros", "Ba/mo/nos", "B/e/a", "Dan#l/a", "marian/a", "pa/ra", "BiB/i", "ar/a", "ast/a",
     "an/ita", "Ba/k-", "Ba/ka", "Ba/kas", "j/anta/s", "j/eGe", "j/i", "j/iji", "Bl/aNk/a", "ka/m/it/a", "B/iste", "kati/a", "pa/u",
     "ka/mpan/it/a", "ka/mpanit-", "ka/ntas", "Grand/e", "re/zBalaDija", "ki/en", "B/oi", "i/e", "no", "pa/n", "ka/ti", "ka/tia", "mar/ie"
 ]

@@ -62,6 +62,7 @@ ara
 aron
 arturo
 asi
+asta
 asukar
 au
 auGauG
@@ -119,6 +120,7 @@ iBan
 ia
 ie
 ir
+ira
 itamar
 itos
 ixole
@@ -162,6 +164,7 @@ lueGo
 lusia
 maksuel
 mama
+manexes
 marcos
 mari
 mariBel
@@ -187,6 +190,7 @@ miriam
 miua
 mu
 mue
+mueves
 mui
 mxua
 na
@@ -236,7 +240,6 @@ pum
 pumpumpum
 pupupu
 purum
-ra
 ramonsito
 raton
 ru
