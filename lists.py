@@ -45,7 +45,7 @@ all_invalid = [
     "tam/ar", "Ba/mosa", "x/ita", "peD/ro", "B/is/te", "B/la/le", "B/iBe", "tra/B#so", "miGel/it/o", "mam/a", "gu/a", "gu/au", "seli/na", "peDrit/o",
     "b/$no", "b/aBa", "ka/R3", "D/aDos", "ka/ren", "b/#n", "B/axo", "mark/it/o/s", "mart/a", "s/$", "ar/te", "guaGu/a", "mxu/a", "tap/aDera",
     "b/ente", "Ba/rko", "Ba/rku", "ro/ko", "s/*s", "s/#/te", "par/aD/it/o", "b/onito", "s/%n", "ka/laBasita", "jamani/a", "klauDi/a", "bet/o",
-    "met/elo", "b/raBo", "D/$rmelo", "D/entro", "mir/%m", "B/ente", "an/it/a", "b/#nes", "s/%", "trai/Go", "ar/turo", "oc/o", "re/Ga/l/o",
+    "met/elo", "b/raBo", "D/$rmelo", "D/entro", "mir/%m", "B/ente", "an/it/a", "b/#nes", "s/%", "trai/Go", "ar/turo", "oc/o", "re/Ga/l/o", "l/e",
     "B/arko", "B/arku", "tra/Gona", "B/iBeron", "par/aD/it/o", "mi/r%m", "b/aler%", "aj/er", "n/o", "d/uer/me/l/a", "ol/a", "ramonsit/o",
     "B/arku", "D/os", "tom/", "b/en", "ka/xa", "b/u", "Ba/kas", "an/a", "an/it/a", "s/#", "s/!", "Bet/i", "Bet/o", "paulin/a", "siNk/o",
     "par/a", "ka/ju", "B/loke", "B/eBes", "mand/arina", "d/i/les", "d/i/le", "konex/it/o", "s/@", "i/r", "ka/mita", "peDr/it/o", "aor/a",

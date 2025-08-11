@@ -298,6 +298,7 @@ espex/o
 espos/a
 est/a
 est/a/l/a
+est/a/s
 est/aBa
 est/amos
 est/an
@@ -453,7 +454,6 @@ kumpl/io
 kun/a
 l/a
 l/a/s
-l/e
 l/o
 l/o/s
 laB/ar/l/o/s
@@ -467,8 +467,8 @@ lind/o
 list/o
 maGDalen/it/a
 mal/a
-mamas/it/a
-mamil/a
+mam/il/a
+mama/s/it/a
 man/it/a
 man/o
 mand/amos
@@ -553,9 +553,9 @@ pas/a
 pas/a/me
 pas/ar
 pas/o
-pas/tito
 pase/ar
 pase/o
+past/it/o
 pat/i
 pat/it/o
 pat/o
