@@ -197,7 +197,6 @@ as/er
 as/er/l/o
 as/er/le
 as/es
-as/ia
 as/ian
 as/iendo
 as/me
@@ -554,7 +553,7 @@ pas/a
 pas/a/me
 pas/ar
 pas/o
-pas/t/it/o
+pas/tito
 pase/ar
 pase/o
 pat/i
