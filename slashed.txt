@@ -370,7 +370,6 @@ kaj/o
 kalaBas/it/a
 kam/it/a
 kamar/a
-kamer/a
 kamin/a
 kampan/it/a
 kans/aste
@@ -559,7 +558,6 @@ past/it/o
 pat/i
 pat/it/o
 pat/o
-patan/o
 paxar/it/o
 peD/as/it/o
 peD/ir
@@ -636,7 +634,7 @@ prest/as
 prest/o
 primer/o
 prueBal/a
-pudier/a
+pud/iera
 pueD/e
 pueD/es
 puert/a
