@@ -359,9 +359,7 @@ ka/ca/l/a
 ka/e
 ka/er
 ka/es
-ka/mera
 ka/mions/it/o
-ka/rita
 kaBaj/o
 kaR/o
 kaR/o/s
@@ -372,6 +370,7 @@ kaj/o
 kalaBas/it/a
 kam/it/a
 kamar/a
+kamer/a
 kamin/a
 kampan/it/a
 kans/aste
